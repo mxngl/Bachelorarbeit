@@ -1,0 +1,498 @@
+[
+  {
+    "id": "r1",
+    "category": "remove",
+    "task": "Delete the door 'Innentuer-1'.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "1Oms875aH3Wg$9l65H2ZGw"
+      },
+      "note": "Öffnung und Beziehungen entfallen mit"
+    }
+  },
+  {
+    "id": "r2",
+    "category": "remove",
+    "task": "Remove the window 'EG-Fenster-5'.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "3BFcylCsX74PQAoRAe5fNv"
+      }
+    }
+  },
+  {
+    "id": "r3",
+    "category": "remove",
+    "task": "Delete the door that leads to the terrace.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "1M$gxUrX1Fiwe3P64ww7U5"
+      },
+      "note": "Zielname 'Terrassentuer' wird nur umschrieben"
+    }
+  },
+  {
+    "id": "r4",
+    "category": "remove",
+    "task": "Delete the wall 'Wand-Int-ERDG-3'.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "3jjW3rL656ex34Gws22EfM"
+      },
+      "note": "Kaskade: Innentuer-2 und Innentuer-3 entfallen mit"
+    }
+  },
+  {
+    "id": "r5",
+    "category": "remove",
+    "task": "Delete the exterior wall 'Wand-Ext-ERDG-3' together with the windows in it.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "25fsbPyk15VvuXI$yNKenK"
+      },
+      "note": "Kaskade: EG-Fenster-8 und EG-Fenster-9"
+    }
+  },
+  {
+    "id": "r6",
+    "category": "remove",
+    "task": "Delete the window in the upper floor that sits in the wall 'Wand-Ext-OG-3'.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "2ACmFFQhT1Ouf0x4YRUh9m"
+      },
+      "note": "Ziel ist OG-Fenster-1, Zugriff über den Wirt"
+    }
+  },
+  {
+    "id": "r7",
+    "category": "remove",
+    "task": "Delete the beam 'Unterzug-1'.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "3tCgZT92j6fw8fXgwCL3Jm"
+      }
+    }
+  },
+  {
+    "id": "r8",
+    "category": "remove",
+    "task": "Delete the spiral staircase.",
+    "expected": {
+      "outcome": "success",
+      "op": "delete_element",
+      "params": {
+        "guid": "38a9vdh9bF5Qg28GWyHhlr"
+      },
+      "note": "Zielname 'Wendeltreppe' (IfcStair)"
+    }
+  },
+  {
+    "id": "m1",
+    "category": "reposition",
+    "task": "Move the wall 'Wand-Int-ERDG-5' 0.5 m in positive X direction.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "1$wmdwWPjDYuku_ghVkynE",
+        "translation": [
+          0.5,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "m2",
+    "category": "reposition",
+    "task": "Raise the window 'EG-Fenster-1' by 0.1 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "1TAI4ouKX4Xx4lBDZIu5qM",
+        "translation": [
+          0,
+          0,
+          0.1
+        ]
+      },
+      "note": "Validator kann ablehnen (Fenster in Öffnung/Wand)"
+    }
+  },
+  {
+    "id": "m3",
+    "category": "reposition",
+    "task": "Move the beam 'Unterzug-1' 1 m in negative Y direction.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "3tCgZT92j6fw8fXgwCL3Jm",
+        "translation": [
+          0,
+          -1,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "m4",
+    "category": "reposition",
+    "task": "Move the wall 'Wand-Ext-OG-2' to the ground floor.",
+    "expected": {
+      "outcome": "success",
+      "op": "reassign_container",
+      "params": {
+        "guid": "25OWQvmXj5BPgyergP43tY",
+        "target_storey_guid": "2eyxpyOx95m90jmsXLOuR0"
+      }
+    }
+  },
+  {
+    "id": "m5",
+    "category": "reposition",
+    "task": "Move the slab 'Slab-033' to the ground floor.",
+    "expected": {
+      "outcome": "success",
+      "op": "reassign_container",
+      "params": {
+        "guid": "2RGlQk4xH47RHK93zcTzUL",
+        "target_storey_guid": "2eyxpyOx95m90jmsXLOuR0"
+      }
+    }
+  },
+  {
+    "id": "m6",
+    "category": "reposition",
+    "task": "Place the wall 'Wand-Int-ERDG-1' so that its origin is at x = 3.0 m, y = 2.0 m, z = 0.0 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "2ptk1k7qn8_Qk22vjh$0DE",
+        "target_location": [
+          3,
+          2,
+          0
+        ]
+      },
+      "note": "Bezug ist der Placement-Ursprung der Wand"
+    }
+  },
+  {
+    "id": "m7",
+    "category": "reposition",
+    "task": "Move the staircase 'Wendeltreppe' 1 m in positive X direction.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "38a9vdh9bF5Qg28GWyHhlr",
+        "translation": [
+          1,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "m8",
+    "category": "reposition",
+    "task": "Move the window 'EG-Fenster-9' down by 0.2 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "move_element",
+      "params": {
+        "guid": "2EQh_jhP1B_A_AMuSJc5E0",
+        "translation": [
+          0,
+          0,
+          -0.2
+        ]
+      },
+      "note": "Validator kann ablehnen (Brüstung)"
+    }
+  },
+  {
+    "id": "a1",
+    "category": "add",
+    "task": "Add a window to the wall 'Wand-Int-ERDG-4', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_hosted_element",
+      "params": {
+        "ifc_class": "IfcWindow",
+        "host_guid": "2XPyKWY018sA1ygZKgQPtU",
+        "offset": 1.0,
+        "width": 0.9,
+        "height": 1.0,
+        "sill_height": 0.9
+      },
+      "note": "Werte wie ops_demo.json"
+    }
+  },
+  {
+    "id": "a2",
+    "category": "add",
+    "task": "Add a door to the wall 'Wand-Int-ERDG-4', 2.5 m from the wall start, 0.9 m wide and 2.0 m high.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_hosted_element",
+      "params": {
+        "ifc_class": "IfcDoor",
+        "host_guid": "2XPyKWY018sA1ygZKgQPtU",
+        "offset": 2.5,
+        "width": 0.9,
+        "height": 2.0
+      }
+    }
+  },
+  {
+    "id": "a3",
+    "category": "add",
+    "task": "Add a window to the wall 'Wand-Int-ERDG-4', 3.0 m from the wall start, 1.2 m wide and 1.2 m high, with a sill height of 0.8 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_hosted_element",
+      "params": {
+        "ifc_class": "IfcWindow",
+        "host_guid": "2XPyKWY018sA1ygZKgQPtU",
+        "offset": 3.0,
+        "width": 1.2,
+        "height": 1.2,
+        "sill_height": 0.8
+      }
+    }
+  },
+  {
+    "id": "a4",
+    "category": "add",
+    "task": "Create a copy of the window 'EG-Fenster-1' shifted by 1.5 m in positive X direction.",
+    "expected": {
+      "outcome": "success",
+      "op": "clone_element",
+      "params": {
+        "source_guid": "1TAI4ouKX4Xx4lBDZIu5qM",
+        "translation": [
+          1.5,
+          0,
+          0
+        ]
+      },
+      "note": "Kopie landet evtl. außerhalb der Wand -> Validator"
+    }
+  },
+  {
+    "id": "a5",
+    "category": "add",
+    "task": "Create a copy of the wall 'Wand-Int-ERDG-1' shifted by 2.0 m in positive Y direction.",
+    "expected": {
+      "outcome": "success",
+      "op": "clone_element",
+      "params": {
+        "source_guid": "2ptk1k7qn8_Qk22vjh$0DE",
+        "translation": [
+          0,
+          2,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "id": "a6",
+    "category": "add",
+    "task": "On the ground floor, add a column at x = 2.0 m, y = 2.0 m with a cross section of 0.3 m by 0.3 m and a height of 2.7 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_element",
+      "params": {
+        "ifc_class": "IfcColumn",
+        "storey_guid": "2eyxpyOx95m90jmsXLOuR0",
+        "position": [
+          2,
+          2
+        ],
+        "width": 0.3,
+        "depth": 0.3,
+        "height": 2.7
+      },
+      "note": "Koordinaten nicht gegen das Modell geprüft"
+    },
+    "check_coords": true
+  },
+  {
+    "id": "a7",
+    "category": "add",
+    "task": "On the ground floor, add a wall from (1.0, 1.0) to (3.0, 1.0), 0.2 m thick and 2.7 m high.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_element",
+      "params": {
+        "ifc_class": "IfcWall",
+        "storey_guid": "2eyxpyOx95m90jmsXLOuR0",
+        "start": [
+          1,
+          1
+        ],
+        "end": [
+          3,
+          1
+        ],
+        "thickness": 0.2,
+        "height": 2.7
+      },
+      "note": "Koordinaten nicht gegen das Modell geprüft"
+    },
+    "check_coords": true
+  },
+  {
+    "id": "a8",
+    "category": "add",
+    "task": "On the ground floor, add a slab with the outline (0,0), (2,0), (2,2), (0,2) and a thickness of 0.2 m.",
+    "expected": {
+      "outcome": "success",
+      "op": "add_element",
+      "params": {
+        "ifc_class": "IfcSlab",
+        "storey_guid": "2eyxpyOx95m90jmsXLOuR0",
+        "outline": [
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "thickness": 0.2
+      },
+      "note": "Koordinaten nicht gegen das Modell geprüft"
+    },
+    "check_coords": true
+  },
+  {
+    "id": "x1",
+    "category": "abort",
+    "task": "Delete the railing.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "ambiguous",
+      "stage": "locator",
+      "note": "zwei unbenannte IfcRailing"
+    }
+  },
+  {
+    "id": "x2",
+    "category": "abort",
+    "task": "Delete the door 'Innentuer-7'.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "not_found",
+      "stage": "locator"
+    }
+  },
+  {
+    "id": "x3",
+    "category": "abort",
+    "task": "Delete the door.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "ambiguous",
+      "stage": "locator",
+      "note": "fünf Türen"
+    }
+  },
+  {
+    "id": "x4",
+    "category": "abort",
+    "task": "Change the material of the wall 'Wand-Ext-ERDG-1' to brick.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "out_of_scope",
+      "stage": "generator",
+      "note": "assign_material ist nicht im Vokabular"
+    }
+  },
+  {
+    "id": "x5",
+    "category": "abort",
+    "task": "Rotate the wall 'Wand-Int-ERDG-5' by 90 degrees.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "out_of_scope",
+      "stage": "generator",
+      "note": "rotate_element ist nicht im Vokabular"
+    }
+  },
+  {
+    "id": "x6",
+    "category": "abort",
+    "task": "Delete the ground floor.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "out_of_scope",
+      "stage": "generator",
+      "note": "Geschosse sind Scope-Grenze; Ablehnung durch den Executor zählt ebenfalls als nicht erfolgreich"
+    }
+  },
+  {
+    "id": "x7",
+    "category": "abort",
+    "task": "Add a window to the wall 'Wand-Int-ERDG-4'.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "insufficient_information",
+      "stage": "generator",
+      "note": "Position und Maße fehlen"
+    }
+  },
+  {
+    "id": "x8",
+    "category": "abort",
+    "task": "Move the wall 'Wand-Int-ERDG-5'.",
+    "expected": {
+      "outcome": "abort",
+      "abort_reason": "insufficient_information",
+      "stage": "generator",
+      "note": "Richtung und Betrag fehlen"
+    }
+  },
+  {
+    "id": "x9",
+    "category": "abort",
+    "task": "Delete the wall 'Wand-Int-ERDG-3', but only if nothing is installed in it.",
+    "expected": {
+      "outcome": "no_success",
+      "note": "cascade=strict würde abgelehnt (Innentuer-2 und -3); Ziel ist kein Erfolg"
+    }
+  }
+]
