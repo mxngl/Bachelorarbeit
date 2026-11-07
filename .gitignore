@@ -6,3 +6,4 @@ venv/
 .venv/
 *.jsonltest-models/
 ergebnis*.ifc
+test-models/
