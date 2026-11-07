@@ -1,0 +1,4 @@
+[
+  {"op": "add_hosted_element", "ifc_class": "IfcWindow", "host_guid": "2XPyKWY018sA1ygZKgQPtU", "offset": 4.12, "width": 0.9, "height": 1.0, "sill_height": 0.9},
+  {"op": "add_hosted_element", "ifc_class": "IfcWindow", "host_guid": "2XPyKWY018sA1ygZKgQPtU", "offset": 1.0, "width": 0.9, "height": 1.0, "sill_height": 0.9}
+]
