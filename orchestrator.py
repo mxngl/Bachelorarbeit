@@ -240,6 +240,12 @@ class Orchestrator:
         res = TaskResult(task=task, status="failed")
         prev = self.store.snapshot()                                   # Zustand vor der Aufgabe
         located = self.locator.locate(task, prev)
+        if isinstance(located, dict) and located.get("status") == "abort":      # Locator-Abbruch: getrennt protokolliert
+            res.rounds.append(RoundLog(0, stage_failed="locator", feedback=str(located.get("abort", ""))))
+            res.status, res.reason = "aborted", "Locator: " + str(located.get("abort", {}).get("reason", ""))
+            res.seconds = time.time() - t_task
+            self._log(res)
+            return res
         structural = sv.StructuralValidator(self.schema, prev)
         semantic = self._semantic()
         feedback: list[str] = []

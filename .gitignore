@@ -1,9 +1,9 @@
-logs/
+﻿logs/
 __pycache__/
 *.pyc
 .env
 venv/
 .venv/
-*.jsonltest-models/
+*.jsonl
 ergebnis*.ifc
 test-models/
