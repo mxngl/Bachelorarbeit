@@ -30,6 +30,8 @@ Getypte Einfachwerte (IfcLabel, IfcReal, ...) z. B. in IfcPropertySingleValue.No
 werden als Property gespeichert, der Typname daneben als <Attribut>_type — nötig,
 um beim Rückschreiben den richtigen IFC-Typ wieder zu erzeugen.
 
+KI-Hinweis: mit Unterstützung von Claude (Anthropic) erstellt, Dokumentation in Anhang F.
+
 Nutzung:
   pip install ifcopenshell neo4j
   python ifc2neo4j.py modell.ifc --dry-run                       # nur analysieren
