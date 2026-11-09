@@ -1,0 +1,493 @@
+[
+ {
+  "id": "r1",
+  "category": "remove",
+  "task": "Delete the door 'Drehflügel 1-flg - Stahlzarge:88.5 x 2.26:487449'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1jb8FOtKXAMxDAYOorL4Xy"
+   }
+  }
+ },
+ {
+  "id": "r2",
+  "category": "remove",
+  "task": "Remove the window 'Fenster 2-flg - mit Anschlag:2.01 x 1.01:919134'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "06gyUag89EaRv52$iIynJm"
+   }
+  }
+ },
+ {
+  "id": "r3",
+  "category": "remove",
+  "task": "Delete the semi-transparent ASSA ABLOY door.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "2A3bYrYLPCFfKR9IrprgvC"
+   },
+   "note": "Zielname 'ASSA_ABLOY_SemiTransparent_NonHosted:Semi Transparent non hosted:981400' (einzige Tür dieses Typs, ohne Wirt) wird nur umschrieben"
+  }
+ },
+ {
+  "id": "r4",
+  "category": "remove",
+  "task": "Delete the wall 'Basiswand:STB 15.0 - Sichtbeton:485092'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0cLJRmO1f1kfk3cDjAUoU8"
+   },
+   "note": "Kaskade: die Tür 'TU SF 2 - Lift Zentral:DL - 705 x 2100:986886' entfällt mit"
+  }
+ },
+ {
+  "id": "r5",
+  "category": "remove",
+  "task": "Delete the wall 'Basiswand:STB 30.0 - Sichtbeton 1:805669' together with the windows in it.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1B8zheoLv0avhNvrhkAR_h"
+   },
+   "note": "Kaskade: zwei Fenster (...:868037 und ...:868038, Namen sehr lang)"
+  }
+ },
+ {
+  "id": "r6",
+  "category": "remove",
+  "task": "Delete the window on storey 'Second Floor' that sits in the wall 'Basiswand:STB 30.0 - Sichtbeton 1:965423'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "01fbTcJgz1b8Z$wgfmHMhW"
+   },
+   "note": "Ziel ist ...:1004531 (sehr langer Name), Zugriff über den Wirt"
+  }
+ },
+ {
+  "id": "r7",
+  "category": "remove",
+  "task": "Delete the beam 'STB Unterzug:STB 25 x 50:834267'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0R76Kr7b527RRcrxka3bID"
+   }
+  }
+ },
+ {
+  "id": "r8",
+  "category": "remove",
+  "task": "Delete the staircase 'Ortbetontreppe:Treppe:840025'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0RgKgXPa5AqeGvHba2K_kC"
+   }
+  }
+ },
+ {
+  "id": "m1",
+  "category": "reposition",
+  "task": "Move the wall 'Basiswand:STB 15.0 - Sichtbeton:485089' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "0cLJRmO1f1kfk3cDjAUoUD",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "category": "reposition",
+  "task": "Raise the window 'Fenster 2-flg - mit Anschlag:2.01 x 1.01:919132' by 0.1 m.",
+  "expected": {
+   "outcome": "no_success",
+   "op": "move_element",
+   "params": {
+    "guid": "06gyUag89EaRv52$iIynJo",
+    "translation": [
+     0,
+     0,
+     0.1
+    ]
+   },
+   "note": "Beobachtung: Semantic–Geometric Validator lehnt das Verschieben von Füllungen (Fenster/Türen) in diesem Revit-Modell ab (G5 existing_changed an der IfcOpeningElement); Ursache nicht untersucht. Ziel ist kein Erfolg"
+  }
+ },
+ {
+  "id": "m3",
+  "category": "reposition",
+  "task": "Move the beam 'HEA Träger:HE 200 A Baustahl - S 235:1003240' 1 m in negative Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "2_X5uCZBD918DIdYW5awM3",
+    "translation": [
+     0,
+     -1,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "category": "reposition",
+  "task": "Move the wall 'Basiswand:STB 30.0 - Sichtbeton 1:811703' to storey 'Ground Floor'.",
+  "expected": {
+   "outcome": "success",
+   "op": "reassign_container",
+   "params": {
+    "guid": "1tiTc0GsT6r8z9SnpAsGxX",
+    "target_storey_guid": "13LV5dTeP3CAox54x56C1Z"
+   }
+  }
+ },
+ {
+  "id": "m5",
+  "category": "reposition",
+  "task": "Move the slab 'Geschossdecke:STB 20.0:474188' to storey 'Ground Floor'.",
+  "expected": {
+   "outcome": "success",
+   "op": "reassign_container",
+   "params": {
+    "guid": "23dLoV3ZvCqwKM5CMQ19wL",
+    "target_storey_guid": "13LV5dTeP3CAox54x56C1Z"
+   }
+  }
+ },
+ {
+  "id": "m6",
+  "category": "reposition",
+  "task": "Place the wall 'Basiswand:STB 15.0 - Sichtbeton:485090' so that its origin is at x = 5.0 m, y = 5.0 m, z = 0.0 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "0cLJRmO1f1kfk3cDjAUoUE",
+    "target_location": [
+     5,
+     5,
+     0
+    ]
+   },
+   "note": "Bezug ist der Placement-Ursprung der Wand"
+  }
+ },
+ {
+  "id": "m7",
+  "category": "reposition",
+  "task": "Move the staircase 'Ortbetontreppe:Treppe:840025' 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "0RgKgXPa5AqeGvHba2K_kC",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m8",
+  "category": "reposition",
+  "task": "Move the column 'STB Stütze - rechteckig:STB 25 x 25:826627' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "2drhJVS$v4gusbmFpcfsv8",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a1",
+  "category": "add",
+  "task": "Add a window to the wall 'Basiswand:STB 15.0 - Sichtbeton:485091', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+  "expected": {
+   "outcome": "no_success",
+   "op": "add_hosted_element",
+   "params": {
+    "ifc_class": "IfcWindow",
+    "host_guid": "0cLJRmO1f1kfk3cDjAUoUF",
+    "offset": 1.0,
+    "width": 0.9,
+    "height": 1.0,
+    "sill_height": 0.9
+   },
+   "note": "BaseQuantities.Length und IfcMaterialLayerSetUsage fehlen an allen 104 Wänden: Executor lehnt add_hosted_element mit missing_wall_dimensions ab. Ziel ist kein Erfolg"
+  }
+ },
+ {
+  "id": "a2",
+  "category": "add",
+  "task": "Create a copy of the column 'STB Stütze - rechteckig:STB 25 x 25:827505' shifted by 1.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "37Qxy19ij4uQvMV72J$MY0",
+    "translation": [
+     1.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a3",
+  "category": "add",
+  "task": "Create a copy of the beam 'STB Unterzug:STB 25 x 50:834267' shifted by 1.5 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "0R76Kr7b527RRcrxka3bID",
+    "translation": [
+     0,
+     1.5,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a4",
+  "category": "add",
+  "task": "Create a copy of the railing 'Geländer:Holzhandlauf:482769' shifted by 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "0x91Se489FYhy58yJ24bxT",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a5",
+  "category": "add",
+  "task": "Create a copy of the wall 'Basiswand:STB 15.0 - Sichtbeton:485089' shifted by 2.0 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "0cLJRmO1f1kfk3cDjAUoUD",
+    "translation": [
+     0,
+     2,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a6",
+  "category": "add",
+  "task": "On storey 'Ground Floor', add a column at x = 2.0 m, y = 2.0 m with a cross section of 0.3 m by 0.3 m and a height of 3.0 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcColumn",
+    "storey_guid": "13LV5dTeP3CAox54x56C1Z",
+    "position": [
+     2,
+     2
+    ],
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 3.0
+   },
+   "check_coords": true
+  }
+ },
+ {
+  "id": "a7",
+  "category": "add",
+  "task": "On storey 'Ground Floor', add a wall from (1.0, 1.0) to (3.0, 1.0), 0.2 m thick and 3.0 m high.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcWall",
+    "storey_guid": "13LV5dTeP3CAox54x56C1Z",
+    "start": [
+     1,
+     1
+    ],
+    "end": [
+     3,
+     1
+    ],
+    "thickness": 0.2,
+    "height": 3.0
+   },
+   "check_coords": true
+  }
+ },
+ {
+  "id": "a8",
+  "category": "add",
+  "task": "On storey 'Ground Floor', add a slab with the outline (0,0), (2,0), (2,2), (0,2) and a thickness of 0.2 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcSlab",
+    "storey_guid": "13LV5dTeP3CAox54x56C1Z",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      2,
+      0
+     ],
+     [
+      2,
+      2
+     ],
+     [
+      0,
+      2
+     ]
+    ],
+    "thickness": 0.2
+   },
+   "check_coords": true
+  }
+ },
+ {
+  "id": "x1",
+  "category": "abort",
+  "task": "Delete the railing.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "31 IfcRailing"
+  }
+ },
+ {
+  "id": "x2",
+  "category": "abort",
+  "task": "Delete the door 'Drehflügel 1-flg - Stahlzarge:88.5 x 2.26:999999'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "not_found",
+   "stage": "locator"
+  }
+ },
+ {
+  "id": "x3",
+  "category": "abort",
+  "task": "Delete the door.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "101 Türen"
+  }
+ },
+ {
+  "id": "x4",
+  "category": "abort",
+  "task": "Change the material of the wall 'Basiswand:STB 15.0 - Sichtbeton:485092' to brick.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "assign_material ist nicht im Vokabular"
+  }
+ },
+ {
+  "id": "x5",
+  "category": "abort",
+  "task": "Rotate the wall 'Basiswand:STB 15.0 - Sichtbeton:485089' by 90 degrees.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "rotate_element ist nicht im Vokabular"
+  }
+ },
+ {
+  "id": "x6",
+  "category": "abort",
+  "task": "Delete the storey 'Ground Floor'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "Geschosse sind Scope-Grenze; Ablehnung durch den Executor zählt ebenfalls als nicht erfolgreich"
+  }
+ },
+ {
+  "id": "x7",
+  "category": "abort",
+  "task": "Add a window to the wall 'Basiswand:STB 15.0 - Sichtbeton:485091'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "insufficient_information",
+   "stage": "generator",
+   "note": "Position und Maße fehlen"
+  }
+ },
+ {
+  "id": "x8",
+  "category": "abort",
+  "task": "Move the wall 'Basiswand:STB 15.0 - Sichtbeton:485089'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "insufficient_information",
+   "stage": "generator",
+   "note": "Richtung und Betrag fehlen"
+  }
+ },
+ {
+  "id": "x9",
+  "category": "abort",
+  "task": "Delete the wall 'Basiswand:STB 15.0 - Sichtbeton:485092', but only if nothing is installed in it.",
+  "expected": {
+   "outcome": "no_success",
+   "abort_reason": null,
+   "note": "cascade=strict würde abgelehnt (Tür ...:986886 steckt in der Wand); Ziel ist kein Erfolg"
+  }
+ }
+]
