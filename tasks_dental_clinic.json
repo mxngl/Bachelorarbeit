@@ -1,0 +1,247 @@
+[
+ {
+  "id": "r1",
+  "category": "remove",
+  "task": "Delete the door 'M_Single-Flush:0915 x 2134mm:0915 x 2134mm:234389'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "35QeWibpT4DfyH3NIf2oNE"
+   }
+  }
+ },
+ {
+  "id": "r2",
+  "category": "remove",
+  "task": "Remove the window 'M_Fixed:1735 x 1000mm:1735 x 1000mm:259285'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0otfaO0qPDAhynjJ6DmgWH"
+   }
+  }
+ },
+ {
+  "id": "r3",
+  "category": "remove",
+  "task": "Delete the door in the room 'GAS STORAGE' on storey 'First Floor'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0mxk1RW8H5mvX1dNnpRqy_"
+   },
+   "note": "Raeumliche Referenz, Ziel ist 'M_Double-Flush:1830 x 2134mm Exterior:1830 x 2134mm Exterior:252102' (einzige Tuer im Raum 1E15-A)"
+  }
+ },
+ {
+  "id": "r4",
+  "category": "remove",
+  "task": "Delete the wall 'Basic Wall:Exterior - Insul Panel on Mtl. Stud:140832'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "3LbNSBzHHBSuzhUUvuwBYQ"
+   },
+   "note": "Kaskade: 'M_Fixed:1735 x 1000mm:1735 x 1000mm:254526' entfaellt mit"
+  }
+ },
+ {
+  "id": "m1",
+  "category": "reposition",
+  "task": "Move the wall 'Basic Wall:Exterior - Insul Panel on Mtl. Stud:141634' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "3LbNSBzHHBSuzhUUvuwBVu",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "category": "reposition",
+  "task": "Move the counter top 'M_Counter Top:600mm Depth:600mm Depth:326252' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "3bkZ8t9ef5YvmFg77LMMHd",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "category": "reposition",
+  "task": "Move the wall 'Basic Wall:Exterior - Insul Panel on Mtl. Stud:145747' to storey 'First Floor'.",
+  "expected": {
+   "outcome": "success",
+   "op": "reassign_container",
+   "params": {
+    "guid": "3LbNSBzHHBSuzhUUvuwAVf",
+    "target_storey_guid": "3eM8WbY_59RR5TDWs3wwJP"
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "category": "reposition",
+  "task": "Place the fixture 'M_Grab Bars:8370-001300:8370-001300:430296' so that its origin is at x = -13.64 m, y = 48.617 m, z = 0.874 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "348KPNAQj6j9Mw1vBTeOz8",
+    "target_location": [
+     -13.64,
+     48.617,
+     0.874
+    ]
+   },
+   "note": "Bezug ist der Placement-Ursprung des Elements (Ausgangswert in x um 1 m verschoben)"
+  }
+ },
+ {
+  "id": "a1",
+  "category": "add",
+  "task": "Add a window to the wall 'Basic Wall:Exterior - Insul Panel on Mtl. Stud:141681', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+  "expected": {
+   "outcome": "no_success",
+   "op": "add_hosted_element",
+   "params": {
+    "ifc_class": "IfcWindow",
+    "host_guid": "3LbNSBzHHBSuzhUUvuwBVB",
+    "offset": 1.0,
+    "width": 0.9,
+    "height": 1.0,
+    "sill_height": 0.9
+   },
+   "note": "Erwartung (Pilotmodelle): BaseQuantities.Length/IfcMaterialLayerSetUsage fehlen an Revit-Waenden, Executor lehnt mit missing_wall_dimensions ab. Ziel ist kein Erfolg"
+  }
+ },
+ {
+  "id": "a2",
+  "category": "add",
+  "task": "Create a copy of the sink counter top 'M_Counter Top w Sink Hole:600mm Depth:600mm Depth:338411' shifted by 1.5 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "2npc3NmjfD5ww0inxb$IIx",
+    "translation": [
+     0,
+     1.5,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a3",
+  "category": "add",
+  "task": "Create a copy of the fixture 'M_Fire Extinguisher Cabinet:305 x 215 x 813mm:305 x 215 x 813mm:387916' shifted by 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "2d8HbdSu9Fr9Na0iagzMUE",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a4",
+  "category": "add",
+  "task": "On storey 'First Floor', add a slab with the outline (10,10), (12,10), (12,12), (10,12) and a thickness of 0.2 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcSlab",
+    "storey_guid": "3eM8WbY_59RR5TDWs3wwJP",
+    "outline": [
+     [
+      10,
+      10
+     ],
+     [
+      12,
+      10
+     ],
+     [
+      12,
+      12
+     ],
+     [
+      10,
+      12
+     ]
+    ],
+    "thickness": 0.2
+   },
+   "check_coords": true,
+   "note": "Position ausserhalb des Gebaeudeumrisses gewaehlt (Kollisionen vermeiden); Lage im Trockenlauf pruefen"
+  }
+ },
+ {
+  "id": "x1",
+  "category": "abort",
+  "task": "Delete the railing.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "9 IfcRailing"
+  }
+ },
+ {
+  "id": "x2",
+  "category": "abort",
+  "task": "Delete the door 'M_Single-Flush:0915 x 2134mm:0915 x 2134mm:999999'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "not_found",
+   "stage": "locator",
+   "note": "Name einer existierenden Tuer, Nummer bzw. ElementId durch einen nicht vorhandenen Wert ersetzt"
+  }
+ },
+ {
+  "id": "x3",
+  "category": "abort",
+  "task": "Rotate the wall 'Basic Wall:Exterior - Insul Panel on Mtl. Stud:141807' by 90 degrees.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "rotate_element ist nicht im Vokabular"
+  }
+ },
+ {
+  "id": "x4",
+  "category": "abort",
+  "task": "Delete the door 'M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:346969'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "2 Tueren tragen diesen Namen"
+  }
+ }
+]

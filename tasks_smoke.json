@@ -1,0 +1,61 @@
+[
+ {
+  "id": "r1",
+  "category": "remove",
+  "task": "Delete the door 'Innentuer-1'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1Oms875aH3Wg$9l65H2ZGw"
+   },
+   "note": "Öffnung und Beziehungen entfallen mit"
+  }
+ },
+ {
+  "id": "m1",
+  "category": "reposition",
+  "task": "Move the wall 'Wand-Int-ERDG-5' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "1$wmdwWPjDYuku_ghVkynE",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a1",
+  "category": "add",
+  "task": "Add a window to the wall 'Wand-Int-ERDG-4', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_hosted_element",
+   "params": {
+    "ifc_class": "IfcWindow",
+    "host_guid": "2XPyKWY018sA1ygZKgQPtU",
+    "offset": 1.0,
+    "width": 0.9,
+    "height": 1.0,
+    "sill_height": 0.9
+   },
+   "note": "Werte wie ops_demo.json"
+  }
+ },
+ {
+  "id": "x1",
+  "category": "abort",
+  "task": "Delete the railing.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "zwei unbenannte IfcRailing"
+  }
+ }
+]

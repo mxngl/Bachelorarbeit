@@ -1,0 +1,66 @@
+
+==== test-models/duplex.ifc [IFC2X3] -> ./kandidaten_duplex.csv
+Klasse                     n   Raum  bbox  Name=1  Raum=1 Raum+Typ=1
+IfcWall                   57     49    10      57       6          6
+IfcDoor                   14     14     0      14       8         14
+IfcWindow                 24     22     0      24       0         11
+IfcFurnishingElement      61     61    61      61       3         13
+IfcBeam                    8      0     0       8       0          0
+IfcSlab                   21     19     1      21      13         13
+IfcStair                   2      0     0       2       0          0
+IfcRailing                 4      3     3       4       1          1
+IfcCovering               13     13     0      13      11         11
+Beispielraeume (Geschoss, Raum, Langname -> Elemente):
+   ('Level 1', 'A103', 'Kitchen') {'IfcWall': 3, 'IfcFurnishingElement': 14, 'IfcSlab': 1, 'IfcCovering': 1}
+   ('Level 2', 'B203', 'Bedroom 2') {'IfcWall': 3, 'IfcDoor': 1, 'IfcWindow': 7, 'IfcFurnishingElement': 4, 'IfcSlab': 1, 'IfcCovering': 1}
+   ('Level 1', 'B103', 'Kitchen') {'IfcWall': 2, 'IfcFurnishingElement': 14, 'IfcSlab': 1}
+   ('Level 2', 'A202', 'Bedroom 1') {'IfcWall': 4, 'IfcDoor': 1, 'IfcWindow': 4, 'IfcFurnishingElement': 4, 'IfcSlab': 1, 'IfcCovering': 1}
+   ('Level 2', 'A203', 'Bedroom 2') {'IfcWall': 2, 'IfcWindow': 5, 'IfcFurnishingElement': 4, 'IfcSlab': 1, 'IfcCovering': 1}
+   ('Level 1', 'B102', 'Living Room') {'IfcWall': 2, 'IfcDoor': 1, 'IfcWindow': 2, 'IfcFurnishingElement': 5, 'IfcSlab': 1, 'IfcCovering': 1}
+   ('Level 2', 'B202', 'Bedroom 1') {'IfcWall': 1, 'IfcDoor': 1, 'IfcWindow': 2, 'IfcFurnishingElement': 4, 'IfcSlab': 2, 'IfcCovering': 1}
+   ('Level 1', 'A102', 'Living Room') {'IfcWall': 2, 'IfcDoor': 1, 'IfcWindow': 2, 'IfcFurnishingElement': 5}
+Raeume gesamt mit Geometrie: 21 | Langnamen, die bei mehreren Raeumen vorkommen: [('Bedroom 1', 2), ('Bathroom 1', 2), ('Living Room', 2), ('Bedroom 2', 2), ('Bathroom 2', 2), ('Kitchen', 2)]
+
+==== test-models/smiley_west.ifc [IFC4] -> ./kandidaten_smiley_west.csv
+Klasse                     n   Raum  bbox  Name=1  Raum=1 Raum+Typ=1
+IfcWall                  281    267     0     137      28        105
+IfcDoor                  170    170     0     106      24         25
+IfcWindow                 80     80     0      36      43         43
+IfcColumn                 20      0     0      20       0          0
+IfcBeam                   10      0     0      10       0          0
+IfcSlab                  120     50     0      62      30         30
+IfcStair                  30     30    30      30      22         22
+IfcRailing               120      0     0       0       0          0
+Beispielraeume (Geschoss, Raum, Langname -> Elemente):
+   ('2.OG', '1.3.4', 'FLUR-1-4') {'IfcWall': 8, 'IfcDoor': 6, 'IfcWindow': 2}
+   ('1.OG', '3.2.3', 'BAD / WC-3-1') {'IfcWall': 6, 'IfcDoor': 3, 'IfcWindow': 2, 'IfcStair': 2}
+   ('1.OG', '2.2.3', 'BAD / WC-2-1') {'IfcWall': 6, 'IfcDoor': 3, 'IfcWindow': 2, 'IfcStair': 2}
+   ('EG', '10.1.3', 'FLUR-10-2') {'IfcWall': 5, 'IfcDoor': 5, 'IfcStair': 2}
+   ('1.OG', '1.2.4', 'FLUR-1-3') {'IfcWall': 6, 'IfcDoor': 3, 'IfcWindow': 1, 'IfcStair': 2}
+   ('1.OG', '1.2.2', 'ZIMMER-1-2') {'IfcWall': 8, 'IfcDoor': 4}
+   ('1.OG', '5.2.2', 'ZIMMER-5-2') {'IfcWall': 8, 'IfcDoor': 4}
+   ('2.OG', '5.3.2', 'ZIMMER-5-4') {'IfcWall': 8, 'IfcDoor': 4}
+Raeume gesamt mit Geometrie: 140 | Langnamen, die bei mehreren Raeumen vorkommen: [('BAD / WC-1-1', 2), ('BAD / WC-2-1', 2), ('BAD / WC-3-1', 2), ('BAD / WC-5-1', 2), ('BAD / WC-4-1', 2)]
+
+==== test-models/dental_clinic.ifc [IFC2X3] -> ./kandidaten_dental_clinic.csv
+Klasse                     n   Raum  bbox  Name=1  Raum=1 Raum+Typ=1
+IfcWall                 1080   1063    90    1080      46         46
+IfcDoor                  254    252    16     244      83        103
+IfcWindow                 58     58     0      58       5          5
+IfcFurnishingElement     118    118   118     118      13         87
+IfcSlab                    3      0     0       3       0          0
+IfcStair                   3      0     0       3       0          0
+IfcRailing                 9      8     8       9       2          2
+IfcCovering              250      0     0     250       0          0
+IfcCurtainWall            31     13     0      31       4          4
+IfcFlowTerminal          102     88    88     102      15         76
+Beispielraeume (Geschoss, Raum, Langname -> Elemente):
+   ('First Floor', '1AC1', 'CENTRAL WAITING') {'IfcWall': 80, 'IfcDoor': 7, 'IfcWindow': 9, 'IfcCurtainWall': 1, 'IfcFlowTerminal': 1}
+   ('First Floor', '1DC1', 'WAITING / ACTIVITY AREA') {'IfcWall': 55, 'IfcDoor': 14}
+   ('Second Floor', '2R02', 'ROOF') {'IfcWall': 6, 'IfcDoor': 1, 'IfcWindow': 18, 'IfcFlowTerminal': 2}
+   ('Second Floor', '2D05', 'MAIN MECHANICAL ROOM') {'IfcWall': 26, 'IfcFlowTerminal': 1}
+   ('Roof - Main', '3R01', 'ROOF') {'IfcWall': 19, 'IfcCurtainWall': 7}
+   ('Second Floor', '2C17', 'PROSTH. LAB') {'IfcWall': 6, 'IfcDoor': 1, 'IfcFurnishingElement': 19}
+   ('First Floor', '1CC3', 'CORRIDOR') {'IfcWall': 15, 'IfcDoor': 5, 'IfcFlowTerminal': 2}
+   ('First Floor', '1DC3', 'CORRIDOR') {'IfcWall': 9, 'IfcDoor': 9, 'IfcFlowTerminal': 3}
+Raeume gesamt mit Geometrie: 269 | Langnamen, die bei mehreren Raeumen vorkommen: [('CORRIDOR', 40), ('INTERACTION STATION', 12), ('JAN. CL.', 8), ('STAIR', 6), ('ROOF', 6), ('TOILET', 5)]

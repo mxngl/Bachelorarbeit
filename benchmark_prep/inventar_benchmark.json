@@ -1,0 +1,1604 @@
+[
+ {
+  "datei": "test-models/duplex.ifc",
+  "schema": "IFC2X3",
+  "elemente_gesamt": 268,
+  "mit_globalid": 268,
+  "klassen": {
+   "IfcFurnishingElement": 61,
+   "IfcWallStandardCase": 56,
+   "IfcOpeningElement": 50,
+   "IfcWindow": 24,
+   "IfcSlab": 21,
+   "IfcSpace": 21,
+   "IfcDoor": 14,
+   "IfcCovering": 13,
+   "IfcBeam": 8,
+   "IfcFooting": 7,
+   "IfcMember": 4,
+   "IfcRailing": 4,
+   "IfcStair": 2,
+   "IfcStairFlight": 2,
+   "IfcRoof": 1,
+   "IfcWall": 1
+  },
+  "geschosse": [
+   {
+    "name": "Level 2",
+    "elevation": 3.100000000000378,
+    "elemente": {
+     "IfcWallStandardCase": 24,
+     "IfcOpeningElement": 24,
+     "IfcWindow": 18,
+     "IfcSlab": 10,
+     "IfcCovering": 8,
+     "IfcDoor": 8,
+     "IfcBeam": 4,
+     "IfcWall": 1
+    },
+    "raeume": 10
+   },
+   {
+    "name": "Roof",
+    "elevation": 6.00000000000039,
+    "elemente": {
+     "IfcWallStandardCase": 4,
+     "IfcOpeningElement": 4,
+     "IfcWindow": 2,
+     "IfcRoof": 1,
+     "IfcSlab": 1
+    },
+    "raeume": 1
+   },
+   {
+    "name": "Level 1",
+    "elevation": 0.0,
+    "elemente": {
+     "IfcWallStandardCase": 21,
+     "IfcOpeningElement": 12,
+     "IfcSlab": 10,
+     "IfcDoor": 6,
+     "IfcCovering": 5,
+     "IfcBeam": 4,
+     "IfcMember": 4,
+     "IfcRailing": 4
+    },
+    "raeume": 10
+   },
+   {
+    "name": "T/FDN",
+    "elevation": -1.25,
+    "elemente": {
+     "IfcFooting": 7,
+     "IfcWallStandardCase": 7
+    },
+    "raeume": 0
+   }
+  ],
+  "raeume": [
+   {
+    "name": "A203",
+    "long": "Bedroom 2"
+   },
+   {
+    "name": "B203",
+    "long": "Bedroom 2"
+   },
+   {
+    "name": "A201",
+    "long": "Hallway"
+   },
+   {
+    "name": "B101",
+    "long": "Foyer"
+   },
+   {
+    "name": "A101",
+    "long": "Foyer"
+   },
+   {
+    "name": "B201",
+    "long": "Hallway"
+   },
+   {
+    "name": "A202",
+    "long": "Bedroom 1"
+   },
+   {
+    "name": "B202",
+    "long": "Bedroom 1"
+   },
+   {
+    "name": "B102",
+    "long": "Living Room"
+   },
+   {
+    "name": "A204",
+    "long": "Bathroom 2"
+   },
+   {
+    "name": "A102",
+    "long": "Living Room"
+   },
+   {
+    "name": "B104",
+    "long": "Bathroom 1"
+   },
+   {
+    "name": "B103",
+    "long": "Kitchen"
+   },
+   {
+    "name": "A103",
+    "long": "Kitchen"
+   },
+   {
+    "name": "B204",
+    "long": "Bathroom 2"
+   },
+   {
+    "name": "A104",
+    "long": "Bathroom 1"
+   },
+   {
+    "name": "A205",
+    "long": "Utility"
+   },
+   {
+    "name": "A105",
+    "long": "Stair"
+   },
+   {
+    "name": "B105",
+    "long": "Room"
+   },
+   {
+    "name": "B205",
+    "long": "Utility"
+   },
+   {
+    "name": "R301",
+    "long": "Roof"
+   }
+  ],
+  "raeume_namen": {
+   "n": 21,
+   "ohne_name": 0,
+   "eindeutig": 21,
+   "doppelt": 0,
+   "haeufigste": [
+    [
+     "A203",
+     1
+    ],
+    [
+     "B203",
+     1
+    ],
+    [
+     "A201",
+     1
+    ],
+    [
+     "B101",
+     1
+    ]
+   ]
+  },
+  "namen": {
+   "IfcWall": {
+    "n": 57,
+    "ohne_name": 0,
+    "eindeutig": 57,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+      1
+     ],
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):144586",
+      1
+     ],
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):143921",
+      1
+     ],
+     [
+      "Basic Wall:Exterior - Brick on Block:143590",
+      1
+     ]
+    ]
+   },
+   "IfcDoor": {
+    "n": 14,
+    "ohne_name": 0,
+    "eindeutig": 14,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034",
+      1
+     ],
+     [
+      "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478",
+      1
+     ],
+     [
+      "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378",
+      1
+     ],
+     [
+      "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720",
+      1
+     ]
+    ]
+   },
+   "IfcWindow": {
+    "n": 24,
+    "ohne_name": 0,
+    "eindeutig": 24,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096",
+      1
+     ],
+     [
+      "M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318",
+      1
+     ],
+     [
+      "M_Fixed:819mm x 759mm:819mm x 759mm:149537",
+      1
+     ],
+     [
+      "M_Fixed:819mm x 759mm:819mm x 759mm:147994",
+      1
+     ]
+    ]
+   },
+   "IfcSlab": {
+    "n": 21,
+    "ohne_name": 0,
+    "eindeutig": 21,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Floor:Residential - Wood Joist with Subflooring:144872",
+      1
+     ],
+     [
+      "Floor:Residential - Wood Joist with Subflooring:144800",
+      1
+     ],
+     [
+      "Floor:127mm Slab on Grade:141232",
+      1
+     ],
+     [
+      "Floor:127mm Slab on Grade:143106",
+      1
+     ]
+    ]
+   },
+   "IfcStair": {
+    "n": 2,
+    "ohne_name": 0,
+    "eindeutig": 2,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Stair:Residential - 200mm Max Riser 250mm Tread:198878",
+      1
+     ],
+     [
+      "Stair:Residential - 200mm Max Riser 250mm Tread:151086",
+      1
+     ]
+    ]
+   }
+  },
+  "typen": [
+   {
+    "klasse": "IfcWall",
+    "typ": null,
+    "anzahl": 57
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": null,
+    "anzahl": 21
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "819mm x 759mm",
+    "anzahl": 12
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0864 x 2032mm",
+    "anzahl": 6
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0762 x 2032mm",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "2800mm x 2410mm",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "750mm x 2200mm",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0813 x 2420mm",
+    "anzahl": 2
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1250mm x 2010mm",
+    "anzahl": 2
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "4835mm x 2420mm",
+    "anzahl": 2
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "1180 x 1170mm",
+    "anzahl": 2
+   }
+  ],
+  "fuellungen": {
+   "gesamt": 38,
+   "mit_hostwand": 38,
+   "beispiele": [
+    {
+     "fuellung": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):203998"
+    },
+    {
+     "fuellung": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):144518"
+    },
+    {
+     "fuellung": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):143856"
+    },
+    {
+     "fuellung": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):203347"
+    },
+    {
+     "fuellung": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):139682"
+    },
+    {
+     "fuellung": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):143960"
+    },
+    {
+     "fuellung": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):139143"
+    },
+    {
+     "fuellung": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):144586"
+    }
+   ]
+  },
+  "waende": {
+   "gesamt": 57,
+   "mit_oeffnungen": 18,
+   "mit_ifcrelconnects": 57,
+   "mit_material": 57
+  },
+  "wand_darstellungen": [
+   {
+    "identifier": [
+     "Axis",
+     "Body"
+    ],
+    "anzahl": 57
+   }
+  ],
+  "geometrie_stichprobe": {
+   "IfcWall": {
+    "geprueft": 40,
+    "ok": 0,
+    "fehler": 40
+   },
+   "IfcSlab": {
+    "geprueft": 21,
+    "ok": 21,
+    "fehler": 0
+   },
+   "IfcDoor": {
+    "geprueft": 14,
+    "ok": 14,
+    "fehler": 0
+   },
+   "IfcWindow": {
+    "geprueft": 24,
+    "ok": 24,
+    "fehler": 0
+   },
+   "IfcSpace": {
+    "geprueft": 21,
+    "ok": 21,
+    "fehler": 0
+   }
+  },
+  "psets_waende_stichprobe": {
+   "PSet_Revit_Constraints": 50,
+   "PSet_Revit_Phasing": 50,
+   "Pset_WallCommon": 50,
+   "PSet_Revit_Other": 50,
+   "PSet_Revit_Dimensions": 50,
+   "PSet_Revit_Structural": 50,
+   "PSet_Revit_Type_Other": 50,
+   "PSet_Revit_Type_Identity Data": 50
+  },
+  "einheit_hinweis": [
+   "METRE"
+  ]
+ },
+ {
+  "datei": "test-models/smiley_west.ifc",
+  "schema": "IFC4",
+  "elemente_gesamt": 1125,
+  "mit_globalid": 1125,
+  "klassen": {
+   "IfcOpeningElement": 280,
+   "IfcWallStandardCase": 270,
+   "IfcDoor": 170,
+   "IfcSpace": 140,
+   "IfcRailing": 120,
+   "IfcSlab": 120,
+   "IfcWindow": 80,
+   "IfcStair": 30,
+   "IfcColumn": 20,
+   "IfcVirtualElement": 14,
+   "IfcWall": 11,
+   "IfcBeam": 10
+  },
+  "geschosse": [
+   {
+    "name": "KG",
+    "elevation": -2.81,
+    "elemente": {
+     "IfcWallStandardCase": 60,
+     "IfcOpeningElement": 40,
+     "IfcDoor": 20,
+     "IfcWindow": 20,
+     "IfcSlab": 10,
+     "IfcStair": 10
+    },
+    "raeume": 30
+   },
+   {
+    "name": "EG",
+    "elevation": -0.25,
+    "elemente": {
+     "IfcOpeningElement": 80,
+     "IfcWallStandardCase": 70,
+     "IfcDoor": 50,
+     "IfcSlab": 40,
+     "IfcColumn": 20,
+     "IfcWindow": 20,
+     "IfcWall": 11,
+     "IfcBeam": 10
+    },
+    "raeume": 30
+   },
+   {
+    "name": "1.OG",
+    "elevation": 2.53,
+    "elemente": {
+     "IfcOpeningElement": 80,
+     "IfcWallStandardCase": 70,
+     "IfcRailing": 60,
+     "IfcDoor": 50,
+     "IfcSlab": 30,
+     "IfcWindow": 20,
+     "IfcStair": 10
+    },
+    "raeume": 40
+   },
+   {
+    "name": "2.OG",
+    "elevation": 5.23,
+    "elemente": {
+     "IfcOpeningElement": 80,
+     "IfcWallStandardCase": 70,
+     "IfcRailing": 60,
+     "IfcDoor": 50,
+     "IfcSlab": 30,
+     "IfcWindow": 20
+    },
+    "raeume": 40
+   },
+   {
+    "name": "Dach",
+    "elevation": 7.93,
+    "elemente": {
+     "IfcSlab": 10
+    },
+    "raeume": 0
+   }
+  ],
+  "raeume": [
+   {
+    "name": "02.0.3",
+    "long": "FLUR-02-1"
+   },
+   {
+    "name": "05.0.2",
+    "long": "Kellerraum-05-2"
+   },
+   {
+    "name": "04.0.2",
+    "long": "Kellerraum-04-2"
+   },
+   {
+    "name": "03.0.2",
+    "long": "Kellerraum-03-2"
+   },
+   {
+    "name": "05.0.3",
+    "long": "FLUR-05-1"
+   },
+   {
+    "name": "05.0.1",
+    "long": "KELLERRAUM-05-1"
+   },
+   {
+    "name": "04.0.3",
+    "long": "FLUR-04-1"
+   },
+   {
+    "name": "04.0.1",
+    "long": "KELLERRAUM-04-1"
+   },
+   {
+    "name": "03.0.3",
+    "long": "FLUR-03-1"
+   },
+   {
+    "name": "03.0.1",
+    "long": "KELLERRAUM-03-1"
+   },
+   {
+    "name": "02.0.2",
+    "long": "Kellerraum-02-2"
+   },
+   {
+    "name": "02.0.1",
+    "long": "KELLERRAUM-02-1"
+   },
+   {
+    "name": "01.0.2",
+    "long": "Kellerraum-01-2"
+   },
+   {
+    "name": "01.0.3",
+    "long": "FLUR-01-1"
+   },
+   {
+    "name": "01.0.1",
+    "long": "KELLERRAUM-01-1"
+   },
+   {
+    "name": "07.0.3",
+    "long": "FLUR-07-1"
+   },
+   {
+    "name": "10.0.2",
+    "long": "Kellerraum-10-2"
+   },
+   {
+    "name": "09.0.2",
+    "long": "Kellerraum-09-2"
+   },
+   {
+    "name": "08.0.2",
+    "long": "Kellerraum-08-2"
+   },
+   {
+    "name": "10.0.3",
+    "long": "FLUR-10-1"
+   },
+   {
+    "name": "10.0.1",
+    "long": "KELLERRAUM-10-1"
+   },
+   {
+    "name": "09.0.3",
+    "long": "FLUR-09-1"
+   },
+   {
+    "name": "09.0.1",
+    "long": "KELLERRAUM-09-1"
+   },
+   {
+    "name": "08.0.3",
+    "long": "FLUR-08-1"
+   },
+   {
+    "name": "08.0.1",
+    "long": "KELLERRAUM-08-1"
+   },
+   {
+    "name": "07.0.2",
+    "long": "Kellerraum-07-2"
+   },
+   {
+    "name": "07.0.1",
+    "long": "KELLERRAUM-07-1"
+   },
+   {
+    "name": "06.0.2",
+    "long": "Kellerraum-06-2"
+   },
+   {
+    "name": "06.0.3",
+    "long": "FLUR-06-1"
+   },
+   {
+    "name": "06.0.1",
+    "long": "KELLERRAUM-06-1"
+   },
+   {
+    "name": "05.1.2",
+    "long": "WC-05-1"
+   },
+   {
+    "name": "03.1.2",
+    "long": "WC-03-1"
+   },
+   {
+    "name": "02.1.3",
+    "long": "FLUR-02-2"
+   },
+   {
+    "name": "05.1.3",
+    "long": "FLUR-05-2"
+   },
+   {
+    "name": "04.1.3",
+    "long": "FLUR-04-2"
+   },
+   {
+    "name": "04.1.2",
+    "long": "WC-04-1"
+   },
+   {
+    "name": "03.1.3",
+    "long": "Flur-03-2"
+   },
+   {
+    "name": "01.1.3",
+    "long": "Flur-01-2"
+   },
+   {
+    "name": "05.1.1",
+    "long": "WOHNEN / KOCHEN-05-1"
+   },
+   {
+    "name": "02.1.1",
+    "long": "WOHNEN / KOCHEN-02-1"
+   }
+  ],
+  "raeume_namen": {
+   "n": 140,
+   "ohne_name": 0,
+   "eindeutig": 58,
+   "doppelt": 41,
+   "haeufigste": [
+    [
+     "10.1.3",
+     2
+    ],
+    [
+     "3.2.1",
+     2
+    ],
+    [
+     "5.2.2",
+     2
+    ],
+    [
+     "4.2.2",
+     2
+    ]
+   ]
+  },
+  "namen": {
+   "IfcWall": {
+    "n": 281,
+    "ohne_name": 0,
+    "eindeutig": 137,
+    "doppelt": 72,
+    "haeufigste": [
+     [
+      "EG-A-05-3",
+      2
+     ],
+     [
+      "EG-A-10-3",
+      2
+     ],
+     [
+      "1OG-I-3-2",
+      2
+     ],
+     [
+      "1OG-I-1-2",
+      2
+     ]
+    ]
+   },
+   "IfcDoor": {
+    "n": 170,
+    "ohne_name": 0,
+    "eindeutig": 106,
+    "doppelt": 31,
+    "haeufigste": [
+     [
+      "1OG-Balkon-2-2",
+      4
+     ],
+     [
+      "Keller-Tür-04-1",
+      2
+     ],
+     [
+      "Keller-Tür-09-1",
+      2
+     ],
+     [
+      "1OG-Balkon-4-2",
+      2
+     ]
+    ]
+   },
+   "IfcWindow": {
+    "n": 80,
+    "ohne_name": 0,
+    "eindeutig": 36,
+    "doppelt": 12,
+    "haeufigste": [
+     [
+      "1OG-Fenster-1-2",
+      8
+     ],
+     [
+      "1OG-Fenster-1-3",
+      6
+     ],
+     [
+      "1OG-Fenster-1-4",
+      6
+     ],
+     [
+      "1OG-Fenster-1-1",
+      6
+     ]
+    ]
+   },
+   "IfcSlab": {
+    "n": 120,
+    "ohne_name": 0,
+    "eindeutig": 62,
+    "doppelt": 28,
+    "haeufigste": [
+     [
+      "Dach-3",
+      3
+     ],
+     [
+      "Dach-4",
+      3
+     ],
+     [
+      "1OG-Balkon-2-1",
+      2
+     ],
+     [
+      "1OG-Balkon-2-2",
+      2
+     ]
+    ]
+   },
+   "IfcColumn": {
+    "n": 20,
+    "ohne_name": 0,
+    "eindeutig": 20,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "EG-Stuetze-01-2",
+      1
+     ],
+     [
+      "EG-Stuetze-09-2",
+      1
+     ],
+     [
+      "EG-Stuetze-10-1",
+      1
+     ],
+     [
+      "EG-Stuetze-07-1",
+      1
+     ]
+    ]
+   },
+   "IfcStair": {
+    "n": 30,
+    "ohne_name": 0,
+    "eindeutig": 30,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Kellertreppe-01",
+      1
+     ],
+     [
+      "Kellertreppe-02",
+      1
+     ],
+     [
+      "Kellertreppe-03",
+      1
+     ],
+     [
+      "Keller-Treppe-04",
+      1
+     ]
+    ]
+   }
+  },
+  "typen": [
+   {
+    "klasse": "IfcDoor",
+    "typ": "Stocktür_1_Fl",
+    "anzahl": 90
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "IFC Fenster - ein Panel",
+    "anzahl": 80
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Gips 275646950 100",
+    "anzahl": 70
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Beton-Wärmeschutz 250",
+    "anzahl": 66
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Kalksandstein 268899148 200",
+    "anzahl": 64
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "IFC Doppeltür - Eine Öffnungsrichtung",
+    "anzahl": 60
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": "Stahlbeton 2784800804 120",
+    "anzahl": 60
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Stahlbeton 2816491304 200",
+    "anzahl": 40
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Kalksandstein 268899148 175",
+    "anzahl": 30
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": "Stahlbeton 2784800804 180",
+    "anzahl": 30
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "IFC Tür - Eine Öffnunsgrichtung",
+    "anzahl": 20
+   },
+   {
+    "klasse": "IfcWall",
+    "typ": "Holzrahmen_Wand 11",
+    "anzahl": 11
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": "Stahlbeton 2784800804 250",
+    "anzahl": 10
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": "Aluminium 587913947 98",
+    "anzahl": 10
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": "Aluminium 587913947 200",
+    "anzahl": 10
+   }
+  ],
+  "fuellungen": {
+   "gesamt": 250,
+   "mit_hostwand": 250,
+   "beispiele": [
+    {
+     "fuellung": "Keller-Tür-04-1",
+     "host": "Keller-I-04-1"
+    },
+    {
+     "fuellung": "Keller-Tür-03-2",
+     "host": "Keller-I-03-1"
+    },
+    {
+     "fuellung": "Keller-Tür-02-2",
+     "host": "Keller-I-02-1"
+    },
+    {
+     "fuellung": "Keller-Tür-01-2",
+     "host": "Keller-I-01-1"
+    },
+    {
+     "fuellung": "Keller-Tür-01-1",
+     "host": "Keller-I-01-2"
+    },
+    {
+     "fuellung": "Keller-Tür-03-1",
+     "host": "Keller-I-03-2"
+    },
+    {
+     "fuellung": "Keller-Tür-05-1",
+     "host": "Keller-I-05-2"
+    },
+    {
+     "fuellung": "Keller-Tür-04-1",
+     "host": "Keller-I-04-2"
+    }
+   ]
+  },
+  "waende": {
+   "gesamt": 281,
+   "mit_oeffnungen": 160,
+   "mit_ifcrelconnects": 270,
+   "mit_material": 281
+  },
+  "wand_darstellungen": [
+   {
+    "identifier": [
+     "Axis",
+     "Body",
+     "Box"
+    ],
+    "anzahl": 270
+   },
+   {
+    "identifier": [
+     "Body",
+     "Box"
+    ],
+    "anzahl": 11
+   }
+  ],
+  "geometrie_stichprobe": {
+   "IfcWall": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcSlab": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcDoor": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcWindow": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcColumn": {
+    "geprueft": 20,
+    "ok": 20,
+    "fehler": 0
+   },
+   "IfcSpace": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   }
+  },
+  "psets_waende_stichprobe": {
+   "Pset_WallCommon": 50,
+   "BaseQuantities": 39,
+   "Pset_PrecastConcreteElementFabrication": 11,
+   "Pset_ManufacturerOccurrence": 11,
+   "Pset_ManufacturerTypeInformation": 11
+  },
+  "einheit_hinweis": [
+   "METRE",
+   "METRE"
+  ]
+ },
+ {
+  "datei": "test-models/dental_clinic.ifc",
+  "schema": "IFC2X3",
+  "elemente_gesamt": 3023,
+  "mit_globalid": 3023,
+  "klassen": {
+   "IfcWallStandardCase": 1065,
+   "IfcMember": 534,
+   "IfcOpeningElement": 403,
+   "IfcSpace": 269,
+   "IfcDoor": 254,
+   "IfcCovering": 250,
+   "IfcPlate": 172,
+   "IfcFurnishingElement": 118,
+   "IfcFlowTerminal": 102,
+   "IfcWindow": 58,
+   "IfcCurtainWall": 31,
+   "IfcWall": 15,
+   "IfcRailing": 9,
+   "IfcStairFlight": 6,
+   "IfcSlab": 3,
+   "IfcStair": 3
+  },
+  "geschosse": [
+   {
+    "name": "First Floor",
+    "elevation": -3.531500425424383e-13,
+    "elemente": {
+     "IfcWallStandardCase": 652,
+     "IfcOpeningElement": 190,
+     "IfcMember": 169,
+     "IfcDoor": 156,
+     "IfcCovering": 153,
+     "IfcPlate": 50,
+     "IfcWindow": 22,
+     "IfcCurtainWall": 14
+    },
+    "raeume": 154
+   },
+   {
+    "name": "Second Floor",
+    "elevation": 4.570000000004098,
+    "elemente": {
+     "IfcWallStandardCase": 401,
+     "IfcOpeningElement": 169,
+     "IfcMember": 121,
+     "IfcCovering": 96,
+     "IfcDoor": 96,
+     "IfcPlate": 38,
+     "IfcWindow": 36,
+     "IfcCurtainWall": 7
+    },
+    "raeume": 109
+   },
+   {
+    "name": "Roof - Main",
+    "elevation": 9.25000000000408,
+    "elemente": {
+     "IfcMember": 244,
+     "IfcPlate": 84,
+     "IfcWallStandardCase": 12,
+     "IfcCurtainWall": 10,
+     "IfcWall": 8,
+     "IfcOpeningElement": 8,
+     "IfcCovering": 1
+    },
+    "raeume": 6
+   },
+   {
+    "name": "TOF Footing",
+    "elevation": -1.000000000000353,
+    "elemente": {
+     "IfcDoor": 2
+    },
+    "raeume": 0
+   }
+  ],
+  "raeume": [
+   {
+    "name": "1AC1",
+    "long": "CENTRAL WAITING"
+   },
+   {
+    "name": "1DC1",
+    "long": "WAITING / ACTIVITY AREA"
+   },
+   {
+    "name": "2R02",
+    "long": "ROOF"
+   },
+   {
+    "name": "3R01",
+    "long": "ROOF"
+   },
+   {
+    "name": "1EC1",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2D05",
+    "long": "MAIN MECHANICAL ROOM"
+   },
+   {
+    "name": "2AC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2D18",
+    "long": "TECH. OFFICE"
+   },
+   {
+    "name": "1BC2",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1CC1",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1A16",
+    "long": "PHARM. DISP."
+   },
+   {
+    "name": "1B04",
+    "long": "LAB"
+   },
+   {
+    "name": "1DC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1C18",
+    "long": "PHYSICAL EXAM"
+   },
+   {
+    "name": "1BC4",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2BC5",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2BC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2AC1",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1E24",
+    "long": "RECEIVING / STORAGE"
+   },
+   {
+    "name": "1E16",
+    "long": "BMET WORK STATION"
+   },
+   {
+    "name": "1DC7",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1D16",
+    "long": "PROVIDER CUBICLES"
+   },
+   {
+    "name": "2BC2",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1CC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2A11",
+    "long": "DENTAL WAITING"
+   },
+   {
+    "name": "2CC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1AC5",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2DC2",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1AC3",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2C17",
+    "long": "PROSTH. LAB"
+   },
+   {
+    "name": "1D25",
+    "long": "PROVIDER CUBICLES"
+   },
+   {
+    "name": "2CC2",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1DC6",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2AC4",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2B3",
+    "long": "CONF. / GROUP THERAPY"
+   },
+   {
+    "name": "2C07",
+    "long": "M. STAFF TOILET"
+   },
+   {
+    "name": "2CC1",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "1DC4",
+    "long": "CORRIDOR"
+   },
+   {
+    "name": "2AC1-A",
+    "long": "OPEN TO BELOW"
+   },
+   {
+    "name": "2C08",
+    "long": "W. STAFF TOILET"
+   }
+  ],
+  "raeume_namen": {
+   "n": 269,
+   "ohne_name": 0,
+   "eindeutig": 269,
+   "doppelt": 0,
+   "haeufigste": [
+    [
+     "1AC1",
+     1
+    ],
+    [
+     "1DC1",
+     1
+    ],
+    [
+     "2R02",
+     1
+    ],
+    [
+     "3R01",
+     1
+    ]
+   ]
+  },
+  "namen": {
+   "IfcWall": {
+    "n": 1080,
+    "ohne_name": 0,
+    "eindeutig": 1080,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):314431",
+      1
+     ],
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):379018",
+      1
+     ],
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):314078",
+      1
+     ],
+     [
+      "Basic Wall:Interior - Partition (92mm Stud):287660",
+      1
+     ]
+    ]
+   },
+   "IfcDoor": {
+    "n": 254,
+    "ohne_name": 0,
+    "eindeutig": 244,
+    "doppelt": 5,
+    "haeufigste": [
+     [
+      "M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:346973",
+      2
+     ],
+     [
+      "M_Curtain Wall Dbl Glass:M_Curtain Wall Dbl Glass:M_Curtain Wall Dbl Glass:263359",
+      2
+     ],
+     [
+      "M_Curtain Wall Sgl Glass:M_Curtain Wall Sgl Glass:M_Curtain Wall Sgl Glass:285186",
+      2
+     ],
+     [
+      "M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:346969",
+      2
+     ]
+    ]
+   },
+   "IfcWindow": {
+    "n": 58,
+    "ohne_name": 0,
+    "eindeutig": 58,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "M_Fixed:1735 x 1000mm:1735 x 1000mm:259285",
+      1
+     ],
+     [
+      "M_Fixed:1735 x 1000mm:1735 x 1000mm:261584",
+      1
+     ],
+     [
+      "M_Fixed:1735 x 1000mm:1735 x 1000mm:259348",
+      1
+     ],
+     [
+      "M_Fixed:1735 x 1000mm:1735 x 1000mm:261527",
+      1
+     ]
+    ]
+   },
+   "IfcSlab": {
+    "n": 3,
+    "ohne_name": 0,
+    "eindeutig": 3,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:251180:1",
+      1
+     ],
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:221039:1",
+      1
+     ],
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:250693:1",
+      1
+     ]
+    ]
+   },
+   "IfcStair": {
+    "n": 3,
+    "ohne_name": 0,
+    "eindeutig": 3,
+    "doppelt": 0,
+    "haeufigste": [
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:250693",
+      1
+     ],
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:251180",
+      1
+     ],
+     [
+      "Stair:Concrete Pan - 180mm Max Riser 280mm Tread:221039",
+      1
+     ]
+    ]
+   }
+  },
+  "typen": [
+   {
+    "klasse": "IfcWall",
+    "typ": null,
+    "anzahl": 1080
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0915 x 2134mm",
+    "anzahl": 215
+   },
+   {
+    "klasse": "IfcWindow",
+    "typ": "1735 x 1000mm",
+    "anzahl": 58
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0865 x 1500mm",
+    "anzahl": 8
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0915 x 2134mm Exterior",
+    "anzahl": 7
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "0915 x 2134mm Rated",
+    "anzahl": 5
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1830 x 2134mm Exterior",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "M_Curtain Wall Dbl Chain Link",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "M_Curtain Wall Sgl Glass",
+    "anzahl": 4
+   },
+   {
+    "klasse": "IfcSlab",
+    "typ": null,
+    "anzahl": 3
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "M_Curtain Wall Dbl Glass",
+    "anzahl": 2
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1730 x 2134mm",
+    "anzahl": 1
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1830 x 2134mm",
+    "anzahl": 1
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1000 x 2134mm",
+    "anzahl": 1
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1.220 x 2134mm",
+    "anzahl": 1
+   },
+   {
+    "klasse": "IfcDoor",
+    "typ": "1.220 x 2134mm Exterior",
+    "anzahl": 1
+   }
+  ],
+  "fuellungen": {
+   "gesamt": 312,
+   "mit_hostwand": 302,
+   "beispiele": [
+    {
+     "fuellung": "M_Double-Flush:1730 x 2134mm:1730 x 2134mm:367888",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):149814"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:229736",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):369550"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:237881",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):194392"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:224424",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):175951"
+    },
+    {
+     "fuellung": "M_Double-Flush:1830 x 2134mm:1830 x 2134mm:250360",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):213603"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:223704",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):172351"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:229319",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):180522"
+    },
+    {
+     "fuellung": "M_Single-Flush:0915 x 2134mm:0915 x 2134mm:241681",
+     "host": "Basic Wall:Interior - Partition (92mm Stud):211999"
+    }
+   ]
+  },
+  "waende": {
+   "gesamt": 1080,
+   "mit_oeffnungen": 209,
+   "mit_ifcrelconnects": 1078,
+   "mit_material": 1080
+  },
+  "wand_darstellungen": [
+   {
+    "identifier": [
+     "Axis",
+     "Body"
+    ],
+    "anzahl": 1080
+   }
+  ],
+  "geometrie_stichprobe": {
+   "IfcWall": {
+    "geprueft": 40,
+    "ok": 0,
+    "fehler": 40
+   },
+   "IfcSlab": {
+    "geprueft": 3,
+    "ok": 0,
+    "fehler": 3
+   },
+   "IfcDoor": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcWindow": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   },
+   "IfcSpace": {
+    "geprueft": 40,
+    "ok": 40,
+    "fehler": 0
+   }
+  },
+  "psets_waende_stichprobe": {
+   "Pset_WallCommon": 50,
+   "PSet_Revit_Phasing": 50,
+   "PSet_Revit_Constraints": 50,
+   "PSet_Revit_Other": 50,
+   "PSet_Revit_Structural": 50,
+   "PSet_Revit_Dimensions": 50,
+   "PSet_Revit_Type_Identity Data": 50,
+   "PSet_Revit_Type_Graphics": 50
+  },
+  "einheit_hinweis": [
+   "METRE"
+  ]
+ }
+]

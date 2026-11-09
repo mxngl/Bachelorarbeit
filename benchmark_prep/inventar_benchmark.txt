@@ -1,0 +1,64 @@
+
+==== test-models/duplex.ifc  [IFC2X3]  Elemente: 268
+Klassen: IfcFurnishingElement=61, IfcWallStandardCase=56, IfcOpeningElement=50, IfcWindow=24, IfcSlab=21, IfcSpace=21, IfcDoor=14, IfcCovering=13, IfcBeam=8, IfcFooting=7, IfcMember=4, IfcRailing=4, IfcStair=2, IfcStairFlight=2
+  Geschoss 'Level 2' (z=3.100000000000378) Raeume=10 Elemente={'IfcWallStandardCase': 24, 'IfcOpeningElement': 24, 'IfcWindow': 18, 'IfcSlab': 10, 'IfcCovering': 8, 'IfcDoor': 8, 'IfcBeam': 4, 'IfcWall': 1}
+  Geschoss 'Roof' (z=6.00000000000039) Raeume=1 Elemente={'IfcWallStandardCase': 4, 'IfcOpeningElement': 4, 'IfcWindow': 2, 'IfcRoof': 1, 'IfcSlab': 1}
+  Geschoss 'Level 1' (z=0.0) Raeume=10 Elemente={'IfcWallStandardCase': 21, 'IfcOpeningElement': 12, 'IfcSlab': 10, 'IfcDoor': 6, 'IfcCovering': 5, 'IfcBeam': 4, 'IfcMember': 4, 'IfcRailing': 4}
+  Geschoss 'T/FDN' (z=-1.25) Raeume=0 Elemente={'IfcFooting': 7, 'IfcWallStandardCase': 7}
+Raeume: {'n': 21, 'ohne_name': 0, 'eindeutig': 21, 'doppelt': 0, 'haeufigste': [('A203', 1), ('B203', 1), ('A201', 1), ('B101', 1)]}
+  Beispiele: [('A203', 'Bedroom 2'), ('B203', 'Bedroom 2'), ('A201', 'Hallway'), ('B101', 'Foyer'), ('A101', 'Foyer'), ('B201', 'Hallway'), ('A202', 'Bedroom 1'), ('B202', 'Bedroom 1'), ('B102', 'Living Room'), ('A204', 'Bathroom 2')]
+Namenseindeutigkeit (eindeutig = Name kommt genau 1x vor):
+  IfcWall: n=57 ohne_name=0 eindeutig=57 doppelt=0 haeufig=[('Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239', 1), ('Basic Wall:Interior - Partition (92mm Stud):144586', 1), ('Basic Wall:Interior - Partition (92mm Stud):143921', 1)]
+  IfcDoor: n=14 ohne_name=0 eindeutig=14 doppelt=0 haeufig=[('M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034', 1), ('M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478', 1), ('M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378', 1)]
+  IfcWindow: n=24 ohne_name=0 eindeutig=24 doppelt=0 haeufig=[('M_Fixed:2800mm x 2410mm:2800mm x 2410mm:181096', 1), ('M_Fixed:2800mm x 2410mm:2800mm x 2410mm:180318', 1), ('M_Fixed:819mm x 759mm:819mm x 759mm:149537', 1)]
+  IfcSlab: n=21 ohne_name=0 eindeutig=21 doppelt=0 haeufig=[('Floor:Residential - Wood Joist with Subflooring:144872', 1), ('Floor:Residential - Wood Joist with Subflooring:144800', 1), ('Floor:127mm Slab on Grade:141232', 1)]
+  IfcStair: n=2 ohne_name=0 eindeutig=2 doppelt=0 haeufig=[('Stair:Residential - 200mm Max Riser 250mm Tread:198878', 1), ('Stair:Residential - 200mm Max Riser 250mm Tread:151086', 1)]
+Typen: [('IfcWall', None, 57), ('IfcSlab', None, 21), ('IfcWindow', '819mm x 759mm', 12), ('IfcDoor', '0864 x 2032mm', 6), ('IfcDoor', '0762 x 2032mm', 4), ('IfcWindow', '2800mm x 2410mm', 4), ('IfcWindow', '750mm x 2200mm', 4), ('IfcDoor', '0813 x 2420mm', 2)]
+Fuellungen: 38 mit Hostwand: 38 [{'fuellung': 'M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034', 'host': 'Basic Wall:Interior - Partition (92mm Stud):203998'}, {'fuellung': 'M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478', 'host': 'Basic Wall:Interior - Partition (92mm Stud):144518'}, {'fuellung': 'M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378', 'host': 'Basic Wall:Interior - Partition (92mm Stud):143856'}, {'fuellung': 'M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720', 'host': 'Basic Wall:Interior - Partition (92mm Stud):203347'}]
+Waende: {'gesamt': 57, 'mit_oeffnungen': 18, 'mit_ifcrelconnects': 57, 'mit_material': 57} Darstellungen: [{'identifier': ['Axis', 'Body'], 'anzahl': 57}]
+Geometrie-Stichprobe: {'IfcWall': {'geprueft': 40, 'ok': 0, 'fehler': 40}, 'IfcSlab': {'geprueft': 21, 'ok': 21, 'fehler': 0}, 'IfcDoor': {'geprueft': 14, 'ok': 14, 'fehler': 0}, 'IfcWindow': {'geprueft': 24, 'ok': 24, 'fehler': 0}, 'IfcSpace': {'geprueft': 21, 'ok': 21, 'fehler': 0}}
+Psets Waende: {'PSet_Revit_Constraints': 50, 'PSet_Revit_Phasing': 50, 'Pset_WallCommon': 50, 'PSet_Revit_Other': 50, 'PSet_Revit_Dimensions': 50, 'PSet_Revit_Structural': 50, 'PSet_Revit_Type_Other': 50, 'PSet_Revit_Type_Identity Data': 50}
+
+==== test-models/smiley_west.ifc  [IFC4]  Elemente: 1125
+Klassen: IfcOpeningElement=280, IfcWallStandardCase=270, IfcDoor=170, IfcSpace=140, IfcRailing=120, IfcSlab=120, IfcWindow=80, IfcStair=30, IfcColumn=20, IfcVirtualElement=14, IfcWall=11, IfcBeam=10
+  Geschoss 'KG' (z=-2.81) Raeume=30 Elemente={'IfcWallStandardCase': 60, 'IfcOpeningElement': 40, 'IfcDoor': 20, 'IfcWindow': 20, 'IfcSlab': 10, 'IfcStair': 10}
+  Geschoss 'EG' (z=-0.25) Raeume=30 Elemente={'IfcOpeningElement': 80, 'IfcWallStandardCase': 70, 'IfcDoor': 50, 'IfcSlab': 40, 'IfcColumn': 20, 'IfcWindow': 20, 'IfcWall': 11, 'IfcBeam': 10}
+  Geschoss '1.OG' (z=2.53) Raeume=40 Elemente={'IfcOpeningElement': 80, 'IfcWallStandardCase': 70, 'IfcRailing': 60, 'IfcDoor': 50, 'IfcSlab': 30, 'IfcWindow': 20, 'IfcStair': 10}
+  Geschoss '2.OG' (z=5.23) Raeume=40 Elemente={'IfcOpeningElement': 80, 'IfcWallStandardCase': 70, 'IfcRailing': 60, 'IfcDoor': 50, 'IfcSlab': 30, 'IfcWindow': 20}
+  Geschoss 'Dach' (z=7.93) Raeume=0 Elemente={'IfcSlab': 10}
+Raeume: {'n': 140, 'ohne_name': 0, 'eindeutig': 58, 'doppelt': 41, 'haeufigste': [('10.1.3', 2), ('3.2.1', 2), ('5.2.2', 2), ('4.2.2', 2)]}
+  Beispiele: [('02.0.3', 'FLUR-02-1'), ('05.0.2', 'Kellerraum-05-2'), ('04.0.2', 'Kellerraum-04-2'), ('03.0.2', 'Kellerraum-03-2'), ('05.0.3', 'FLUR-05-1'), ('05.0.1', 'KELLERRAUM-05-1'), ('04.0.3', 'FLUR-04-1'), ('04.0.1', 'KELLERRAUM-04-1'), ('03.0.3', 'FLUR-03-1'), ('03.0.1', 'KELLERRAUM-03-1')]
+Namenseindeutigkeit (eindeutig = Name kommt genau 1x vor):
+  IfcWall: n=281 ohne_name=0 eindeutig=137 doppelt=72 haeufig=[('EG-A-05-3', 2), ('EG-A-10-3', 2), ('1OG-I-3-2', 2)]
+  IfcDoor: n=170 ohne_name=0 eindeutig=106 doppelt=31 haeufig=[('1OG-Balkon-2-2', 4), ('Keller-Tür-04-1', 2), ('Keller-Tür-09-1', 2)]
+  IfcWindow: n=80 ohne_name=0 eindeutig=36 doppelt=12 haeufig=[('1OG-Fenster-1-2', 8), ('1OG-Fenster-1-3', 6), ('1OG-Fenster-1-4', 6)]
+  IfcSlab: n=120 ohne_name=0 eindeutig=62 doppelt=28 haeufig=[('Dach-3', 3), ('Dach-4', 3), ('1OG-Balkon-2-1', 2)]
+  IfcColumn: n=20 ohne_name=0 eindeutig=20 doppelt=0 haeufig=[('EG-Stuetze-01-2', 1), ('EG-Stuetze-09-2', 1), ('EG-Stuetze-10-1', 1)]
+  IfcStair: n=30 ohne_name=0 eindeutig=30 doppelt=0 haeufig=[('Kellertreppe-01', 1), ('Kellertreppe-02', 1), ('Kellertreppe-03', 1)]
+Typen: [('IfcDoor', 'Stocktür_1_Fl', 90), ('IfcWindow', 'IFC Fenster - ein Panel', 80), ('IfcWall', 'Gips 275646950 100', 70), ('IfcWall', 'Beton-Wärmeschutz 250', 66), ('IfcWall', 'Kalksandstein 268899148 200', 64), ('IfcDoor', 'IFC Doppeltür - Eine Öffnungsrichtung', 60), ('IfcSlab', 'Stahlbeton 2784800804 120', 60), ('IfcWall', 'Stahlbeton 2816491304 200', 40)]
+Fuellungen: 250 mit Hostwand: 250 [{'fuellung': 'Keller-Tür-04-1', 'host': 'Keller-I-04-1'}, {'fuellung': 'Keller-Tür-03-2', 'host': 'Keller-I-03-1'}, {'fuellung': 'Keller-Tür-02-2', 'host': 'Keller-I-02-1'}, {'fuellung': 'Keller-Tür-01-2', 'host': 'Keller-I-01-1'}]
+Waende: {'gesamt': 281, 'mit_oeffnungen': 160, 'mit_ifcrelconnects': 270, 'mit_material': 281} Darstellungen: [{'identifier': ['Axis', 'Body', 'Box'], 'anzahl': 270}, {'identifier': ['Body', 'Box'], 'anzahl': 11}]
+Geometrie-Stichprobe: {'IfcWall': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcSlab': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcDoor': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcWindow': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcColumn': {'geprueft': 20, 'ok': 20, 'fehler': 0}, 'IfcSpace': {'geprueft': 40, 'ok': 40, 'fehler': 0}}
+Psets Waende: {'Pset_WallCommon': 50, 'BaseQuantities': 39, 'Pset_PrecastConcreteElementFabrication': 11, 'Pset_ManufacturerOccurrence': 11, 'Pset_ManufacturerTypeInformation': 11}
+
+==== test-models/dental_clinic.ifc  [IFC2X3]  Elemente: 3023
+Klassen: IfcWallStandardCase=1065, IfcMember=534, IfcOpeningElement=403, IfcSpace=269, IfcDoor=254, IfcCovering=250, IfcPlate=172, IfcFurnishingElement=118, IfcFlowTerminal=102, IfcWindow=58, IfcCurtainWall=31, IfcWall=15, IfcRailing=9, IfcStairFlight=6
+  Geschoss 'First Floor' (z=-3.531500425424383e-13) Raeume=154 Elemente={'IfcWallStandardCase': 652, 'IfcOpeningElement': 190, 'IfcMember': 169, 'IfcDoor': 156, 'IfcCovering': 153, 'IfcPlate': 50, 'IfcWindow': 22, 'IfcCurtainWall': 14}
+  Geschoss 'Second Floor' (z=4.570000000004098) Raeume=109 Elemente={'IfcWallStandardCase': 401, 'IfcOpeningElement': 169, 'IfcMember': 121, 'IfcCovering': 96, 'IfcDoor': 96, 'IfcPlate': 38, 'IfcWindow': 36, 'IfcCurtainWall': 7}
+  Geschoss 'Roof - Main' (z=9.25000000000408) Raeume=6 Elemente={'IfcMember': 244, 'IfcPlate': 84, 'IfcWallStandardCase': 12, 'IfcCurtainWall': 10, 'IfcWall': 8, 'IfcOpeningElement': 8, 'IfcCovering': 1}
+  Geschoss 'TOF Footing' (z=-1.000000000000353) Raeume=0 Elemente={'IfcDoor': 2}
+Raeume: {'n': 269, 'ohne_name': 0, 'eindeutig': 269, 'doppelt': 0, 'haeufigste': [('1AC1', 1), ('1DC1', 1), ('2R02', 1), ('3R01', 1)]}
+  Beispiele: [('1AC1', 'CENTRAL WAITING'), ('1DC1', 'WAITING / ACTIVITY AREA'), ('2R02', 'ROOF'), ('3R01', 'ROOF'), ('1EC1', 'CORRIDOR'), ('2D05', 'MAIN MECHANICAL ROOM'), ('2AC3', 'CORRIDOR'), ('2D18', 'TECH. OFFICE'), ('1BC2', 'CORRIDOR'), ('1CC1', 'CORRIDOR')]
+Namenseindeutigkeit (eindeutig = Name kommt genau 1x vor):
+  IfcWall: n=1080 ohne_name=0 eindeutig=1080 doppelt=0 haeufig=[('Basic Wall:Interior - Partition (92mm Stud):314431', 1), ('Basic Wall:Interior - Partition (92mm Stud):379018', 1), ('Basic Wall:Interior - Partition (92mm Stud):314078', 1)]
+  IfcDoor: n=254 ohne_name=0 eindeutig=244 doppelt=5 haeufig=[('M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:M_Curtain Wall Dbl Chain Link:346973', 2), ('M_Curtain Wall Dbl Glass:M_Curtain Wall Dbl Glass:M_Curtain Wall Dbl Glass:263359', 2), ('M_Curtain Wall Sgl Glass:M_Curtain Wall Sgl Glass:M_Curtain Wall Sgl Glass:285186', 2)]
+  IfcWindow: n=58 ohne_name=0 eindeutig=58 doppelt=0 haeufig=[('M_Fixed:1735 x 1000mm:1735 x 1000mm:259285', 1), ('M_Fixed:1735 x 1000mm:1735 x 1000mm:261584', 1), ('M_Fixed:1735 x 1000mm:1735 x 1000mm:259348', 1)]
+  IfcSlab: n=3 ohne_name=0 eindeutig=3 doppelt=0 haeufig=[('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:251180:1', 1), ('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:221039:1', 1), ('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:250693:1', 1)]
+  IfcStair: n=3 ohne_name=0 eindeutig=3 doppelt=0 haeufig=[('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:250693', 1), ('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:251180', 1), ('Stair:Concrete Pan - 180mm Max Riser 280mm Tread:221039', 1)]
+Typen: [('IfcWall', None, 1080), ('IfcDoor', '0915 x 2134mm', 215), ('IfcWindow', '1735 x 1000mm', 58), ('IfcDoor', '0865 x 1500mm', 8), ('IfcDoor', '0915 x 2134mm Exterior', 7), ('IfcDoor', '0915 x 2134mm Rated', 5), ('IfcDoor', '1830 x 2134mm Exterior', 4), ('IfcDoor', 'M_Curtain Wall Dbl Chain Link', 4)]
+Fuellungen: 312 mit Hostwand: 302 [{'fuellung': 'M_Double-Flush:1730 x 2134mm:1730 x 2134mm:367888', 'host': 'Basic Wall:Interior - Partition (92mm Stud):149814'}, {'fuellung': 'M_Single-Flush:0915 x 2134mm:0915 x 2134mm:229736', 'host': 'Basic Wall:Interior - Partition (92mm Stud):369550'}, {'fuellung': 'M_Single-Flush:0915 x 2134mm:0915 x 2134mm:237881', 'host': 'Basic Wall:Interior - Partition (92mm Stud):194392'}, {'fuellung': 'M_Single-Flush:0915 x 2134mm:0915 x 2134mm:224424', 'host': 'Basic Wall:Interior - Partition (92mm Stud):175951'}]
+Waende: {'gesamt': 1080, 'mit_oeffnungen': 209, 'mit_ifcrelconnects': 1078, 'mit_material': 1080} Darstellungen: [{'identifier': ['Axis', 'Body'], 'anzahl': 1080}]
+Geometrie-Stichprobe: {'IfcWall': {'geprueft': 40, 'ok': 0, 'fehler': 40}, 'IfcSlab': {'geprueft': 3, 'ok': 0, 'fehler': 3}, 'IfcDoor': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcWindow': {'geprueft': 40, 'ok': 40, 'fehler': 0}, 'IfcSpace': {'geprueft': 40, 'ok': 40, 'fehler': 0}}
+Psets Waende: {'Pset_WallCommon': 50, 'PSet_Revit_Phasing': 50, 'PSet_Revit_Constraints': 50, 'PSet_Revit_Other': 50, 'PSet_Revit_Structural': 50, 'PSet_Revit_Dimensions': 50, 'PSet_Revit_Type_Identity Data': 50, 'PSet_Revit_Type_Graphics': 50}
+
+JSON: inventar_benchmark.json

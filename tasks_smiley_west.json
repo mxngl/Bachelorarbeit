@@ -1,0 +1,238 @@
+[
+ {
+  "id": "r1",
+  "category": "remove",
+  "task": "Delete the door 'Keller-Tür-01-1'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1Awi9GHof9eh5YPnVr33HL"
+   }
+  }
+ },
+ {
+  "id": "r2",
+  "category": "remove",
+  "task": "Remove the window 'Keller-Fenster-01-1'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0YLwIS2srCSOONbsaKxRsg"
+   }
+  }
+ },
+ {
+  "id": "r3",
+  "category": "remove",
+  "task": "Delete the door in the room 'Kellerraum-03-2' on storey 'KG'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1va58tOrnB8ORDKmI9J_rg"
+   },
+   "note": "Raeumliche Referenz, Ziel ist 'Keller-Tür-03-1' (einzige Tuer im Raum 03.0.2)"
+  }
+ },
+ {
+  "id": "r4",
+  "category": "remove",
+  "task": "Delete the wall 'Keller-A-01-2'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "0l94Qy92fCY9j$Su5rcGDr"
+   },
+   "note": "Kaskade: 'Keller-Fenster-01-2' entfaellt mit"
+  }
+ },
+ {
+  "id": "m1",
+  "category": "reposition",
+  "task": "Move the wall 'EG-A-01-1' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "3Qz2RKyJr1XQ8WcPp7OU6o",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "category": "reposition",
+  "task": "Move the column 'EG-Stuetze-01-1' 0.5 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "1fsPOLJA95AA53Wx89cSm4",
+    "translation": [
+     0,
+     0.5,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "category": "reposition",
+  "task": "Move the wall 'EG-A-01-3' to storey '1.OG'.",
+  "expected": {
+   "outcome": "success",
+   "op": "reassign_container",
+   "params": {
+    "guid": "1nZXtbi0TBZf2uZX9$HIcx",
+    "target_storey_guid": "0Lz7dRJK5CdfSh5PhR5gUV"
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "category": "reposition",
+  "task": "Place the beam 'EG-Unterzug-06' so that its origin is at x = 40.187 m, y = -1.376 m, z = 2.23 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "1$t5y3LuD4WOcv4dx5Z5Ea",
+    "target_location": [
+     40.187,
+     -1.376,
+     2.23
+    ]
+   },
+   "note": "Bezug ist der Placement-Ursprung des Elements (Ausgangswert in x um 1 m verschoben)"
+  }
+ },
+ {
+  "id": "a1",
+  "category": "add",
+  "task": "Add a window to the wall 'EG-A-02-1', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_hosted_element",
+   "params": {
+    "ifc_class": "IfcWindow",
+    "host_guid": "0Zj0JnUDvBBetlJkqI2svJ",
+    "offset": 1.0,
+    "width": 0.9,
+    "height": 1.0,
+    "sill_height": 0.9
+   },
+   "note": "Erwartung aus dem Trockenlauf: Wand hat BaseQuantities (Laenge) und IfcMaterialLayerSetUsage"
+  }
+ },
+ {
+  "id": "a2",
+  "category": "add",
+  "task": "Create a copy of the column 'EG-Stuetze-03-1' shifted by 1.5 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "0VtN4UyZTAyBFay9rYlcbp",
+    "translation": [
+     0,
+     1.5,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a3",
+  "category": "add",
+  "task": "Create a copy of the beam 'EG-Unterzug-03' shifted by 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "1MOATcIPP90AZoJ$WrG_1u",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a4",
+  "category": "add",
+  "task": "On storey 'EG', add a wall from (30.0, 15.0) to (33.0, 15.0), 0.2 m thick and 3.0 m high.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcWall",
+    "storey_guid": "2aIWPvOfn1XvF_7jNsKTBw",
+    "start": [
+     30.0,
+     15.0
+    ],
+    "end": [
+     33.0,
+     15.0
+    ],
+    "thickness": 0.2,
+    "height": 3.0
+   },
+   "check_coords": true,
+   "note": "Position ausserhalb des Gebaeudeumrisses gewaehlt (Kollisionen vermeiden); Lage im Trockenlauf pruefen"
+  }
+ },
+ {
+  "id": "x1",
+  "category": "abort",
+  "task": "Delete the railing.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "120 IfcRailing"
+  }
+ },
+ {
+  "id": "x2",
+  "category": "abort",
+  "task": "Delete the door 'Keller-Tür-99-9'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "not_found",
+   "stage": "locator",
+   "note": "Name einer existierenden Tuer, Nummer bzw. ElementId durch einen nicht vorhandenen Wert ersetzt"
+  }
+ },
+ {
+  "id": "x3",
+  "category": "abort",
+  "task": "Rotate the wall 'EG-A-02-3' by 90 degrees.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "rotate_element ist nicht im Vokabular"
+  }
+ },
+ {
+  "id": "x4",
+  "category": "abort",
+  "task": "Delete the window '1OG-Fenster-1-0'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "2 Fenster tragen diesen Namen"
+  }
+ }
+]

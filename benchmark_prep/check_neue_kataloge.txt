@@ -1,0 +1,57 @@
+=== duplex
+r1    remove      ok               Soll success, Pipeline success (0.4 s)
+r2    remove      ok               Soll success, Pipeline success (0.4 s)
+r3    remove      ok               Soll success, Pipeline success (0.4 s)
+r4    remove      ok               Soll success, Pipeline success (0.4 s)
+m1    reposition  ok               Soll success, Pipeline success (0.4 s)
+m2    reposition  ok               Soll success, Pipeline success (0.4 s)
+m3    reposition  ok               Soll success, Pipeline success (0.4 s)
+m4    reposition  ok               Soll success, Pipeline success (0.4 s)
+a1    add         ok_abgelehnt     Soll no_success, Pipeline failed (0.2 s) | {"task": "Trockenlauf a1", "status": "failed", "reason": "Nach 3 Runden nicht bestanden", "out_ifc": null, "kept": false, "seconds": 0.164, "rounds": [{"round": 1, "op": {"op": "add_hosted_element", "ifc_class": "IfcWindow", "host_guid": "2O2Fr$t4X7Zf8NOew3FLQD", "offset": 1.0, "width": 0.9, "height": 1.0, "sill_height": 0.9}, "stage_failed": "executor", "feedback": "fail: Executor (missing_wall_dimensions): Wand 105: Länge (BaseQuantities.Length) oder Dicke (IfcMaterialLayerSetUsage) fehlt, Pos
+a2    add         ok               Soll success, Pipeline success (0.4 s)
+a3    add         ok               Soll success, Pipeline success (0.5 s)
+a4    add         ok               Soll success, Pipeline success (0.5 s)
+x1    abort       struktur_ok      
+x2    abort       struktur_ok      
+x3    abort       struktur_ok      
+x4    abort       struktur_ok      
+
+Zusammenfassung: {'ok': 11, 'ok_abgelehnt': 1, 'struktur_ok': 4}
+=== smiley_west
+r1    remove      ok               Soll success, Pipeline success (1.6 s)
+r2    remove      ok               Soll success, Pipeline success (1.7 s)
+r3    remove      ok               Soll success, Pipeline success (1.7 s)
+r4    remove      ok               Soll success, Pipeline success (1.7 s)
+m1    reposition  ok               Soll success, Pipeline success (13.1 s)
+m2    reposition  ok               Soll success, Pipeline success (9.7 s)
+m3    reposition  ok               Soll success, Pipeline success (10.7 s)
+m4    reposition  ok               Soll success, Pipeline success (9.8 s)
+a1    add         ok               Soll success, Pipeline success (5.7 s)
+a2    add         ok               Soll success, Pipeline success (5.7 s)
+a3    add         ok               Soll success, Pipeline success (5.7 s)
+a4    add         ok               Soll success, Pipeline success (5.7 s)
+x1    abort       struktur_ok      
+x2    abort       struktur_ok      
+x3    abort       struktur_ok      
+x4    abort       struktur_ok      
+
+Zusammenfassung: {'ok': 12, 'struktur_ok': 4}
+=== dental_clinic
+r1    remove      ok               Soll success, Pipeline success (5.0 s)
+r2    remove      ok               Soll success, Pipeline success (5.0 s)
+r3    remove      ok               Soll success, Pipeline success (5.0 s)
+r4    remove      ok               Soll success, Pipeline success (5.2 s)
+m1    reposition  ok               Soll success, Pipeline success (5.0 s)
+m2    reposition  ok               Soll success, Pipeline success (5.1 s)
+m3    reposition  ok               Soll success, Pipeline success (5.1 s)
+m4    reposition  ok               Soll success, Pipeline success (5.3 s)
+a1    add         ok_abgelehnt     Soll no_success, Pipeline failed (2.0 s) | {"task": "Trockenlauf a1", "status": "failed", "reason": "Nach 3 Runden nicht bestanden", "out_ifc": null, "kept": false, "seconds": 2.044, "rounds": [{"round": 1, "op": {"op": "add_hosted_element", "ifc_class": "IfcWindow", "host_guid": "3LbNSBzHHBSuzhUUvuwBVB", "offset": 1.0, "width": 0.9, "height": 1.0, "sill_height": 0.9}, "stage_failed": "executor", "feedback": "fail: Executor (missing_wall_dimensions): Wand 506: Länge (BaseQuantities.Length) oder Dicke (IfcMaterialLayerSetUsage) fehlt, Pos
+a2    add         ok               Soll success, Pipeline success (5.2 s)
+a3    add         ok               Soll success, Pipeline success (5.2 s)
+a4    add         ok               Soll success, Pipeline success (6.3 s)
+x1    abort       struktur_ok      
+x2    abort       struktur_ok      
+x3    abort       struktur_ok      
+x4    abort       struktur_ok      
+
+Zusammenfassung: {'ok': 11, 'ok_abgelehnt': 1, 'struktur_ok': 4}

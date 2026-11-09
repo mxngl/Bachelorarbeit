@@ -1,0 +1,235 @@
+[
+ {
+  "id": "r1",
+  "category": "remove",
+  "task": "Delete the door 'M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1hOSvn6df7F8_7GcBWlS8Z"
+   }
+  }
+ },
+ {
+  "id": "r2",
+  "category": "remove",
+  "task": "Remove the window 'M_Fixed:2800mm x 2410mm:2800mm x 2410mm:147686'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "1hOSvn6df7F8_7GcBWlSXO"
+   }
+  }
+ },
+ {
+  "id": "r3",
+  "category": "remove",
+  "task": "Delete the queen-size bed in room 'B203' on storey 'Level 2'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "2OBrcmyk58NupXoVOHUtM4"
+   },
+   "note": "Raeumliche Referenz, Ziel ist 'M_Bed-Standard:1525 x 2007mm - Queen:1525 x 2007mm - Queen:168449' (einziges Queen-Bett im Raum B203; in A203 steht ein weiteres)"
+  }
+ },
+ {
+  "id": "r4",
+  "category": "remove",
+  "task": "Delete the wall 'Basic Wall:Interior - Partition (92mm Stud):143921'.",
+  "expected": {
+   "outcome": "success",
+   "op": "delete_element",
+   "params": {
+    "guid": "2O2Fr$t4X7Zf8NOew3FLIE"
+   },
+   "note": "Kaskade: 'M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065' entfaellt mit"
+  }
+ },
+ {
+  "id": "m1",
+  "category": "reposition",
+  "task": "Move the wall 'Basic Wall:Interior - Furring (152 mm Stud):189074' 0.5 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "0iEHWY1$XA8eQeeULq4jZ1",
+    "translation": [
+     0.5,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m2",
+  "category": "reposition",
+  "task": "Move the sofa 'M_Sofa:1830mm:1830mm:168377' 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "2OBrcmyk58NupXoVOHUtOy",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "m3",
+  "category": "reposition",
+  "task": "Move the wall 'Basic Wall:Interior - Furring (152 mm Stud):189901' to storey 'Level 2'.",
+  "expected": {
+   "outcome": "success",
+   "op": "reassign_container",
+   "params": {
+    "guid": "0iEHWY1$XA8eQeeULq4j_U",
+    "target_storey_guid": "1xS3BCk291UvhgP2dvNMQJ"
+   }
+  }
+ },
+ {
+  "id": "m4",
+  "category": "reposition",
+  "task": "Place the beam 'M_W-Wide Flange:W410X60:W410X60:209121' so that its origin is at x = 1.267 m, y = -13.402 m, z = 6.0 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "move_element",
+   "params": {
+    "guid": "2OrWItJ6zAwBNp0OUxK$Bq",
+    "target_location": [
+     1.267,
+     -13.402,
+     6.0
+    ]
+   },
+   "note": "Bezug ist der Placement-Ursprung des Elements (Ausgangswert in x um 1 m verschoben)"
+  }
+ },
+ {
+  "id": "a1",
+  "category": "add",
+  "task": "Add a window to the wall 'Basic Wall:Exterior - Brick on Block:143410', 1.0 m from the wall start, 0.9 m wide and 1.0 m high, with a sill height of 0.9 m.",
+  "expected": {
+   "outcome": "no_success",
+   "op": "add_hosted_element",
+   "params": {
+    "ifc_class": "IfcWindow",
+    "host_guid": "2O2Fr$t4X7Zf8NOew3FLQD",
+    "offset": 1.0,
+    "width": 0.9,
+    "height": 1.0,
+    "sill_height": 0.9
+   },
+   "note": "Erwartung (Pilotmodelle): BaseQuantities.Length/IfcMaterialLayerSetUsage fehlen an Revit-Waenden, Executor lehnt mit missing_wall_dimensions ab. Ziel ist kein Erfolg"
+  }
+ },
+ {
+  "id": "a2",
+  "category": "add",
+  "task": "Create a copy of the sofa 'M_Sofa:1830mm:1830mm:167283' shifted by 1.5 m in positive Y direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "2OBrcmyk58NupXoVOHUshs",
+    "translation": [
+     0,
+     1.5,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a3",
+  "category": "add",
+  "task": "Create a copy of the railing 'Railing:900mm Handrail Only:151162' shifted by 1 m in positive X direction.",
+  "expected": {
+   "outcome": "success",
+   "op": "clone_element",
+   "params": {
+    "source_guid": "0wkEuT1wr1kOyafLY4v_PL",
+    "translation": [
+     1,
+     0,
+     0
+    ]
+   }
+  }
+ },
+ {
+  "id": "a4",
+  "category": "add",
+  "task": "On storey 'Level 1', add a column at x = 12.0 m, y = -5.0 m with a cross section of 0.3 m by 0.3 m and a height of 3.0 m.",
+  "expected": {
+   "outcome": "success",
+   "op": "add_element",
+   "params": {
+    "ifc_class": "IfcColumn",
+    "storey_guid": "1xS3BCk291UvhgP2dvNMKI",
+    "position": [
+     12.0,
+     -5.0
+    ],
+    "width": 0.3,
+    "depth": 0.3,
+    "height": 3.0
+   },
+   "check_coords": true,
+   "note": "Position ausserhalb des Gebaeudeumrisses gewaehlt (Kollisionen vermeiden); Lage im Trockenlauf pruefen"
+  }
+ },
+ {
+  "id": "x1",
+  "category": "abort",
+  "task": "Delete the railing.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "4 IfcRailing"
+  }
+ },
+ {
+  "id": "x2",
+  "category": "abort",
+  "task": "Delete the door 'M_Single-Flush:0762 x 2032mm:0762 x 2032mm:999999'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "not_found",
+   "stage": "locator",
+   "note": "Name einer existierenden Tuer, Nummer bzw. ElementId durch einen nicht vorhandenen Wert ersetzt"
+  }
+ },
+ {
+  "id": "x3",
+  "category": "abort",
+  "task": "Rotate the wall 'Basic Wall:Interior - Furring (152 mm Stud):190774' by 90 degrees.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "out_of_scope",
+   "stage": "generator",
+   "note": "rotate_element ist nicht im Vokabular"
+  }
+ },
+ {
+  "id": "x4",
+  "category": "abort",
+  "task": "Delete the queen-size bed in the room 'Bedroom 2'.",
+  "expected": {
+   "outcome": "abort",
+   "abort_reason": "ambiguous",
+   "stage": "locator",
+   "note": "Zwei Raeume heissen 'Bedroom 2' (A203, B203), jeder mit einem Queen-Bett"
+  }
+ }
+]

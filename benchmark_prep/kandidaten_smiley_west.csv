@@ -1,0 +1,832 @@
+guid,basis,klasse,name,typ,geschoss,raum,raum_lang,raum_quelle,host,x,y,z,n_name,n_geschoss,n_raum,n_typ_raum
+0VRA3GmLzEUP9uulwvG2us,IfcWall,IfcWall,EG-Trennwand-05,Holzrahmen_Wand 11,EG,,,,,29.955,8.96,-0.07,1,81,,
+2he0kf8IbAhvp5RsTSHN10,IfcWall,IfcWall,EG-Trennwand-04,Holzrahmen_Wand 11,EG,,,,,22.45,8.96,-0.07,1,81,,
+3XEfWrJeT4wAroizvc528f,IfcWall,IfcWall,EG-Trennwand-03,Holzrahmen_Wand 11,EG,,,,,14.945,8.96,-0.07,1,81,,
+0efW25yT15UvXDo0tArwHK,IfcWall,IfcWall,EG-Trennwand-02,Holzrahmen_Wand 11,EG,,,,,7.44,8.96,-0.07,1,81,,
+2ZLRjQ2HH8JBozV4j33yMU,IfcWall,IfcWall,EG-Trennwand-01,Holzrahmen_Wand 11,EG,,,,,-0.05,8.96,-0.07,1,81,,
+0EIMrhkFX2zvT6tawsn2qW,IfcWall,IfcWall,EG-Trennwand-11,Holzrahmen_Wand 11,EG,,,,,74.981,8.96,-0.07,1,81,,
+0OsvamfsHFNhvlw9DDjzlH,IfcWall,IfcWall,EG-Trennwand-10,Holzrahmen_Wand 11,EG,,,,,67.48,8.96,-0.07,1,81,,
+1k6fMBa2n8KwzqJB0Y42tK,IfcWall,IfcWall,EG-Trennwand-09,Holzrahmen_Wand 11,EG,,,,,59.975,8.96,-0.07,1,81,,
+1ylfIyJ$j5DeKBpFYF0Any,IfcWall,IfcWall,EG-Trennwand-08,Holzrahmen_Wand 11,EG,,,,,52.47,8.96,-0.07,1,81,,
+2n0q1MJoz4IuX59ohrYWPp,IfcWall,IfcWall,EG-Trennwand-07,Holzrahmen_Wand 11,EG,,,,,44.965,8.96,-0.07,1,81,,
+1Ke8q4jpn8Sx41MC$XzerJ,IfcWall,IfcWall,EG-Trennwand-06,Holzrahmen_Wand 11,EG,,,,,37.475,8.96,-0.07,1,81,,
+2b8bLJs0b53R2GuvTFC7i9,IfcWall,IfcWallStandardCase,Keller-A-03-4,Stahlbeton 2816491304 200,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,,22.485,0.0,-2.81,1,60,4,2
+1wEH1BGOj2v9xl5E5hVDSD,IfcWall,IfcWallStandardCase,Keller-I-04-1,Kalksandstein 268899148 200,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,,29.99,2.21,-2.81,1,60,4,1
+3891jGVvrDdRzqeJhEyvAM,IfcWall,IfcWallStandardCase,Keller-A-04-3,Stahlbeton 2816491304 200,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,,29.99,6.91,-2.81,1,60,4,2
+2kQA47ZTnA8RyGe58D8wHA,IfcWall,IfcWallStandardCase,Keller-A-04-1,Stahlbeton 2816491304 200,KG,04.0.3,FLUR-04-1,boundary_mehrere,,22.515,0.0,-2.81,1,60,1,1
+0dITJAjpzDRw6Tqws8ccIO,IfcWall,IfcWallStandardCase,Keller-A-05-1,Stahlbeton 2816491304 200,KG,05.0.3,FLUR-05-1,boundary_mehrere,,30.02,0.0,-2.81,1,60,1,1
+0rDyuSDov1ivtIh_Kja1VF,IfcWall,IfcWallStandardCase,Keller-A-04-4,Stahlbeton 2816491304 200,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,,29.99,0.0,-2.81,1,60,4,2
+2mrwieyY9CCwIppBpJO9qh,IfcWall,IfcWallStandardCase,Keller-A-04-2,Stahlbeton 2816491304 200,KG,04.0.1,KELLERRAUM-04-1,boundary,,22.515,6.909,-2.81,1,60,1,1
+1D_x$VZfz3BgYXWu36mzRE,IfcWall,IfcWallStandardCase,Keller-I-03-1,Kalksandstein 268899148 200,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,,22.485,2.21,-2.81,1,60,4,1
+1bin5B9Pf9xwU2EDbuxgVx,IfcWall,IfcWallStandardCase,Keller-A-03-2,Stahlbeton 2816491304 200,KG,03.0.1,KELLERRAUM-03-1,boundary,,15.01,6.909,-2.81,1,60,1,1
+3t64EORJzEcPzciJueEwr2,IfcWall,IfcWallStandardCase,Keller-I-02-1,Kalksandstein 268899148 200,KG,02.0.3,FLUR-02-1,boundary_mehrere,,14.98,2.21,-2.81,1,60,4,1
+3hxUJW$mD9mBlHltL$zzyF,IfcWall,IfcWallStandardCase,Keller-A-03-3,Stahlbeton 2816491304 200,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,,22.485,6.91,-2.81,1,60,4,2
+3_OGjDkvr93hDjlUbjW5To,IfcWall,IfcWallStandardCase,Keller-A-03-1,Stahlbeton 2816491304 200,KG,03.0.3,FLUR-03-1,boundary_mehrere,,15.01,0.0,-2.81,1,60,1,1
+0vfZTOs9bE3uFkEhh4H4bf,IfcWall,IfcWallStandardCase,Keller-A-01-1,Stahlbeton 2816491304 200,KG,01.0.3,FLUR-01-1,boundary_mehrere,,0.0,0.0,-2.81,1,60,1,1
+2foM2Lm7r4re8KW99NC90o,IfcWall,IfcWallStandardCase,Keller-A-02-3,Stahlbeton 2816491304 200,KG,02.0.2,Kellerraum-02-2,boundary_mehrere,,14.98,6.91,-2.81,1,60,1,1
+1XaA5$O45DKQ9RoZVD5HbP,IfcWall,IfcWallStandardCase,Keller-A-02-4,Stahlbeton 2816491304 200,KG,02.0.3,FLUR-02-1,boundary_mehrere,,14.98,0.0,-2.81,1,60,4,2
+2Gmos7YT5AufQRmOXkUZ8R,IfcWall,IfcWallStandardCase,Keller-A-02-1,Stahlbeton 2816491304 200,KG,02.0.3,FLUR-02-1,boundary_mehrere,,7.505,0.0,-2.81,1,60,4,2
+3GFpm$$bb8TBO1pW5Z51C9,IfcWall,IfcWallStandardCase,Keller-A-02-2,Stahlbeton 2816491304 200,KG,02.0.1,KELLERRAUM-02-1,boundary,,7.505,6.909,-2.81,1,60,1,1
+1W1uT4KcD2A82HzI8xRc7k,IfcWall,IfcWallStandardCase,Keller-A-01-3,Stahlbeton 2816491304 200,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,,7.475,6.91,-2.81,1,60,4,2
+2$o_dX_1rD8f5LXdr3gNif,IfcWall,IfcWallStandardCase,Keller-I-01-1,Kalksandstein 268899148 200,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,,7.475,2.21,-2.81,1,60,4,1
+0l94Qy92fCY9j$Su5rcGDr,IfcWall,IfcWallStandardCase,Keller-A-01-2,Stahlbeton 2816491304 200,KG,01.0.1,KELLERRAUM-01-1,boundary,,0.0,6.909,-2.81,1,60,1,1
+0Fy_XN4cP5wRkN$oNOO$FK,IfcWall,IfcWallStandardCase,Keller-I-01-2,Gips 275646950 100,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,,4.925,2.21,-2.81,1,60,4,1
+0TxAYc_5v1i8_KiwL3jxv7,IfcWall,IfcWallStandardCase,Keller-A-01-4,Stahlbeton 2816491304 200,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,,7.475,0.0,-2.81,1,60,4,2
+1qfnvAxy17owngs1t6iqLA,IfcWall,IfcWallStandardCase,Keller-I-03-2,Gips 275646950 100,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,,19.935,2.21,-2.81,1,60,4,1
+0kJTj6gKD1CuDWYMqO2Qnq,IfcWall,IfcWallStandardCase,Keller-I-05-2,Gips 275646950 100,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,,34.945,2.21,-2.81,1,60,4,1
+13lPAyHKL7t8C8ytcRb2EL,IfcWall,IfcWallStandardCase,Keller-I-04-2,Gips 275646950 100,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,,27.44,2.21,-2.81,1,60,4,1
+16FljoWD104eSud1GYjb8d,IfcWall,IfcWallStandardCase,Keller-I-02-2,Gips 275646950 100,KG,02.0.3,FLUR-02-1,boundary_mehrere,,12.43,2.21,-2.81,1,60,4,1
+3qduFwvHXBoegjgyS0ypqX,IfcWall,IfcWallStandardCase,Keller-A-05-2,Stahlbeton 2816491304 200,KG,05.0.1,KELLERRAUM-05-1,boundary,,30.02,6.909,-2.81,1,60,1,1
+13hBs4PZXFzA6GpSS7JJQN,IfcWall,IfcWallStandardCase,Keller-I-05-1,Kalksandstein 268899148 200,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,,37.495,2.21,-2.81,1,60,4,1
+1tNBfHDUX4Ex40aLQ57AqT,IfcWall,IfcWallStandardCase,Keller-A-05-3,Stahlbeton 2816491304 200,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,,37.495,6.91,-2.81,1,60,4,2
+2hcZ08vCL7hQJQ1VZaUeYK,IfcWall,IfcWallStandardCase,Keller-A-05-4,Stahlbeton 2816491304 200,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,,37.495,0.0,-2.81,1,60,4,2
+0VzkbPjXf7s9gniZplBYo1,IfcWall,IfcWallStandardCase,Keller-A-08-4,Stahlbeton 2816491304 200,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,,60.01,0.0,-2.81,1,60,4,2
+2O8dI8KNT6VwFS2gujcZGT,IfcWall,IfcWallStandardCase,Keller-I-09-1,Kalksandstein 268899148 200,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,,67.515,2.21,-2.81,1,60,4,1
+1NqgPg9e196urml9a8Nimm,IfcWall,IfcWallStandardCase,Keller-A-09-3,Stahlbeton 2816491304 200,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,,67.515,6.91,-2.81,1,60,4,2
+3$NkQdXef3ohFShSSDJUQW,IfcWall,IfcWallStandardCase,Keller-A-09-1,Stahlbeton 2816491304 200,KG,09.0.3,FLUR-09-1,boundary_mehrere,,60.04,0.0,-2.81,1,60,1,1
+0$gQuAVrT6DveZGoTjLqlW,IfcWall,IfcWallStandardCase,Keller-A-10-1,Stahlbeton 2816491304 200,KG,10.0.3,FLUR-10-1,boundary_mehrere,,67.545,0.0,-2.81,1,60,1,1
+2PQK6gyXrFU8__BgdjG28L,IfcWall,IfcWallStandardCase,Keller-A-09-4,Stahlbeton 2816491304 200,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,,67.515,0.0,-2.81,1,60,4,2
+1TOrntnBD0NuLOGojgDewo,IfcWall,IfcWallStandardCase,Keller-A-09-2,Stahlbeton 2816491304 200,KG,09.0.1,KELLERRAUM-09-1,boundary,,60.04,6.909,-2.81,1,60,1,1
+2kuNE79Zr0QvLszwH9XB5A,IfcWall,IfcWallStandardCase,Keller-I-08-1,Kalksandstein 268899148 200,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,,60.01,2.21,-2.81,1,60,4,1
+0qxSE1G7j9TgnyZZYgKduA,IfcWall,IfcWallStandardCase,Keller-A-08-2,Stahlbeton 2816491304 200,KG,08.0.1,KELLERRAUM-08-1,boundary,,52.535,6.909,-2.81,1,60,1,1
+2jky7s7onCMw4Z1v317UnJ,IfcWall,IfcWallStandardCase,Keller-I-07-1,Kalksandstein 268899148 200,KG,07.0.3,FLUR-07-1,boundary_mehrere,,52.505,2.21,-2.81,1,60,4,1
+2SL8RZF6j1z8O05r99yKT4,IfcWall,IfcWallStandardCase,Keller-A-08-3,Stahlbeton 2816491304 200,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,,60.01,6.91,-2.81,1,60,4,2
+2WlxW2dyz6tvDjrfG8ESIt,IfcWall,IfcWallStandardCase,Keller-A-08-1,Stahlbeton 2816491304 200,KG,08.0.3,FLUR-08-1,boundary_mehrere,,52.535,0.0,-2.81,1,60,1,1
+3LxnxwJ891SO743iWoxBMd,IfcWall,IfcWallStandardCase,Keller-A-06-1,Stahlbeton 2816491304 200,KG,06.0.3,FLUR-06-1,boundary_mehrere,,37.525,0.0,-2.81,1,60,1,1
+1Nvv$MCGr4ige2BbFOz6hJ,IfcWall,IfcWallStandardCase,Keller-A-07-3,Stahlbeton 2816491304 200,KG,07.0.2,Kellerraum-07-2,boundary_mehrere,,52.505,6.91,-2.81,1,60,1,1
+1xA9r1Klf93Qf_DsHFgXda,IfcWall,IfcWallStandardCase,Keller-A-07-4,Stahlbeton 2816491304 200,KG,07.0.3,FLUR-07-1,boundary_mehrere,,52.505,0.0,-2.81,1,60,4,2
+0F_ADUTlXCHOAF5nICwk2x,IfcWall,IfcWallStandardCase,Keller-A-07-1,Stahlbeton 2816491304 200,KG,07.0.3,FLUR-07-1,boundary_mehrere,,45.03,0.0,-2.81,1,60,4,2
+11O5ZOsa56zRpbLrj$INWL,IfcWall,IfcWallStandardCase,Keller-A-07-2,Stahlbeton 2816491304 200,KG,07.0.1,KELLERRAUM-07-1,boundary,,45.03,6.909,-2.81,1,60,1,1
+1GJzhFq1zAVuRlQQEDvjS6,IfcWall,IfcWallStandardCase,Keller-A-06-3,Stahlbeton 2816491304 200,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,,45.0,6.91,-2.81,1,60,4,2
+02kNomHefBm8gLC0TLit83,IfcWall,IfcWallStandardCase,Keller-I-06-1,Kalksandstein 268899148 200,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,,45.0,2.21,-2.81,1,60,4,1
+0WzeAna3nCuA2PL734yn7L,IfcWall,IfcWallStandardCase,Keller-A-06-2,Stahlbeton 2816491304 200,KG,06.0.1,KELLERRAUM-06-1,boundary,,37.525,6.909,-2.81,1,60,1,1
+3GEpY0qmTBiglFc_ox9rcv,IfcWall,IfcWallStandardCase,Keller-I-06-2,Gips 275646950 100,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,,42.45,2.21,-2.81,1,60,4,1
+0wpHdKxwLBC9sjEtqqvxbe,IfcWall,IfcWallStandardCase,Keller-A-06-4,Stahlbeton 2816491304 200,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,,45.0,0.0,-2.81,1,60,4,2
+3JIt9wdlj4h8bCdw2nsEjT,IfcWall,IfcWallStandardCase,Keller-I-08-2,Gips 275646950 100,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,,57.46,2.21,-2.81,1,60,4,1
+3zQiR8Ry9AS9YLM5WkgmAG,IfcWall,IfcWallStandardCase,Keller-I-10-2,Gips 275646950 100,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,,72.47,2.21,-2.81,1,60,4,1
+3iomqEEIr9Cwh0fq7xhEZv,IfcWall,IfcWallStandardCase,Keller-I-09-2,Gips 275646950 100,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,,64.965,2.21,-2.81,1,60,4,1
+2VTEcqN8H6aQh9ZUZo5oNr,IfcWall,IfcWallStandardCase,Keller-I-07-2,Gips 275646950 100,KG,07.0.3,FLUR-07-1,boundary_mehrere,,49.955,2.21,-2.81,1,60,4,1
+3ZJptmPU1AFBE7U5Sa4eat,IfcWall,IfcWallStandardCase,Keller-A-10-2,Stahlbeton 2816491304 200,KG,10.0.1,KELLERRAUM-10-1,boundary,,67.545,6.909,-2.81,1,60,1,1
+2dHKPOgq5E49cYRxY$gLL1,IfcWall,IfcWallStandardCase,Keller-I-10-1,Kalksandstein 268899148 200,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,,75.02,2.21,-2.81,1,60,4,1
+12yz0YD_H5Wu2CDwmyeg1F,IfcWall,IfcWallStandardCase,Keller-A-10-3,Stahlbeton 2816491304 200,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,,75.02,6.91,-2.81,1,60,4,2
+3C37B7k$r8nBAxIag6xauB,IfcWall,IfcWallStandardCase,Keller-A-10-4,Stahlbeton 2816491304 200,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,,75.02,0.0,-2.81,1,60,4,2
+0NJuvIQND4heQzolrkfryF,IfcWall,IfcWallStandardCase,EG-A-05-3,Kalksandstein 268899148 200,EG,05.1.1,WOHNEN / KOCHEN-05-1,boundary,,37.495,6.96,-0.25,2,81,2,1
+1DgY17yDL92whWKvnLeUK6,IfcWall,IfcWallStandardCase,EG-I-05-2,Gips 275646950 100,EG,05.1.2,WC-05-1,boundary_mehrere,,33.825,-0.05,-0.25,1,81,4,2
+1vyBOVVqz2ZAfCUm1naA6j,IfcWall,IfcWallStandardCase,EG-A-05-3,Beton-Wärmeschutz 250,EG,05.1.2,WC-05-1,boundary_mehrere,,37.495,-0.05,-0.25,2,81,4,1
+1N3bcp6aT5E9y5dZ6j$pWy,IfcWall,IfcWallStandardCase,EG-I-05-3,Gips 275646950 100,EG,05.1.2,WC-05-1,boundary_mehrere,,34.845,-0.05,-0.25,1,81,4,2
+3dnMNUqgT2veqoMuJUHsfQ,IfcWall,IfcWallStandardCase,EG-I-05-1,Kalksandstein 268899148 175,EG,05.1.2,WC-05-1,boundary_mehrere,,35.692,2.21,-0.25,1,81,4,1
+0vs4eSTZP2WfZyrLyQcV4a,IfcWall,IfcWallStandardCase,EG-I-03-3,Gips 275646950 100,EG,03.1.2,WC-03-1,boundary_mehrere,,19.835,-0.05,-0.25,1,81,4,2
+1RRq$esvX0afTeGKYTnhz6,IfcWall,IfcWallStandardCase,EG-A-05-2,Beton-Wärmeschutz 250,EG,05.1.1,WOHNEN / KOCHEN-05-1,boundary,,30.02,6.96,-0.25,1,81,2,1
+37aLECbQ9BmxwujkzVfRgo,IfcWall,IfcWallStandardCase,EG-I-04-2,Gips 275646950 100,EG,04.1.3,FLUR-04-2,boundary_mehrere,,26.32,-0.05,-0.25,1,81,4,1
+0THvsYtDfEMP3AXWWuG7Jh,IfcWall,IfcWallStandardCase,EG-A-04-1,Kalksandstein 268899148 200,EG,04.1.3,FLUR-04-2,boundary_mehrere,,22.515,-0.05,-0.25,1,81,4,1
+3fG_Yv4SjFIgCgKCfUU4Dy,IfcWall,IfcWallStandardCase,EG-I-04-3,Gips 275646950 100,EG,04.1.2,WC-04-1,boundary_mehrere,,27.34,-0.05,-0.25,1,81,1,1
+3nF6PIgMf0dPUNq52y_dmh,IfcWall,IfcWallStandardCase,EG-A-05-1,Kalksandstein 268899148 200,EG,05.1.3,FLUR-05-2,boundary_mehrere,,30.02,-0.05,-0.25,1,81,1,1
+2AlgoAEhD08Pc9zNFXF2Ew,IfcWall,IfcWallStandardCase,EG-I-04-1,Kalksandstein 268899148 175,EG,04.1.3,FLUR-04-2,boundary_mehrere,,28.187,2.21,-0.25,1,81,4,1
+2to1ekR$910RnDHxdH$Qkl,IfcWall,IfcWallStandardCase,EG-A-04-3,Kalksandstein 268899148 200,EG,04.1.1,WOHNEN / KOCHEN-04-1,boundary,,29.99,6.96,-0.25,1,81,2,1
+0Cc5Ixrr1C4PSsN4K4Y7Hf,IfcWall,IfcWallStandardCase,EG-A-04-4,Beton-Wärmeschutz 250,EG,04.1.3,FLUR-04-2,boundary_mehrere,,29.99,-0.05,-0.25,1,81,4,1
+31nzyJ$216Wfswracfz$u2,IfcWall,IfcWallStandardCase,EG-A-04-2,Beton-Wärmeschutz 250,EG,04.1.1,WOHNEN / KOCHEN-04-1,boundary,,22.515,6.96,-0.25,1,81,2,1
+2KsmoW_kvD88gId1jurAra,IfcWall,IfcWallStandardCase,EG-I-02-2,Gips 275646950 100,EG,02.1.3,FLUR-02-2,boundary_mehrere,,11.31,-0.05,-0.25,1,81,4,1
+0kn8XFWGn1ovx3axPfhGtk,IfcWall,IfcWallStandardCase,EG-A-03-3,Kalksandstein 268899148 200,EG,03.1.1,WOHNEN / KOCHEN-03-1,boundary,,22.485,6.96,-0.25,1,81,2,1
+3u1vdqEQD5HfJ6vz72AnVO,IfcWall,IfcWallStandardCase,EG-A-03-2,Beton-Wärmeschutz 250,EG,03.1.1,WOHNEN / KOCHEN-03-1,boundary,,15.01,6.96,-0.25,1,81,2,1
+10lPCH2oT7mgRFNXw$XC2o,IfcWall,IfcWallStandardCase,EG-I-03-2,Gips 275646950 100,EG,03.1.2,WC-03-1,boundary_mehrere,,18.816,-0.05,-0.25,1,81,4,2
+1lIv2PNbb08QfVwNw0gKc2,IfcWall,IfcWallStandardCase,EG-I-03-1,Kalksandstein 268899148 175,EG,03.1.2,WC-03-1,boundary_mehrere,,20.52,2.21,-0.25,1,81,4,1
+1__0cts3z3Tu933U7nXsyt,IfcWall,IfcWallStandardCase,EG-A-03-4,Beton-Wärmeschutz 250,EG,03.1.2,WC-03-1,boundary_mehrere,,22.485,-0.05,-0.25,1,81,4,1
+2bslFHVO14XBc451VQxpeD,IfcWall,IfcWallStandardCase,EG-I-02-3,Gips 275646950 100,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary_mehrere,,12.329,-0.05,-0.25,1,81,3,1
+2ui19KjVL6EuxbJF9dq_mV,IfcWall,IfcWallStandardCase,EG-A-03-1,Kalksandstein 268899148 200,EG,03.1.3,Flur-03-2,boundary_mehrere,,15.01,-0.05,-0.25,1,81,1,1
+1QJW0EW_H4Vwf8W_jP6RTh,IfcWall,IfcWallStandardCase,EG-I-02-1,Kalksandstein 268899148 175,EG,02.1.3,FLUR-02-2,boundary_mehrere,,13.177,2.21,-0.25,1,81,4,1
+15fWlafVHCUPAj_neFFViv,IfcWall,IfcWallStandardCase,EG-A-02-4,Beton-Wärmeschutz 250,EG,02.1.3,FLUR-02-2,boundary_mehrere,,14.98,-0.05,-0.25,1,81,4,1
+1Bhq4PxYb0RRwxNry00aqC,IfcWall,IfcWallStandardCase,EG-I-01-3,Gips 275646950 100,EG,01.1.2,WC-01-1,boundary_mehrere,,4.825,-0.05,-0.25,1,81,1,1
+1nZXtbi0TBZf2uZX9$HIcx,IfcWall,IfcWallStandardCase,EG-A-01-3,Kalksandstein 268899148 200,EG,01.1.1,WOHNEN / KOCHEN-01-1,boundary,,7.475,6.96,-0.25,1,81,2,1
+3Qz2RKyJr1XQ8WcPp7OU6o,IfcWall,IfcWallStandardCase,EG-A-01-1,Beton-Wärmeschutz 250,EG,01.1.3,Flur-01-2,boundary_mehrere,,-0.05,-0.05,-0.25,1,81,4,2
+3XvQQHam50_u$RF0oNlgpi,IfcWall,IfcWallStandardCase,EG-I-01-1,Kalksandstein 268899148 175,EG,01.1.3,Flur-01-2,boundary_mehrere,,5.672,2.21,-0.25,1,81,4,1
+0jsIow8vTBzwrkSTIPptEG,IfcWall,IfcWallStandardCase,EG-A-01-4,Beton-Wärmeschutz 250,EG,01.1.3,Flur-01-2,boundary_mehrere,,7.475,-0.05,-0.25,1,81,4,2
+0Zj0JnUDvBBetlJkqI2svJ,IfcWall,IfcWallStandardCase,EG-A-02-1,Kalksandstein 268899148 200,EG,02.1.3,FLUR-02-2,boundary_mehrere,,7.505,-0.05,-0.25,1,81,4,1
+0AAd0rFhXFdQJSElR6sGP0,IfcWall,IfcWallStandardCase,EG-A-02-2,Beton-Wärmeschutz 250,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary,,7.505,6.96,-0.25,1,81,3,1
+00$ax1d6PEiAAdgD7ExTVQ,IfcWall,IfcWallStandardCase,EG-I-01-2,Gips 275646950 100,EG,01.1.3,Flur-01-2,boundary_mehrere,,3.805,-0.05,-0.25,1,81,4,1
+3HO6_10xv4ufE$hy2CDlrG,IfcWall,IfcWallStandardCase,EG-A-02-3,Kalksandstein 268899148 200,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary,,14.98,6.96,-0.25,1,81,3,1
+1BLJyeYRfErx3CSrpb7xJP,IfcWall,IfcWallStandardCase,EG-A-01-2,Beton-Wärmeschutz 250,EG,01.1.1,WOHNEN / KOCHEN-01-1,boundary,,-0.05,6.96,-0.25,1,81,2,1
+1VOAFaxl1DlQWuTxcJFyQ8,IfcWall,IfcWallStandardCase,EG-A-10-3,Beton-Wärmeschutz 250,EG,5.1.1,WOHNEN / KOCHEN-5-1,boundary,,75.07,6.96,-0.25,2,81,2,2
+25j2tBV89BjwBmiyzqYBU3,IfcWall,IfcWallStandardCase,EG-I-10-2,Gips 275646950 100,EG,10.1.2,WC-10-1,boundary_mehrere,,71.35,-0.05,-0.25,1,81,4,2
+2sz6EQj25F2QHA5V54Q7sC,IfcWall,IfcWallStandardCase,EG-A-10-3,Beton-Wärmeschutz 250,EG,10.1.2,WC-10-1,boundary_mehrere,,75.07,-0.05,-0.25,2,81,4,1
+1x4DQmckr0y8_IqiTJPVav,IfcWall,IfcWallStandardCase,EG-I-10-3,Gips 275646950 100,EG,10.1.2,WC-10-1,boundary_mehrere,,72.37,-0.05,-0.25,1,81,4,2
+1F9gMOuYLAmApGAEj_zA6P,IfcWall,IfcWallStandardCase,EG-I-10-1,Kalksandstein 268899148 175,EG,10.1.2,WC-10-1,boundary_mehrere,,73.217,2.21,-0.25,1,81,4,1
+2tvE4Qit91$vJzWrkEp91E,IfcWall,IfcWallStandardCase,EG-I-08-3,Gips 275646950 100,EG,08.1.2,WC-08-1,boundary_mehrere,,57.36,-0.05,-0.25,1,81,4,2
+0kWi7sheXAh8Hk8xqbR9Ea,IfcWall,IfcWallStandardCase,EG-A-10-2,Beton-Wärmeschutz 250,EG,5.1.1,WOHNEN / KOCHEN-5-1,boundary,,67.545,6.96,-0.25,1,81,2,2
+1At9t9jgr5dx1I3He_h0QX,IfcWall,IfcWallStandardCase,EG-I-09-2,Gips 275646950 100,EG,10.1.3,FLUR-10-2,boundary_mehrere,,63.846,-0.05,-0.25,1,81,5,1
+2AdkkU7Af2Fe4LcmRK0haX,IfcWall,IfcWallStandardCase,EG-A-09-1,Kalksandstein 268899148 200,EG,10.1.3,FLUR-10-2,boundary_mehrere,,60.04,-0.05,-0.25,1,81,5,2
+1OaEkz4s12k8hIjE36K0d0,IfcWall,IfcWallStandardCase,EG-I-09-3,Gips 275646950 100,EG,09.1.2,WC-09-1,boundary_mehrere,,64.865,-0.05,-0.25,1,81,1,1
+2_WDFjTCD2CuAlueDrkf0z,IfcWall,IfcWallStandardCase,EG-A-10-1,Kalksandstein 268899148 200,EG,10.1.3,FLUR-10-2,boundary_mehrere,,67.545,-0.05,-0.25,1,81,5,2
+1k8iISLXn9nREfHhjAYpoB,IfcWall,IfcWallStandardCase,EG-I-09-1,Kalksandstein 268899148 175,EG,10.1.3,FLUR-10-2,boundary_mehrere,,65.712,2.21,-0.25,1,81,5,1
+0TUNS5AVv3F87ZbmXc$UYA,IfcWall,IfcWallStandardCase,EG-A-09-3,Kalksandstein 268899148 200,EG,09.1.1,WOHNEN / KOCHEN-09-1,boundary,,67.515,6.96,-0.25,1,81,2,1
+07sh$jVn9Cb8b$MGF_G9Ff,IfcWall,IfcWallStandardCase,EG-A-09-4,Beton-Wärmeschutz 250,EG,10.1.3,FLUR-10-2,boundary_mehrere,,67.515,-0.05,-0.25,1,81,5,1
+1kqzWvtin6ERqVIgLT6FEZ,IfcWall,IfcWallStandardCase,EG-A-09-2,Beton-Wärmeschutz 250,EG,09.1.1,WOHNEN / KOCHEN-09-1,boundary,,60.04,6.96,-0.25,1,81,2,1
+1WlSSD89TEV9jGF0SS8Sn7,IfcWall,IfcWallStandardCase,EG-I-07-2,Gips 275646950 100,EG,07.1.3,FLUR-07-2,boundary_mehrere,,48.835,-0.05,-0.25,1,81,4,1
+1NG8tMVIDEVfzkXVvwZm5m,IfcWall,IfcWallStandardCase,EG-A-08-3,Kalksandstein 268899148 200,EG,08.1.1,WOHNEN / KOCHEN-08-1,boundary,,60.01,6.96,-0.25,1,81,2,1
+0sLxcFwsfCuQE2oZIFHguB,IfcWall,IfcWallStandardCase,EG-A-08-2,Beton-Wärmeschutz 250,EG,08.1.1,WOHNEN / KOCHEN-08-1,boundary,,52.535,6.96,-0.25,1,81,2,1
+2AMBip_C58GwsWGbRUs40y,IfcWall,IfcWallStandardCase,EG-I-08-2,Gips 275646950 100,EG,08.1.2,WC-08-1,boundary_mehrere,,56.34,-0.05,-0.25,1,81,4,2
+09Lvh$fsD2ZuXfVgxcU3vD,IfcWall,IfcWallStandardCase,EG-I-08-1,Kalksandstein 268899148 175,EG,08.1.2,WC-08-1,boundary_mehrere,,58.045,2.21,-0.25,1,81,4,1
+1CJeccdVf0kOJDc2YVjhf2,IfcWall,IfcWallStandardCase,EG-A-08-4,Beton-Wärmeschutz 250,EG,08.1.2,WC-08-1,boundary_mehrere,,60.01,-0.05,-0.25,1,81,4,1
+2$IgDKawD4xu_AeaBIVthf,IfcWall,IfcWallStandardCase,EG-I-07-3,Gips 275646950 100,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary_mehrere,,49.854,-0.05,-0.25,1,81,3,1
+23tCU1zhz6jxMxOIp18$ox,IfcWall,IfcWallStandardCase,EG-A-08-1,Kalksandstein 268899148 200,EG,08.1.3,Flur-08-2,boundary_mehrere,,52.535,-0.05,-0.25,1,81,1,1
+0$hBkuhEPFm81JrKzxmoiS,IfcWall,IfcWallStandardCase,EG-I-07-1,Kalksandstein 268899148 175,EG,07.1.3,FLUR-07-2,boundary_mehrere,,50.702,2.21,-0.25,1,81,4,1
+3oQQ_$sLL4UOpT72dSWm3G,IfcWall,IfcWallStandardCase,EG-A-07-4,Beton-Wärmeschutz 250,EG,07.1.3,FLUR-07-2,boundary_mehrere,,52.505,-0.05,-0.25,1,81,4,1
+1sTHgHjQ56NReQvNxxzhJo,IfcWall,IfcWallStandardCase,EG-I-06-3,Gips 275646950 100,EG,06.1.2,WC-06-1,boundary_mehrere,,42.35,-0.05,-0.25,1,81,1,1
+3Pjxq$G8f9Mx9krjC1ZA4Z,IfcWall,IfcWallStandardCase,EG-A-06-3,Kalksandstein 268899148 200,EG,06.1.1,WOHNEN / KOCHEN-06-1,boundary,,45.0,6.96,-0.25,1,81,2,1
+3JnWTNT7n2gvImSIz$kHOE,IfcWall,IfcWallStandardCase,EG-A-06-1,Kalksandstein 268899148 200,EG,06.1.3,Flur-06-2,boundary_mehrere,,37.525,-0.05,-0.25,1,81,4,1
+1UP9yIqQD1tPB3BC5hmzej,IfcWall,IfcWallStandardCase,EG-I-06-1,Kalksandstein 268899148 175,EG,06.1.3,Flur-06-2,boundary_mehrere,,43.197,2.21,-0.25,1,81,4,1
+2O3I3LrAr03fAUzOLFmr93,IfcWall,IfcWallStandardCase,EG-A-06-4,Beton-Wärmeschutz 250,EG,06.1.3,Flur-06-2,boundary_mehrere,,45.0,-0.05,-0.25,1,81,4,1
+2YeobIMwf2cuJYkO5M8djE,IfcWall,IfcWallStandardCase,EG-A-07-1,Kalksandstein 268899148 200,EG,07.1.3,FLUR-07-2,boundary_mehrere,,45.03,-0.05,-0.25,1,81,4,1
+2ygjoP5vD7b8Zw0jWJs3i5,IfcWall,IfcWallStandardCase,EG-A-07-2,Beton-Wärmeschutz 250,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary,,45.03,6.96,-0.25,1,81,3,1
+33Pw7cupb8rOJx8K_Ed8g4,IfcWall,IfcWallStandardCase,EG-I-06-2,Gips 275646950 100,EG,06.1.3,Flur-06-2,boundary_mehrere,,41.331,-0.05,-0.25,1,81,4,1
+1idcgmhj5FbulfpWIQ2mjX,IfcWall,IfcWallStandardCase,EG-A-07-3,Kalksandstein 268899148 200,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary,,52.505,6.96,-0.25,1,81,3,1
+3qRVwfH4X6oADMU$mEEpBL,IfcWall,IfcWallStandardCase,EG-A-06-2,Beton-Wärmeschutz 250,EG,06.1.1,WOHNEN / KOCHEN-06-1,boundary,,37.525,6.96,-0.25,1,81,2,1
+38mJsG3b56cAa6Ei1gOnp0,IfcWall,IfcWallStandardCase,1OG-I-3-2,Gips 275646950 100,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,19.935,2.21,2.53,2,70,6,2
+3V5nLgjnr67xm0jfu44RLr,IfcWall,IfcWallStandardCase,1OG-I-1-2,Gips 275646950 100,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,4.925,2.21,2.53,2,70,6,2
+18mcpothr2ev3zg1HsROd1,IfcWall,IfcWallStandardCase,1OG-I-2-2,Gips 275646950 100,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,12.43,2.21,2.53,2,70,6,2
+2Kx5Okz1T37ernt6HauxFt,IfcWall,IfcWallStandardCase,1OG-I-4-2,Gips 275646950 100,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,,27.34,-0.05,2.53,2,70,5,2
+2C4wIXsKn0kBLNQNhEkqHO,IfcWall,IfcWallStandardCase,1OG-A-4-3,Kalksandstein 268899148 200,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,29.99,6.96,2.53,2,70,7,2
+3Y7nzG53nEb8vwBiygfw6u,IfcWall,IfcWallStandardCase,1OG-A-4-4,Beton-Wärmeschutz 250,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,,29.99,-0.05,2.53,2,70,5,2
+3nuqC4m5T94ujLO_vFz2hG,IfcWall,IfcWallStandardCase,1OG-A-4-2,Beton-Wärmeschutz 250,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,22.515,6.96,2.53,2,70,7,1
+2Erbqw4_r4fPhLsFYGy9XC,IfcWall,IfcWallStandardCase,1OG-A-3-3,Kalksandstein 268899148 200,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,22.485,6.96,2.53,2,70,6,2
+2h9VKTbEPDDB2babkYA51Z,IfcWall,IfcWallStandardCase,1OG-A-3-2,Beton-Wärmeschutz 250,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,15.01,6.96,2.53,2,70,7,1
+2_$ZX3X6f3S81V7wMOO0o_,IfcWall,IfcWallStandardCase,1OG-I-3-3,Gips 275646950 100,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,18.697,2.21,2.53,2,70,7,2
+2THxrBQQb9pfKoB5YG_T_R,IfcWall,IfcWallStandardCase,1OG-A-4-1,Kalksandstein 268899148 200,1.OG,4.2.1,ZIMMER-4-1,boundary_mehrere,,22.515,-0.05,2.53,2,70,1,1
+16_jQJDFf88RMg5oYNRe9p,IfcWall,IfcWallStandardCase,1OG-I-3-1,Kalksandstein 268899148 175,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,22.485,2.21,2.53,2,70,7,2
+3dNEtYpyH0WPUKGdJjZqXi,IfcWall,IfcWallStandardCase,1OG-A-3-4,Beton-Wärmeschutz 250,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,22.485,-0.05,2.53,2,70,6,2
+2GFP_MQZf57gYvLYMxE8T_,IfcWall,IfcWallStandardCase,1OG-I-2-3,Gips 275646950 100,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,11.192,2.21,2.53,2,70,7,2
+14Jy$ZQZ53Dv4umnjUkJjd,IfcWall,IfcWallStandardCase,1OG-A-3-1,Kalksandstein 268899148 200,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,15.01,-0.05,2.53,2,70,7,2
+06$jwnwYzB2xtme_3oKazV,IfcWall,IfcWallStandardCase,1OG-I-2-1,Kalksandstein 268899148 175,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,14.98,2.21,2.53,2,70,7,1
+16wg83TOb8I9EelKii4GcX,IfcWall,IfcWallStandardCase,1OG-A-2-3,Kalksandstein 268899148 200,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,14.98,6.96,2.53,2,70,6,2
+2srX9qvCn8m9oOZOuYVae9,IfcWall,IfcWallStandardCase,1OG-A-2-4,Beton-Wärmeschutz 250,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,14.98,-0.05,2.53,2,70,6,2
+2bGFZmGyf7awtvk0MxsCrc,IfcWall,IfcWallStandardCase,1OG-A-5-4,Beton-Wärmeschutz 250,1.OG,5.2.3,BAD / WC-5-1,boundary_mehrere,,37.495,-0.05,2.53,2,70,4,2
+2NGi5I7oj43xQrt7hK3ndQ,IfcWall,IfcWallStandardCase,1OG-I-1-3,Gips 275646950 100,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,3.687,2.21,2.53,2,70,8,2
+00$xCwIL11lAUmAPM4gMxk,IfcWall,IfcWallStandardCase,1OG-A-1-1,Beton-Wärmeschutz 250,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,-0.05,-0.05,2.53,2,70,6,3
+0NhIQKkNr2Vwp0sL8Gz6NX,IfcWall,IfcWallStandardCase,1OG-A-2-2,Beton-Wärmeschutz 250,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,7.505,6.96,2.53,2,70,7,2
+2NZ0$F9pfD8AoczgJY3eKI,IfcWall,IfcWallStandardCase,1OG-A-2-1,Kalksandstein 268899148 200,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,7.505,-0.05,2.53,2,70,7,2
+3DFtCo2snBNfoePeIeQC3Q,IfcWall,IfcWallStandardCase,1OG-A-1-2,Beton-Wärmeschutz 250,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,-0.05,6.96,2.53,2,70,8,2
+2hSdyvm3L94OkrReQmgjfk,IfcWall,IfcWallStandardCase,1OG-A-5-3,Kalksandstein 268899148 200,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,37.495,6.96,2.53,2,70,8,1
+0TQkmcTzL0ZfxeqP2F29Ye,IfcWall,IfcWallStandardCase,1OG-I-1-1,Kalksandstein 268899148 175,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,7.475,2.21,2.53,2,70,8,2
+28FL$9lPz4681nWm6Cd0ur,IfcWall,IfcWallStandardCase,1OG-A-1-3,Kalksandstein 268899148 200,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,7.475,6.96,2.53,2,70,8,2
+1DNMBax5L7o8W2$sW2wjOV,IfcWall,IfcWallStandardCase,1OG-A-1-4,Beton-Wärmeschutz 250,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,7.475,-0.05,2.53,2,70,6,3
+2gU84kgtv6sPOha3c5L0kK,IfcWall,IfcWallStandardCase,1OG-I-5-3,Gips 275646950 100,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,33.707,2.21,2.53,2,70,8,2
+0q9XnEUyL4vQPpZsmw9U0v,IfcWall,IfcWallStandardCase,1OG-I-4-1,Kalksandstein 268899148 175,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,29.99,2.21,2.53,2,70,7,2
+0BuxB_Yoz2bxinyZI$3Ehs,IfcWall,IfcWallStandardCase,1OG-I-5-1,Kalksandstein 268899148 175,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,37.495,2.21,2.53,2,70,8,2
+1pe4n1m091h8oQmW8wrNba,IfcWall,IfcWallStandardCase,1OG-I-5-2,Gips 275646950 100,1.OG,5.2.3,BAD / WC-5-1,boundary_mehrere,,34.846,-0.05,2.53,2,70,4,2
+3EufY04sT8Sh8teqJHzag9,IfcWall,IfcWallStandardCase,1OG-A-5-2,Beton-Wärmeschutz 250,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,30.02,6.96,2.53,2,70,8,3
+29SV9RzXbBxei8G6PvbPsx,IfcWall,IfcWallStandardCase,1OG-I-4-3,Gips 275646950 100,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,26.202,2.21,2.53,2,70,7,2
+0Cxs2bbhv6hvfh7lFtjXXp,IfcWall,IfcWallStandardCase,1OG-A-5-1,Kalksandstein 268899148 200,1.OG,5.2.1,ZIMMER-5-1,boundary_mehrere,,30.02,-0.05,2.53,2,70,2,2
+038X7VYTD5K88Kl7kXysTv,IfcWall,IfcWallStandardCase,1OG-I-3-2,Gips 275646950 100,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,57.46,2.21,2.53,2,70,6,2
+3unKlhycr0rgAkzu_m1NqF,IfcWall,IfcWallStandardCase,1OG-I-1-2,Gips 275646950 100,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,42.45,2.21,2.53,2,70,6,2
+0K0_rBHwzFcvVm4TfkJFJZ,IfcWall,IfcWallStandardCase,1OG-I-2-2,Gips 275646950 100,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,49.955,2.21,2.53,2,70,6,2
+2jYo1O0Kj4gP$WHLkmonPV,IfcWall,IfcWallStandardCase,1OG-I-4-2,Gips 275646950 100,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,,64.865,-0.05,2.53,2,70,5,2
+1Y4NDO4Nj1Yfkl2FWdX4uH,IfcWall,IfcWallStandardCase,1OG-A-4-3,Kalksandstein 268899148 200,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,67.515,6.96,2.53,2,70,7,2
+1f514frcH9ivBcb5fpOqUM,IfcWall,IfcWallStandardCase,1OG-A-4-4,Beton-Wärmeschutz 250,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,,67.515,-0.05,2.53,2,70,5,2
+3SS6$nhgL8Iv1KBJMCYSrW,IfcWall,IfcWallStandardCase,1OG-A-4-2,Beton-Wärmeschutz 250,1.OG,,,,,60.04,6.96,2.53,2,70,,
+2W4V$eQxX4hepPSBSawh9n,IfcWall,IfcWallStandardCase,1OG-A-3-3,Kalksandstein 268899148 200,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,60.01,6.96,2.53,2,70,6,2
+1I6XcdPmXEGxd5pxg7UtJJ,IfcWall,IfcWallStandardCase,1OG-A-3-2,Beton-Wärmeschutz 250,1.OG,,,,,52.535,6.96,2.53,2,70,,
+05kC3tUxf2NgyluG2Lb30m,IfcWall,IfcWallStandardCase,1OG-I-3-3,Gips 275646950 100,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,56.222,2.21,2.53,2,70,7,2
+2elNtMVof84veuQ29fZHtN,IfcWall,IfcWallStandardCase,1OG-A-4-1,Kalksandstein 268899148 200,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,,60.04,-0.05,2.53,2,70,5,1
+111K32PabEKu1rIfxbAEPD,IfcWall,IfcWallStandardCase,1OG-I-3-1,Kalksandstein 268899148 175,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,60.01,2.21,2.53,2,70,7,2
+1XhM3y3MrB9Rc$U9NJXUMq,IfcWall,IfcWallStandardCase,1OG-A-3-4,Beton-Wärmeschutz 250,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,,60.01,-0.05,2.53,2,70,6,2
+1DCVq9KID6n9LSbfWl6b8A,IfcWall,IfcWallStandardCase,1OG-I-2-3,Gips 275646950 100,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,48.717,2.21,2.53,2,70,7,2
+0OpziBxCT9Ig3F8ub8rphn,IfcWall,IfcWallStandardCase,1OG-A-3-1,Kalksandstein 268899148 200,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,52.535,-0.05,2.53,2,70,7,2
+1LaDLhlXT1SfpE6m4AGlnb,IfcWall,IfcWallStandardCase,1OG-I-2-1,Kalksandstein 268899148 175,1.OG,,,,,52.505,2.21,2.53,2,70,,
+1_gfrMctjDpuBuZmoBwxPb,IfcWall,IfcWallStandardCase,1OG-A-2-3,Kalksandstein 268899148 200,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,52.505,6.96,2.53,2,70,6,2
+00edHZvET1HxjPJ3dhH$cb,IfcWall,IfcWallStandardCase,1OG-A-2-4,Beton-Wärmeschutz 250,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,,52.505,-0.05,2.53,2,70,6,2
+2$tUAYl0jAUwvguhTmRqK0,IfcWall,IfcWallStandardCase,1OG-A-5-4,Beton-Wärmeschutz 250,1.OG,5.2.3,BAD / WC-5-1,boundary_mehrere,,75.07,-0.05,2.53,2,70,4,2
+2svh3ow7D4QOeKNjgwQ9sE,IfcWall,IfcWallStandardCase,1OG-I-1-3,Gips 275646950 100,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,41.212,2.21,2.53,2,70,8,2
+3O3qG5KcT6sRjJWtGSNkUj,IfcWall,IfcWallStandardCase,1OG-A-1-1,Kalksandstein 268899148 200,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,37.525,-0.05,2.53,2,70,6,1
+1DKZbDYSTFHeY6CpzemJ7F,IfcWall,IfcWallStandardCase,1OG-A-2-2,Beton-Wärmeschutz 250,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,45.03,6.96,2.53,2,70,7,2
+0uW92y4cPDjvGXfUp703GD,IfcWall,IfcWallStandardCase,1OG-A-2-1,Kalksandstein 268899148 200,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,45.03,-0.05,2.53,2,70,7,2
+3xxvLKAp17IvSghhx1MSYJ,IfcWall,IfcWallStandardCase,1OG-A-1-2,Beton-Wärmeschutz 250,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,37.525,6.96,2.53,2,70,8,2
+2RAQWZ$0bB3gBeYSCNDQQH,IfcWall,IfcWallStandardCase,1OG-A-5-3,Beton-Wärmeschutz 250,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,75.07,6.96,2.53,2,70,8,3
+2s4148sIr0m91B5JLpVUam,IfcWall,IfcWallStandardCase,1OG-I-1-1,Kalksandstein 268899148 175,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,45.0,2.21,2.53,2,70,8,2
+1S1kSdIYXFFANA4WKJkyBL,IfcWall,IfcWallStandardCase,1OG-A-1-3,Kalksandstein 268899148 200,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,45.0,6.96,2.53,2,70,8,2
+1NXOfLbKv4DQHZAEOh5SHt,IfcWall,IfcWallStandardCase,1OG-A-1-4,Beton-Wärmeschutz 250,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,,45.0,-0.05,2.53,2,70,6,3
+3$hd_swpz1P8cbiX5X2iax,IfcWall,IfcWallStandardCase,1OG-I-5-3,Gips 275646950 100,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,71.232,2.21,2.53,2,70,8,2
+3wFJKTD698YPFAruMsPCGu,IfcWall,IfcWallStandardCase,1OG-I-4-1,Kalksandstein 268899148 175,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,67.515,2.21,2.53,2,70,7,2
+0S2gRn2gb1FQt9ZThjw2Ou,IfcWall,IfcWallStandardCase,1OG-I-5-1,Kalksandstein 268899148 175,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,75.07,2.21,2.53,2,70,8,2
+1RUVSCj1f6H9qaB6AH53tM,IfcWall,IfcWallStandardCase,1OG-I-5-2,Gips 275646950 100,1.OG,5.2.3,BAD / WC-5-1,boundary_mehrere,,72.371,-0.05,2.53,2,70,4,2
+3zv3iCozT5mxk3dVXXyK_i,IfcWall,IfcWallStandardCase,1OG-A-5-2,Beton-Wärmeschutz 250,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,67.545,6.96,2.53,2,70,8,3
+2hlwI3EO5ENBN03FwfN2y4,IfcWall,IfcWallStandardCase,1OG-I-4-3,Gips 275646950 100,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,63.727,2.21,2.53,2,70,7,2
+0Ed4ARU7P4KeU6kP1uIKBr,IfcWall,IfcWallStandardCase,1OG-A-5-1,Kalksandstein 268899148 200,1.OG,5.2.1,ZIMMER-5-1,boundary_mehrere,,67.545,-0.05,2.53,2,70,2,2
+2_9dFJps91081yx2D9WgjS,IfcWall,IfcWallStandardCase,2OG-A-5-3,Kalksandstein 268899148 200,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,37.495,6.96,5.23,2,70,8,1
+3w0Hzip0bCywcQNk9ZbG4J,IfcWall,IfcWallStandardCase,2OG-I-5-1,Kalksandstein 268899148 175,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,37.495,2.21,5.23,2,70,8,2
+1vNayonG15vRMiK9H4aytk,IfcWall,IfcWallStandardCase,2OG-A-5-4,Beton-Wärmeschutz 250,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,,37.495,-0.05,5.23,2,70,4,2
+1JsCIdSKvFOvMtPSbAMULI,IfcWall,IfcWallStandardCase,2OG-A-5-1,Kalksandstein 268899148 200,2.OG,5.3.1,ZIMMER-5-3,boundary_mehrere,,30.02,-0.05,5.23,2,70,2,2
+1Wt8VfJwzEUA7S5a5F5pHz,IfcWall,IfcWallStandardCase,2OG-I-4-2,Gips 275646950 100,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,27.743,-0.05,5.23,2,70,8,2
+1dp4w1f6nBkAGYM$3pSHfL,IfcWall,IfcWallStandardCase,2OG-I-4-1,Kalksandstein 268899148 175,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,29.99,2.21,5.23,2,70,8,2
+3KBJ4YZM51uPpvvBFzTbDE,IfcWall,IfcWallStandardCase,2OG-A-4-4,Beton-Wärmeschutz 250,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,29.99,-0.05,5.23,2,70,8,2
+1dIuVWh_90APlNBSdZ7AN2,IfcWall,IfcWallStandardCase,2OG-I-3-3,Gips 275646950 100,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,18.697,2.21,5.23,2,70,8,2
+2BZN62dmvCoRvJbyLW1FqV,IfcWall,IfcWallStandardCase,2OG-A-5-2,Beton-Wärmeschutz 250,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,30.02,6.96,5.23,2,70,8,3
+0YugRUhJH2G8hKOGUABmJh,IfcWall,IfcWallStandardCase,2OG-I-4-3,Gips 275646950 100,2.OG,4.3.2,ZIMMER-4-4,boundary_mehrere,,26.202,2.21,5.23,2,70,4,2
+1exFPXOV57V86JLcD_HwbC,IfcWall,IfcWallStandardCase,2OG-A-4-3,Kalksandstein 268899148 200,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,29.99,6.96,5.23,2,70,8,2
+1ooVUsz1L8Bfr4DBbqlQhO,IfcWall,IfcWallStandardCase,2OG-A-4-1,Kalksandstein 268899148 200,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,,22.515,-0.05,5.23,2,70,2,2
+22dSWqC2z71eYK3lY4dF42,IfcWall,IfcWallStandardCase,2OG-A-4-2,Beton-Wärmeschutz 250,2.OG,4.3.2,ZIMMER-4-4,boundary_mehrere,,22.515,6.96,5.23,2,70,4,2
+1BJLpU$Mf3jPvUMzfOlLQs,IfcWall,IfcWallStandardCase,2OG-I-2-3,Gips 275646950 100,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,11.192,2.21,5.23,2,70,8,2
+39HPcunJvADfKBEvIxZvAX,IfcWall,IfcWallStandardCase,2OG-A-3-1,Kalksandstein 268899148 200,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,15.01,-0.05,5.23,2,70,8,2
+21jvrVG_X2Y9oMd7cigE6C,IfcWall,IfcWallStandardCase,2OG-I-3-2,Gips 275646950 100,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,20.238,-0.05,5.23,2,70,6,2
+0ph9UIbnDFpfTMD7OzouEK,IfcWall,IfcWallStandardCase,2OG-I-3-1,Kalksandstein 268899148 175,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,22.485,2.21,5.23,2,70,8,2
+0L$0VMju57ReUTif39x$Fr,IfcWall,IfcWallStandardCase,2OG-A-3-3,Kalksandstein 268899148 200,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,22.485,6.96,5.23,2,70,6,2
+1n2sqKAEr8AQkM19GPgdCM,IfcWall,IfcWallStandardCase,2OG-A-3-4,Beton-Wärmeschutz 250,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,22.485,-0.05,5.23,2,70,6,2
+1_x$CWpVr7cQ8Wz2yCv5SX,IfcWall,IfcWallStandardCase,2OG-A-3-2,Beton-Wärmeschutz 250,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,15.01,6.96,5.23,2,70,8,2
+0VaJrC2sb4tQLYEJGXqo6p,IfcWall,IfcWallStandardCase,2OG-A-2-3,Kalksandstein 268899148 200,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,14.98,6.96,5.23,2,70,8,2
+1iIyNrRAH94ezU_utQ$TfV,IfcWall,IfcWallStandardCase,2OG-A-2-2,Beton-Wärmeschutz 250,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,7.505,6.96,5.23,2,70,8,2
+2ZTEvUo_H5sQdPh0$IeS_v,IfcWall,IfcWallStandardCase,2OG-A-1-1,Beton-Wärmeschutz 250,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,-0.05,-0.05,5.23,2,70,8,3
+3YlKiebDXAdunJte662t3N,IfcWall,IfcWallStandardCase,2OG-I-2-2,Gips 275646950 100,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,12.733,-0.05,5.23,2,70,6,2
+0xXSbLVZXBiQ_VigTVWI9d,IfcWall,IfcWallStandardCase,2OG-I-2-1,Kalksandstein 268899148 175,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,14.98,2.21,5.23,2,70,8,2
+0NjeXzbKLCshYtWWAZQa6a,IfcWall,IfcWallStandardCase,2OG-A-2-4,Beton-Wärmeschutz 250,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,14.98,-0.05,5.23,2,70,6,2
+2TWpinccnFZQ5GH3BS6cN_,IfcWall,IfcWallStandardCase,2OG-I-1-3,Gips 275646950 100,2.OG,1.3.2,ZIMMER-1-4,boundary_mehrere,,3.687,2.21,5.23,2,70,4,2
+3CdN53p2v3MAlwCPCvQUFz,IfcWall,IfcWallStandardCase,2OG-A-2-1,Kalksandstein 268899148 200,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,7.505,-0.05,5.23,2,70,6,2
+0MizeTCp19xgDv3HU$wyS5,IfcWall,IfcWallStandardCase,2OG-I-1-2,Gips 275646950 100,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,5.228,-0.05,5.23,2,70,8,2
+1BrP9AHlPEtgybu83cA2rC,IfcWall,IfcWallStandardCase,2OG-I-1-1,Kalksandstein 268899148 175,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,7.475,2.21,5.23,2,70,8,2
+2bDHFVTO55gwgRJXoeIMCP,IfcWall,IfcWallStandardCase,2OG-A-1-3,Kalksandstein 268899148 200,2.OG,1.3.3,BAD / WC-1-1,boundary_mehrere,,7.475,6.96,5.23,2,70,2,2
+2eDe_9iUTEEBJSXLUSDcwX,IfcWall,IfcWallStandardCase,2OG-A-1-4,Beton-Wärmeschutz 250,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,7.475,-0.05,5.23,2,70,8,3
+0NQVcwUgj2fup5UuFaDTfC,IfcWall,IfcWallStandardCase,2OG-A-1-2,Beton-Wärmeschutz 250,2.OG,1.3.2,ZIMMER-1-4,boundary_mehrere,,-0.05,6.96,5.23,2,70,4,2
+3rneJruuHA7Rhngf$NyAeW,IfcWall,IfcWallStandardCase,2OG-I-5-2,Gips 275646950 100,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,,72.773,-0.05,5.23,2,70,4,2
+3gVLWUGEfAMgEMy5xUzBli,IfcWall,IfcWallStandardCase,2OG-I-5-3,Gips 275646950 100,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,33.707,2.21,5.23,2,70,8,2
+3Icc5TrXr2_AxH2jvMBPOO,IfcWall,IfcWallStandardCase,2OG-I-5-2,Gips 275646950 100,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,,35.248,-0.05,5.23,2,70,4,2
+1mgduxWcP5S9d06XOmf7NU,IfcWall,IfcWallStandardCase,2OG-A-5-3,Beton-Wärmeschutz 250,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,75.07,6.96,5.23,2,70,8,3
+2oWgdxxp51he3VxoaZAQlo,IfcWall,IfcWallStandardCase,2OG-I-5-1,Kalksandstein 268899148 175,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,75.07,2.21,5.23,2,70,8,2
+1DXX1hfiL0mPmZHa2juVor,IfcWall,IfcWallStandardCase,2OG-A-5-4,Beton-Wärmeschutz 250,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,,75.07,-0.05,5.23,2,70,4,2
+1VpLcwluf5ExGBYq299A_s,IfcWall,IfcWallStandardCase,2OG-A-5-1,Kalksandstein 268899148 200,2.OG,5.3.1,ZIMMER-5-3,boundary_mehrere,,67.545,-0.05,5.23,2,70,2,2
+3L_jHx3m9718Gs$5wCFDTa,IfcWall,IfcWallStandardCase,2OG-I-4-2,Gips 275646950 100,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,65.268,-0.05,5.23,2,70,8,2
+1g2L6IHXP7cgvhTQkZ908W,IfcWall,IfcWallStandardCase,2OG-I-4-1,Kalksandstein 268899148 175,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,67.515,2.21,5.23,2,70,8,2
+3ozmqoOwLCQQi32mx_RP1q,IfcWall,IfcWallStandardCase,2OG-A-4-4,Beton-Wärmeschutz 250,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,67.515,-0.05,5.23,2,70,8,2
+2EzglhTb1Eeei0KS_kDUnZ,IfcWall,IfcWallStandardCase,2OG-I-3-3,Gips 275646950 100,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,56.222,2.21,5.23,2,70,8,2
+1CMVrEKUz4XRe7bwLlHQt2,IfcWall,IfcWallStandardCase,2OG-A-5-2,Beton-Wärmeschutz 250,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,67.545,6.96,5.23,2,70,8,3
+15ML2EtvX2PvLxIw37pdEq,IfcWall,IfcWallStandardCase,2OG-I-4-3,Gips 275646950 100,2.OG,4.3.2,ZIMMER-4-4,boundary_mehrere,,63.727,2.21,5.23,2,70,4,2
+3rHToqfXXBX8XST6cFLzjf,IfcWall,IfcWallStandardCase,2OG-A-4-3,Kalksandstein 268899148 200,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,,67.515,6.96,5.23,2,70,8,2
+2UFg1l_YH17RaAV7gnYqXu,IfcWall,IfcWallStandardCase,2OG-A-4-1,Kalksandstein 268899148 200,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,,60.04,-0.05,5.23,2,70,2,2
+0C0oo2MPP7$PiiYcnEKt5v,IfcWall,IfcWallStandardCase,2OG-A-4-2,Beton-Wärmeschutz 250,2.OG,4.3.2,ZIMMER-4-4,boundary_mehrere,,60.04,6.96,5.23,2,70,4,2
+1$dwm1Hof3twio2SbRyafA,IfcWall,IfcWallStandardCase,2OG-I-2-3,Gips 275646950 100,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,48.717,2.21,5.23,2,70,8,2
+0ZzZbjV6v1SBa4cH04l8YG,IfcWall,IfcWallStandardCase,2OG-A-3-1,Kalksandstein 268899148 200,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,52.535,-0.05,5.23,2,70,8,2
+1fHbKmBSn4D93uF0jV0JhB,IfcWall,IfcWallStandardCase,2OG-I-3-2,Gips 275646950 100,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,57.763,-0.05,5.23,2,70,6,2
+1etFtRm8bAXABiyIjaXy6H,IfcWall,IfcWallStandardCase,2OG-I-3-1,Kalksandstein 268899148 175,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,60.01,2.21,5.23,2,70,8,2
+3Pq3Mp6kbDFvrSkLVORUXs,IfcWall,IfcWallStandardCase,2OG-A-3-3,Kalksandstein 268899148 200,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,60.01,6.96,5.23,2,70,6,2
+18h7IaVp5EoADgz2ed8NIn,IfcWall,IfcWallStandardCase,2OG-A-3-4,Beton-Wärmeschutz 250,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,,60.01,-0.05,5.23,2,70,6,2
+2L25SwDKvA5egcg9Fo9JfH,IfcWall,IfcWallStandardCase,2OG-A-3-2,Beton-Wärmeschutz 250,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,,52.535,6.96,5.23,2,70,8,2
+1krxQcVgbDlBZ2q1DFXvwC,IfcWall,IfcWallStandardCase,2OG-A-2-3,Kalksandstein 268899148 200,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,52.505,6.96,5.23,2,70,8,2
+3oMwzsw6T3zQ7o3dkAConQ,IfcWall,IfcWallStandardCase,2OG-A-2-2,Beton-Wärmeschutz 250,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,45.03,6.96,5.23,2,70,8,2
+3vaTurxZPFj9DHHeSKQHus,IfcWall,IfcWallStandardCase,2OG-A-1-1,Kalksandstein 268899148 200,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,37.525,-0.05,5.23,2,70,8,1
+0LUbY6uMj20h9$NcV3hc2r,IfcWall,IfcWallStandardCase,2OG-I-2-2,Gips 275646950 100,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,50.258,-0.05,5.23,2,70,6,2
+20yJe0ynPCPe6$KrRcRlQJ,IfcWall,IfcWallStandardCase,2OG-I-2-1,Kalksandstein 268899148 175,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,,52.505,2.21,5.23,2,70,8,2
+1xFIvmjgn5vQHxnpVcwOlh,IfcWall,IfcWallStandardCase,2OG-A-2-4,Beton-Wärmeschutz 250,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,52.505,-0.05,5.23,2,70,6,2
+0mlkvTDcb889X1BEHSlUSt,IfcWall,IfcWallStandardCase,2OG-I-1-3,Gips 275646950 100,2.OG,1.3.2,ZIMMER-1-4,boundary_mehrere,,41.212,2.21,5.23,2,70,4,2
+3ffjuKw45AIBH$ztJvBRsY,IfcWall,IfcWallStandardCase,2OG-A-2-1,Kalksandstein 268899148 200,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,,45.03,-0.05,5.23,2,70,6,2
+2NDpdQ2qD738ZJxxMYOFpV,IfcWall,IfcWallStandardCase,2OG-I-1-2,Gips 275646950 100,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,42.753,-0.05,5.23,2,70,8,2
+0wjflNfwX6Zv6qZCdRZCf1,IfcWall,IfcWallStandardCase,2OG-I-1-1,Kalksandstein 268899148 175,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,45.0,2.21,5.23,2,70,8,2
+3R0B7A4JX0792NQZVruCFJ,IfcWall,IfcWallStandardCase,2OG-A-1-3,Kalksandstein 268899148 200,2.OG,1.3.3,BAD / WC-1-1,boundary_mehrere,,45.0,6.96,5.23,2,70,2,2
+25Nn9fHUjCKvJiGSlDZi$H,IfcWall,IfcWallStandardCase,2OG-A-1-4,Beton-Wärmeschutz 250,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,,45.0,-0.05,5.23,2,70,8,3
+17o7VIFuz6AwDfnxc3Cqme,IfcWall,IfcWallStandardCase,2OG-A-1-2,Beton-Wärmeschutz 250,2.OG,1.3.2,ZIMMER-1-4,boundary_mehrere,,37.525,6.96,5.23,2,70,4,2
+29tQLsQET5_RZ9DNASgqoH,IfcWall,IfcWallStandardCase,2OG-I-5-3,Gips 275646950 100,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,,71.232,2.21,5.23,2,70,8,2
+1HQvKIahT6vx0SVvpDWV0x,IfcDoor,IfcDoor,Keller-Tür-04-1,IFC Tür - Eine Öffnunsgrichtung,KG,04.0.3,FLUR-04-1,boundary_mehrere,Keller-I-04-1,25.417,2.21,-2.81,2,20,1,1
+3WjeHOGub93x2d5WIQ9UWQ,IfcDoor,IfcDoor,Keller-Tür-03-2,IFC Tür - Eine Öffnunsgrichtung,KG,03.0.3,FLUR-03-1,boundary_mehrere,Keller-I-03-1,17.912,2.21,-2.81,1,20,1,1
+3Bf7NxOJn82RByu5rQ4xtZ,IfcDoor,IfcDoor,Keller-Tür-02-2,IFC Tür - Eine Öffnunsgrichtung,KG,02.0.3,FLUR-02-1,boundary_mehrere,Keller-I-02-1,10.407,2.21,-2.81,1,20,2,2
+11_LljMsPFHBN_aTQlacef,IfcDoor,IfcDoor,Keller-Tür-01-2,IFC Tür - Eine Öffnunsgrichtung,KG,01.0.3,FLUR-01-1,boundary_mehrere,Keller-I-01-1,2.902,2.21,-2.81,1,20,1,1
+1Awi9GHof9eh5YPnVr33HL,IfcDoor,IfcDoor,Keller-Tür-01-1,IFC Tür - Eine Öffnunsgrichtung,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,Keller-I-01-2,4.925,1.661,-2.81,1,20,1,1
+1va58tOrnB8ORDKmI9J_rg,IfcDoor,IfcDoor,Keller-Tür-03-1,IFC Tür - Eine Öffnunsgrichtung,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,Keller-I-03-2,19.935,1.661,-2.81,1,20,1,1
+06QP0zTXvBsQia1ACxdRF1,IfcDoor,IfcDoor,Keller-Tür-05-1,IFC Tür - Eine Öffnunsgrichtung,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,Keller-I-05-2,34.945,1.661,-2.81,1,20,1,1
+0teqNjj$v4IgRS6SRbshXe,IfcDoor,IfcDoor,Keller-Tür-04-1,IFC Tür - Eine Öffnunsgrichtung,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,Keller-I-04-2,27.44,1.661,-2.81,2,20,1,1
+1ntjj0BCPB3QyOrpCVOFAz,IfcDoor,IfcDoor,Keller-Tür-02-1,IFC Tür - Eine Öffnunsgrichtung,KG,02.0.3,FLUR-02-1,boundary_mehrere,Keller-I-02-2,12.43,1.661,-2.81,1,20,2,2
+0f7t_GRj1BQx$CUtLhHvwY,IfcDoor,IfcDoor,Keller-Tür-05-2,IFC Tür - Eine Öffnunsgrichtung,KG,05.0.3,FLUR-05-1,boundary_mehrere,Keller-I-05-1,32.922,2.21,-2.81,1,20,1,1
+37u9WVyj553uTcNpukwQpQ,IfcDoor,IfcDoor,Keller-Tür-09-1,IFC Tür - Eine Öffnunsgrichtung,KG,09.0.3,FLUR-09-1,boundary_mehrere,Keller-I-09-1,62.942,2.21,-2.81,2,20,1,1
+0KofzpuJn24Baa$9Cao9x$,IfcDoor,IfcDoor,Keller-Tür-08-2,IFC Tür - Eine Öffnunsgrichtung,KG,08.0.3,FLUR-08-1,boundary_mehrere,Keller-I-08-1,55.437,2.21,-2.81,1,20,1,1
+3yJXrHykz6guMyeT1SI$Cv,IfcDoor,IfcDoor,Keller-Tür-07-2,IFC Tür - Eine Öffnunsgrichtung,KG,07.0.3,FLUR-07-1,boundary_mehrere,Keller-I-07-1,47.932,2.21,-2.81,1,20,2,2
+3kg1tQu5XCpgpj6caG2K_5,IfcDoor,IfcDoor,Keller-Tür-06-2,IFC Tür - Eine Öffnunsgrichtung,KG,06.0.3,FLUR-06-1,boundary_mehrere,Keller-I-06-1,40.427,2.21,-2.81,1,20,1,1
+3xiG40cEz3YAIQNc_mxcTP,IfcDoor,IfcDoor,Keller-Tür-06-1,IFC Tür - Eine Öffnunsgrichtung,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,Keller-I-06-2,42.45,1.661,-2.81,1,20,1,1
+1D4ZaLOR518u_gHOosSjxq,IfcDoor,IfcDoor,Keller-Tür-08-1,IFC Tür - Eine Öffnunsgrichtung,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,Keller-I-08-2,57.46,1.661,-2.81,1,20,1,1
+28RFg$J5f1keL_s9N8qdW0,IfcDoor,IfcDoor,Keller-Tür-10-1,IFC Tür - Eine Öffnunsgrichtung,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,Keller-I-10-2,72.47,1.661,-2.81,1,20,1,1
+3pzrtlhEbD1hUXyG20n6vl,IfcDoor,IfcDoor,Keller-Tür-09-1,IFC Tür - Eine Öffnunsgrichtung,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,Keller-I-09-2,64.965,1.661,-2.81,2,20,1,1
+1RnnYbN$n3pQpTUql_KNrp,IfcDoor,IfcDoor,Keller-Tür-07-1,IFC Tür - Eine Öffnunsgrichtung,KG,07.0.3,FLUR-07-1,boundary_mehrere,Keller-I-07-2,49.955,1.661,-2.81,1,20,2,2
+0LFTeiWiH8M9iZkR2XgSXO,IfcDoor,IfcDoor,Keller-Tür-10-2,IFC Tür - Eine Öffnunsgrichtung,KG,10.0.3,FLUR-10-1,boundary_mehrere,Keller-I-10-1,70.447,2.21,-2.81,1,20,1,1
+0LG2QCtOX8QhgNUkA1sJwH,IfcDoor,IfcDoor,EG-Tür-05-1,Stocktür_1_Fl,EG,05.1.2,WC-05-1,boundary_mehrere,EG-I-05-2,33.825,0.901,-0.25,1,50,1,1
+1IL6KF4EH3oeh_59nylQYC,IfcDoor,IfcDoor,EG-Haustuer-05,Stocktür_1_Fl,EG,05.1.3,FLUR-05-2,boundary,EG-A-05-3,32.335,-0.05,-0.25,1,50,2,2
+13RW8trmf9P8u3wldP5JtV,IfcDoor,IfcDoor,EG-Tür-05-2,Stocktür_1_Fl,EG,05.1.3,FLUR-05-2,boundary_mehrere,EG-I-05-1,32.432,2.21,-0.25,1,50,2,2
+1IJarhVFHD7g8aPkGs5vDt,IfcDoor,IfcDoor,EG-Terrasse-05-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,05.1.1,WOHNEN / KOCHEN-05-1,boundary,EG-A-05-2,36.495,6.96,-0.25,1,50,2,2
+23DdL3udr2P85ZeV0COWMo,IfcDoor,IfcDoor,EG-Terrasse-05-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,05.1.1,WOHNEN / KOCHEN-05-1,boundary,EG-A-05-2,33.01,6.96,-0.25,1,50,2,2
+1Tr3hvRjX1ugE5z2RLgPLy,IfcDoor,IfcDoor,EG-Tür-04-1,Stocktür_1_Fl,EG,04.1.3,FLUR-04-2,boundary_mehrere,EG-I-04-2,26.32,0.901,-0.25,1,50,3,3
+2oBbNEnJTA3egCrAPin4uq,IfcDoor,IfcDoor,EG-Tür-04-2,Stocktür_1_Fl,EG,04.1.3,FLUR-04-2,boundary_mehrere,EG-I-04-1,24.927,2.21,-0.25,1,50,3,3
+13LeOz5YDBRuWKGn3XV8ny,IfcDoor,IfcDoor,EG-Haustuer-04,Stocktür_1_Fl,EG,04.1.3,FLUR-04-2,boundary,EG-A-04-4,24.83,-0.05,-0.25,1,50,3,3
+3_4IAm1r50aBil1u$aSDAy,IfcDoor,IfcDoor,EG-Terrasse-04-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,04.1.1,WOHNEN / KOCHEN-04-1,boundary,EG-A-04-2,28.99,6.96,-0.25,1,50,2,2
+09mjvhx8HDuRkKHli_8H4G,IfcDoor,IfcDoor,EG-Terrasse-04-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,04.1.1,WOHNEN / KOCHEN-04-1,boundary,EG-A-04-2,25.505,6.96,-0.25,1,50,2,2
+0AshmBhwD0hRRSIumelpbV,IfcDoor,IfcDoor,EG-Tür-02-1,Stocktür_1_Fl,EG,02.1.3,FLUR-02-2,boundary_mehrere,EG-I-02-2,11.31,0.901,-0.25,1,50,3,3
+3zaW2mEcr4Aw9T$IyVHTk_,IfcDoor,IfcDoor,EG-Terrasse-03-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,03.1.1,WOHNEN / KOCHEN-03-1,boundary,EG-A-03-2,21.485,6.96,-0.25,1,50,2,2
+3N_k_TMWPEbOOUhxDlyjxG,IfcDoor,IfcDoor,EG-Terrasse-03-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,03.1.1,WOHNEN / KOCHEN-03-1,boundary,EG-A-03-2,18.0,6.96,-0.25,1,50,2,2
+0Mmn9qZmD8RBgTbBN8wJVw,IfcDoor,IfcDoor,EG-Tür-03-1,Stocktür_1_Fl,EG,03.1.2,WC-03-1,boundary_mehrere,EG-I-03-2,18.816,0.901,-0.25,1,50,1,1
+11K8wGQdL1buRHvicQkWsi,IfcDoor,IfcDoor,EG-Tür-03-2,Stocktür_1_Fl,EG,03.1.3,Flur-03-2,boundary_mehrere,EG-I-03-1,17.26,2.21,-0.25,1,50,2,2
+0gBwWXCcXCD8y1ciaHIqWm,IfcDoor,IfcDoor,EG-Haustuer-03,Stocktür_1_Fl,EG,03.1.3,Flur-03-2,boundary,EG-A-03-4,17.325,-0.05,-0.25,1,50,2,2
+24C5qr6SP3Qf$NmDp6tGw$,IfcDoor,IfcDoor,EG-Tür-02-2,Stocktür_1_Fl,EG,02.1.3,FLUR-02-2,boundary_mehrere,EG-I-02-1,9.917,2.21,-0.25,1,50,3,3
+3YG$rrZ454$h5hiT23v5Gf,IfcDoor,IfcDoor,EG-Haustuer-02,Stocktür_1_Fl,EG,02.1.3,FLUR-02-2,boundary,EG-A-02-4,9.82,-0.05,-0.25,1,50,3,3
+1njbt8n_LC2P2hrejNC74Q,IfcDoor,IfcDoor,EG-Tür-01-2,Stocktür_1_Fl,EG,01.1.3,Flur-01-2,boundary_mehrere,EG-I-01-1,2.412,2.21,-0.25,1,50,3,3
+1VcyNF6$D0d91nnR8qb19O,IfcDoor,IfcDoor,EG-Haustuer-01,Stocktür_1_Fl,EG,01.1.3,Flur-01-2,boundary,EG-A-01-4,2.315,-0.05,-0.25,1,50,3,3
+0YIqKdEmr4SxW6sPEi3sY8,IfcDoor,IfcDoor,EG-Terrasse-02-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary,EG-A-02-2,13.98,6.96,-0.25,1,50,2,2
+2SBuZi_b5ECu0TVs4rgY97,IfcDoor,IfcDoor,EG-Terrasse-02-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary,EG-A-02-2,10.495,6.96,-0.25,1,50,2,2
+0a4XKR2ln4XeOxkNix2_ng,IfcDoor,IfcDoor,EG-Tür-01-1,Stocktür_1_Fl,EG,01.1.3,Flur-01-2,boundary_mehrere,EG-I-01-2,3.805,0.901,-0.25,1,50,3,3
+1fF4I6XyP8IQPTsCqPwIvk,IfcDoor,IfcDoor,EG-Terrasse-01-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,01.1.1,WOHNEN / KOCHEN-01-1,boundary,EG-A-01-2,6.475,6.96,-0.25,1,50,2,2
+3s5FvKVQv3YPFzlkhTwfof,IfcDoor,IfcDoor,EG-Terrasse-01-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,01.1.1,WOHNEN / KOCHEN-01-1,boundary,EG-A-01-2,2.99,6.96,-0.25,1,50,2,2
+0ArpgM$Pv509jkw4pPPtJZ,IfcDoor,IfcDoor,EG-Tür-10-1,Stocktür_1_Fl,EG,10.1.2,WC-10-1,boundary_mehrere,EG-I-10-2,71.35,0.901,-0.25,1,50,1,1
+3sh7whqTvD$RO_RKpqNHR3,IfcDoor,IfcDoor,EG-Haustuer-10,Stocktür_1_Fl,EG,10.1.3,FLUR-10-2,boundary,EG-A-10-3,69.86,-0.05,-0.25,1,50,5,5
+2vsEKGvZP2ye5ZyzBr5XnP,IfcDoor,IfcDoor,EG-Tür-10-2,Stocktür_1_Fl,EG,10.1.3,FLUR-10-2,boundary_mehrere,EG-I-10-1,69.957,2.21,-0.25,1,50,5,5
+37QsqAUsz5yeDcxGz8kZPM,IfcDoor,IfcDoor,EG-Terrasse-10-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,5.1.1,WOHNEN / KOCHEN-5-1,boundary,EG-A-10-2,74.02,6.96,-0.25,1,50,2,2
+2EJVUYxBv8DOZ14coPalce,IfcDoor,IfcDoor,EG-Terrasse-10-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,5.1.1,WOHNEN / KOCHEN-5-1,boundary,EG-A-10-2,70.535,6.96,-0.25,1,50,2,2
+2pb5WsyPn6xu8siSWdLY65,IfcDoor,IfcDoor,EG-Tür-09-1,Stocktür_1_Fl,EG,10.1.3,FLUR-10-2,boundary_mehrere,EG-I-09-2,63.846,0.901,-0.25,1,50,5,5
+1aM_qMkfLAsvRTcDLmM9OA,IfcDoor,IfcDoor,EG-Tür-09-2,Stocktür_1_Fl,EG,10.1.3,FLUR-10-2,boundary_mehrere,EG-I-09-1,62.452,2.21,-0.25,1,50,5,5
+0eOPo05n54ZQZuSA1Z5S_Z,IfcDoor,IfcDoor,EG-Haustuer-09,Stocktür_1_Fl,EG,10.1.3,FLUR-10-2,boundary,EG-A-09-4,62.355,-0.05,-0.25,1,50,5,5
+369WrkJz19XgXcPnsGGNgx,IfcDoor,IfcDoor,EG-Terrasse-09-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,09.1.1,WOHNEN / KOCHEN-09-1,boundary,EG-A-09-2,66.515,6.96,-0.25,1,50,2,2
+1xYcndjbv64eB3PX_LPhVP,IfcDoor,IfcDoor,EG-Terrasse-09-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,09.1.1,WOHNEN / KOCHEN-09-1,boundary,EG-A-09-2,63.03,6.96,-0.25,1,50,2,2
+02R7IR9FnDt9WlRfbEQvBi,IfcDoor,IfcDoor,EG-Tür-07-1,Stocktür_1_Fl,EG,07.1.3,FLUR-07-2,boundary_mehrere,EG-I-07-2,48.835,0.901,-0.25,1,50,3,3
+3zPIO5wGn6eAHQK2NcKlGh,IfcDoor,IfcDoor,EG-Terrasse-08-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,08.1.1,WOHNEN / KOCHEN-08-1,boundary,EG-A-08-2,59.01,6.96,-0.25,1,50,2,2
+3tEADTnLf6Vu$EgODmx67E,IfcDoor,IfcDoor,EG-Terrasse-08-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,08.1.1,WOHNEN / KOCHEN-08-1,boundary,EG-A-08-2,55.525,6.96,-0.25,1,50,2,2
+37pDdxPPvANAGzxWQD5Lts,IfcDoor,IfcDoor,EG-Tür-08-1,Stocktür_1_Fl,EG,08.1.2,WC-08-1,boundary_mehrere,EG-I-08-2,56.34,0.901,-0.25,1,50,1,1
+2LBW0CpMT6UusMcTXSTjAe,IfcDoor,IfcDoor,EG-Tür-08-2,Stocktür_1_Fl,EG,08.1.3,Flur-08-2,boundary_mehrere,EG-I-08-1,54.785,2.21,-0.25,1,50,2,2
+0MpabxB_z8vw6_$VEQedCd,IfcDoor,IfcDoor,EG-Haustuer-08,Stocktür_1_Fl,EG,08.1.3,Flur-08-2,boundary,EG-A-08-4,54.85,-0.05,-0.25,1,50,2,2
+231KKoe0P7TwW6OAyZdPoY,IfcDoor,IfcDoor,EG-Tür-07-2,Stocktür_1_Fl,EG,07.1.3,FLUR-07-2,boundary_mehrere,EG-I-07-1,47.442,2.21,-0.25,1,50,3,3
+2DJvCRWaX4SeFcNKUW7jiY,IfcDoor,IfcDoor,EG-Haustuer-07,Stocktür_1_Fl,EG,07.1.3,FLUR-07-2,boundary,EG-A-07-4,47.345,-0.05,-0.25,1,50,3,3
+2CDxAXb$DFgBF_0C5LC69r,IfcDoor,IfcDoor,EG-Tür-06-2,Stocktür_1_Fl,EG,06.1.3,Flur-06-2,boundary_mehrere,EG-I-06-1,39.937,2.21,-0.25,1,50,3,3
+1gX_KChVjCd8OhwS0XD4Ss,IfcDoor,IfcDoor,EG-Haustuer-06,Stocktür_1_Fl,EG,06.1.3,Flur-06-2,boundary,EG-A-06-4,39.84,-0.05,-0.25,1,50,3,3
+0cEwFA6XT1O8WmwQPY$sGB,IfcDoor,IfcDoor,EG-Terrasse-07-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary,EG-A-07-2,51.505,6.96,-0.25,1,50,2,2
+1RTrAr3ejAsxrZqLRfwayz,IfcDoor,IfcDoor,EG-Terrasse-07-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary,EG-A-07-2,48.02,6.96,-0.25,1,50,2,2
+3fO6qkXBX4QAs5j3o2jd5W,IfcDoor,IfcDoor,EG-Tür-06-1,Stocktür_1_Fl,EG,06.1.3,Flur-06-2,boundary_mehrere,EG-I-06-2,41.331,0.901,-0.25,1,50,3,3
+34GiEabTr5c96Hbrr8OzEw,IfcDoor,IfcDoor,EG-Terrasse-06-2,IFC Doppeltür - Eine Öffnungsrichtung,EG,06.1.1,WOHNEN / KOCHEN-06-1,boundary,EG-A-06-2,44.0,6.96,-0.25,1,50,2,2
+3eKJovGj55pvn9EaGmrBkc,IfcDoor,IfcDoor,EG-Terrasse-06-1,IFC Doppeltür - Eine Öffnungsrichtung,EG,06.1.1,WOHNEN / KOCHEN-06-1,boundary,EG-A-06-2,40.515,6.96,-0.25,1,50,2,2
+3ysmOYyW9E2uJ8ee4tqim3,IfcDoor,IfcDoor,OG-1-Tür-03-1,Stocktür_1_Fl,1.OG,3.2.3,BAD / WC-3-1,boundary,1OG-I-3-2,19.935,1.905,2.53,1,50,3,3
+0SXDciA1H8XA0fwNaKf8wG,IfcDoor,IfcDoor,OG-1-Tür-01-1,Stocktür_1_Fl,1.OG,1.2.3,BAD / WC-1-1,boundary,1OG-I-1-2,4.925,1.889,2.53,1,50,1,1
+2FvbESAhn9$PtVc1I3SP0z,IfcDoor,IfcDoor,OG-1-Tür-02-1,Stocktür_1_Fl,1.OG,2.2.3,BAD / WC-2-1,boundary,1OG-I-2-2,12.43,1.889,2.53,1,50,3,3
+3Z2cKsECz8tO88JGvj1By7,IfcDoor,IfcDoor,OG-1-Tür-04-1,Stocktür_1_Fl,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,1OG-I-4-2,27.34,1.905,2.53,1,50,2,2
+34Mx0IYkv8DPxJyVsgaU$o,IfcDoor,IfcDoor,OG-1-Balkon-04-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,4.2.1,ZIMMER-4-1,boundary,1OG-A-4-2,25.505,6.96,2.53,1,50,3,2
+1BiF1BVKbDLgw4ZS_mf7kn,IfcDoor,IfcDoor,1OG-Balkon-4-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,4.2.2,ZIMMER-4-2,boundary,1OG-A-4-2,28.99,6.96,2.53,2,50,4,2
+1r5iVhtsjCQfPmidPVsu_j,IfcDoor,IfcDoor,OG-1-Balkon-03-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,3.2.1,ZIMMER-3-1,boundary,1OG-A-3-2,18.0,6.96,2.53,1,50,4,2
+2Yo20tjKjD8OGqvW2bc6Jg,IfcDoor,IfcDoor,1OG-Balkon-3-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,3.2.2,ZIMMER-3-2,boundary,1OG-A-3-2,21.485,6.96,2.53,2,50,2,2
+2$sv8HNSv8mQdn2hERfeso,IfcDoor,IfcDoor,OG-1-Tür-03-2,Stocktür_1_Fl,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,1OG-I-3-1,18.853,2.21,2.53,1,50,3,3
+27HFBZrp97oRVuSIdXUagw,IfcDoor,IfcDoor,OG-1-Tür-03-3,Stocktür_1_Fl,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,1OG-I-3-1,17.754,2.21,2.53,1,50,4,2
+0ezPRbGJD7MOcZ6okDj7$l,IfcDoor,IfcDoor,OG-1-Tür-02-2,Stocktür_1_Fl,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,1OG-I-2-1,11.348,2.21,2.53,1,50,3,3
+3hbJsms$50dPpYn6uPFBnQ,IfcDoor,IfcDoor,OG-1-Tür-02-3,Stocktür_1_Fl,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,1OG-I-2-1,10.249,2.21,2.53,1,50,4,2
+09b7UCg_b69hBhCu8$B9pl,IfcDoor,IfcDoor,OG-1-Balkon-02-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,2.2.1,ZIMMER-2-1,boundary,1OG-A-2-2,10.495,6.96,2.53,1,50,4,2
+39iR0NdS5AtxJAWX5qyAeR,IfcDoor,IfcDoor,1OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,2.2.2,ZIMMER-2-2,boundary,1OG-A-2-2,13.98,6.96,2.53,4,50,2,2
+1Of_uGimzFbwc59UDmGamB,IfcDoor,IfcDoor,OG-1-Balkon-01-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,1.2.1,ZIMMER-1-1,boundary,1OG-A-1-2,2.99,6.96,2.53,1,50,2,2
+1JiJD98Rj4h8OxAt7PTe_M,IfcDoor,IfcDoor,1OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,1.2.2,ZIMMER-1-2,boundary,1OG-A-1-2,6.475,6.96,2.53,4,50,4,2
+3kG5_tns96chzH4dtCO28B,IfcDoor,IfcDoor,OG-1-Tür-01-2,Stocktür_1_Fl,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,1OG-I-1-1,3.843,2.21,2.53,1,50,4,2
+1Gy_$vFfv3$hiRtQc0Dk31,IfcDoor,IfcDoor,OG-1-Tür-01-3,Stocktür_1_Fl,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,1OG-I-1-1,2.744,2.21,2.53,1,50,3,3
+2wToZTecT3LRQkx7tErj1T,IfcDoor,IfcDoor,OG-1-Tür-04-2,Stocktür_1_Fl,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,1OG-I-4-1,26.358,2.21,2.53,1,50,4,2
+2K8zFEPrzBfgkpngTRI6y8,IfcDoor,IfcDoor,OG-1-Tür-04-3,Stocktür_1_Fl,1.OG,4.2.1,ZIMMER-4-1,boundary_mehrere,1OG-I-4-1,25.259,2.21,2.53,1,50,3,1
+18vF1$7C5BROwmJKsCLtLn,IfcDoor,IfcDoor,OG-1-Tür-05-2,Stocktür_1_Fl,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,1OG-I-5-1,33.863,2.21,2.53,1,50,4,2
+1l4_lfgXrFN9bcxHtno3xs,IfcDoor,IfcDoor,OG-1-Tür-05-3,Stocktür_1_Fl,1.OG,5.2.1,ZIMMER-5-1,boundary_mehrere,1OG-I-5-1,32.764,2.21,2.53,1,50,4,2
+10d6QlA4zCuOps5HGt3cT$,IfcDoor,IfcDoor,OG-1-Tür-05-1,Stocktür_1_Fl,1.OG,5.2.3,BAD / WC-5-1,boundary_mehrere,1OG-I-5-2,34.846,1.932,2.53,1,50,2,2
+2puQc163H1ixxfjYYxCixW,IfcDoor,IfcDoor,OG-1-Balkon-05-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,5.2.1,ZIMMER-5-1,boundary,1OG-A-5-2,33.01,6.96,2.53,1,50,4,2
+2EfSxzWN51gvc8AcS_ioZH,IfcDoor,IfcDoor,1OG-Balkon-5-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,5.2.2,ZIMMER-5-2,boundary,1OG-A-5-2,36.495,6.96,2.53,2,50,4,2
+1mFrq_wz9DufZsGnJEb$PL,IfcDoor,IfcDoor,OG-1-Tür-08-1,Stocktür_1_Fl,1.OG,3.2.4,FLUR-3-3,boundary,1OG-I-3-2,57.46,1.905,2.53,1,50,1,1
+27GIzscSjENBuPYyF2V6aW,IfcDoor,IfcDoor,OG-1-Tür-06-1,Stocktür_1_Fl,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,1OG-I-1-2,42.45,1.889,2.53,1,50,3,3
+2cUAje2WTDyxvYox5L65qJ,IfcDoor,IfcDoor,OG-1-Tür-07-1,Stocktür_1_Fl,1.OG,2.2.4,FLUR-2-3,boundary,1OG-I-2-2,49.955,1.889,2.53,1,50,1,1
+0nTnu_pMD7IOn9DeIPUqo9,IfcDoor,IfcDoor,OG-1-Tür-09-1,Stocktür_1_Fl,1.OG,4.2.4,FLUR-4-3,boundary,1OG-I-4-2,64.865,1.905,2.53,1,50,1,1
+2joMtvKjrDL97_2Z2o_WoO,IfcDoor,IfcDoor,1OG-Balkon-4-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,4.2.1,ZIMMER-4-1,boundary,1OG-A-4-2,63.03,6.96,2.53,1,50,3,2
+3UZzPg$F17uxYdmaFQJ1HQ,IfcDoor,IfcDoor,1OG-Balkon-4-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,4.2.2,ZIMMER-4-2,boundary,1OG-A-4-2,66.515,6.96,2.53,2,50,4,2
+20W2Icg8f7EAW5mGtBEmoM,IfcDoor,IfcDoor,1OG-Balkon-3-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,3.2.1,ZIMMER-3-1,boundary,1OG-A-3-2,55.525,6.96,2.53,1,50,4,2
+2rSjVEljXFoukvEyh6dTJb,IfcDoor,IfcDoor,1OG-Balkon-3-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,3.2.2,ZIMMER-3-2,boundary,1OG-A-3-2,59.01,6.96,2.53,2,50,2,2
+2MkMjyrxX3$90rK2vfDN_i,IfcDoor,IfcDoor,OG-1-Tür-08-2,Stocktür_1_Fl,1.OG,3.2.3,BAD / WC-3-1,boundary_mehrere,1OG-I-3-1,56.378,2.21,2.53,1,50,3,3
+37PgXi$i5B6wWv2oQumMjc,IfcDoor,IfcDoor,OG-1-Tür-08-3,Stocktür_1_Fl,1.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,1OG-I-3-1,55.279,2.21,2.53,1,50,4,2
+0$NG_rsVD5wgdTGNw6D1QL,IfcDoor,IfcDoor,OG-1-Tür-07-2,Stocktür_1_Fl,1.OG,2.2.3,BAD / WC-2-1,boundary_mehrere,1OG-I-2-1,48.873,2.21,2.53,1,50,3,3
+2H9Oqw3RbDFf7FvbEfeIvv,IfcDoor,IfcDoor,OG-1-Tür-07-3,Stocktür_1_Fl,1.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,1OG-I-2-1,47.774,2.21,2.53,1,50,4,2
+0UQ4EVaKr9ou43578uaIkY,IfcDoor,IfcDoor,1OG-Balkon-2-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,2.2.1,ZIMMER-2-1,boundary,1OG-A-2-2,48.02,6.96,2.53,1,50,4,2
+1eZFjMQRn1k8TV$yXW6ipW,IfcDoor,IfcDoor,1OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,2.2.2,ZIMMER-2-2,boundary,1OG-A-2-2,51.505,6.96,2.53,4,50,2,2
+1JRJFNBMvAsxG$a0t66RQI,IfcDoor,IfcDoor,OG-1-Balkon-06-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,1.2.1,ZIMMER-1-1,boundary,1OG-A-1-2,40.515,6.96,2.53,1,50,2,2
+3Edmbnp9XDfAmKCgu9b5Ck,IfcDoor,IfcDoor,1OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,1.2.2,ZIMMER-1-2,boundary,1OG-A-1-2,44.0,6.96,2.53,4,50,4,2
+1fL7wmm85CAffiK1GncHqy,IfcDoor,IfcDoor,OG-1-Tür-06-2,Stocktür_1_Fl,1.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,1OG-I-1-1,41.368,2.21,2.53,1,50,4,2
+3jygffyhv4Tg4XwXbPw5xM,IfcDoor,IfcDoor,OG-1-Tür-06-3,Stocktür_1_Fl,1.OG,1.2.4,FLUR-1-3,boundary_mehrere,1OG-I-1-1,40.269,2.21,2.53,1,50,3,3
+0OhcZRZYD7zhWaBR5R1LZ3,IfcDoor,IfcDoor,OG-1-Tür-09-2,Stocktür_1_Fl,1.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,1OG-I-4-1,63.883,2.21,2.53,1,50,4,2
+1c9I09RivE$hYgYe_Pr8LV,IfcDoor,IfcDoor,OG-1-Tür-09-3,Stocktür_1_Fl,1.OG,4.2.3,BAD / WC-4-1,boundary_mehrere,1OG-I-4-1,62.784,2.21,2.53,1,50,2,2
+3vpgBJYFvFUvkWdG1z5Iy8,IfcDoor,IfcDoor,OG-1-Tür-10-2,Stocktür_1_Fl,1.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,1OG-I-5-1,71.388,2.21,2.53,1,50,4,2
+3yUm5CJ$b9ZBf889jPYLy6,IfcDoor,IfcDoor,OG-1-Tür-10-3,Stocktür_1_Fl,1.OG,5.2.1,ZIMMER-5-1,boundary_mehrere,1OG-I-5-1,70.289,2.21,2.53,1,50,4,2
+1EdLEUb3rBk8Jj8gejG$jd,IfcDoor,IfcDoor,OG-1-Tür-10-1,Stocktür_1_Fl,1.OG,5.2.3,BAD / WC-5-1,boundary,1OG-I-5-2,72.371,1.932,2.53,1,50,2,2
+12pxH55qv96vAXOkVJo3Al,IfcDoor,IfcDoor,1OG-Balkon-5-1,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,5.2.1,ZIMMER-5-1,boundary,1OG-A-5-2,70.535,6.96,2.53,1,50,4,2
+0xhGFQzDL31QqH9njU4cef,IfcDoor,IfcDoor,1OG-Balkon-5-2,IFC Doppeltür - Eine Öffnungsrichtung,1.OG,5.2.2,ZIMMER-5-2,boundary,1OG-A-5-2,74.02,6.96,2.53,2,50,4,2
+0Tmb_7qyP3FxhYZpbpS28R,IfcDoor,IfcDoor,2OG-Tür-5-2,Stocktür_1_Fl,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,2OG-I-5-1,33.851,2.21,5.23,2,50,4,2
+3Y4Dd6fIb8hel8xylMxMt9,IfcDoor,IfcDoor,2OG-Tür-5-3,Stocktür_1_Fl,2.OG,5.3.1,ZIMMER-5-3,boundary_mehrere,2OG-I-5-1,32.737,2.21,5.23,2,50,4,2
+1j9hhYnN593Pw0_W7Uwjka,IfcDoor,IfcDoor,2OG-Tür-4-1,Stocktür_1_Fl,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,2OG-I-4-2,27.743,1.992,5.23,2,50,2,2
+1VICIhM1DBo9PxPc3PkgpU,IfcDoor,IfcDoor,2OG-Tür-4-2,Stocktür_1_Fl,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,2OG-I-4-1,26.346,2.21,5.23,2,50,4,4
+0lyPX9zsPDO8ToHUACwLFe,IfcDoor,IfcDoor,2OG-Tür-4-3,Stocktür_1_Fl,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,2OG-I-4-1,25.232,2.21,5.23,2,50,4,4
+1jPJ8T__n37uhagnE51Xpy,IfcDoor,IfcDoor,2OG-Balkon-5-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,5.3.1,ZIMMER-5-3,boundary,2OG-A-5-2,33.008,6.96,5.23,2,50,4,2
+1Zw0IJyUPEAuhQ1OFxzm9P,IfcDoor,IfcDoor,2OG-Balkon-5-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,5.3.2,ZIMMER-5-4,boundary,2OG-A-5-2,36.493,6.96,5.23,2,50,4,2
+2D08U6oWfAMf5GLyobuPfd,IfcDoor,IfcDoor,2OG-Balkon-4-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,4.3.1,ZIMMER-4-3,boundary,2OG-A-4-2,25.503,6.96,5.23,2,50,2,2
+1LJuy5LCLE2wZBhz2qm3PB,IfcDoor,IfcDoor,2OG-Balkon-4-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,4.3.2,ZIMMER-4-4,boundary,2OG-A-4-2,28.988,6.96,5.23,2,50,2,2
+0ix0vFG9H1lQwsyQFrVVF3,IfcDoor,IfcDoor,2OG-Tür-3-1,Stocktür_1_Fl,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,2OG-I-3-2,20.238,1.992,5.23,2,50,2,2
+2zdrjIsTH9nh8Dyd9KHhfB,IfcDoor,IfcDoor,2OG-Tür-3-2,Stocktür_1_Fl,2.OG,3.3.4,FLUR-3-4,boundary_mehrere,2OG-I-3-1,18.841,2.21,5.23,2,50,2,2
+2q7hEE7QH3re1qT8r7j9Hn,IfcDoor,IfcDoor,2OG-Tür-3-3,Stocktür_1_Fl,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,2OG-I-3-1,17.727,2.21,5.23,2,50,4,2
+2UHOTShfvFIwyna$UHz$jy,IfcDoor,IfcDoor,2OG-Balkon-3-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,3.3.1,ZIMMER-3-3,boundary,2OG-A-3-2,17.998,6.96,5.23,2,50,4,2
+2hlg8yiTvDsetZm60RBXsW,IfcDoor,IfcDoor,2OG-Balkon-3-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,3.3.2,ZIMMER-3-4,boundary,2OG-A-3-2,21.483,6.96,5.23,2,50,2,2
+35kp2dZaL0$xOuXv7lhpsB,IfcDoor,IfcDoor,2OG-Balkon-2-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,2.3.1,ZIMMER-2-3,boundary,2OG-A-2-2,10.493,6.96,5.23,2,50,2,2
+0dOowmPvrB4B2hh1rR8qaA,IfcDoor,IfcDoor,2OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,2.3.2,ZIMMER-2-4,boundary,2OG-A-2-2,13.978,6.96,5.23,2,50,4,2
+2zQHrZ2Yj6tuvIt4OYclVF,IfcDoor,IfcDoor,2OG-Tür-2-1,Stocktür_1_Fl,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,2OG-I-2-2,12.733,1.992,5.23,2,50,4,4
+1hAVtYHi15WxNEP9PRHWMz,IfcDoor,IfcDoor,2OG-Tür-2-2,Stocktür_1_Fl,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,2OG-I-2-1,11.336,2.21,5.23,2,50,4,2
+17a4HgJ7HFw8TlthCViTkQ,IfcDoor,IfcDoor,2OG-Tür-2-3,Stocktür_1_Fl,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,2OG-I-2-1,10.222,2.21,5.23,2,50,4,4
+1Js6B1CsDDTB7yF6CxOWEP,IfcDoor,IfcDoor,2OG-Tür-1-1,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-2,5.228,1.992,5.23,2,50,6,6
+1kBlDbX2P1UPNtZMvF8ZCM,IfcDoor,IfcDoor,2OG-Tür-1-2,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-1,3.831,2.21,5.23,2,50,6,6
+2a4NjoGVf6FuulY$QF6Fwx,IfcDoor,IfcDoor,2OG-Tür-1-3,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-1,2.717,2.21,5.23,2,50,6,6
+0XkMv4R5LBewkAfMcaeXV6,IfcDoor,IfcDoor,2OG-Balkon-1-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,1.3.1,ZIMMER-1-3,boundary,2OG-A-1-2,2.938,6.96,5.23,2,50,2,2
+0rUVStkdPD5ufCEGkaTYcQ,IfcDoor,IfcDoor,2OG-Balkon-1-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,1.3.2,ZIMMER-1-4,boundary,2OG-A-1-2,6.423,6.96,5.23,2,50,2,2
+1PwtJ8pnXFKOZL66wyi_lU,IfcDoor,IfcDoor,2OG-Tür-5-1,Stocktür_1_Fl,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,2OG-I-5-2,72.773,1.992,5.23,2,50,2,2
+3awXKZFGT7RwYfvIYeJ7mD,IfcDoor,IfcDoor,2OG-Tür-5-1,Stocktür_1_Fl,2.OG,5.3.3,BAD / WC-5-1,boundary_mehrere,2OG-I-5-2,35.248,1.992,5.23,2,50,2,2
+0AiKM4GYnAtPcV5aJaXK4s,IfcDoor,IfcDoor,2OG-Tür-5-2,Stocktür_1_Fl,2.OG,5.3.2,ZIMMER-5-4,boundary_mehrere,2OG-I-5-1,71.376,2.21,5.23,2,50,4,2
+2PUn$NA7TCGxP83At9kDkz,IfcDoor,IfcDoor,2OG-Tür-5-3,Stocktür_1_Fl,2.OG,5.3.1,ZIMMER-5-3,boundary_mehrere,2OG-I-5-1,70.262,2.21,5.23,2,50,4,2
+0IQWwY5YT6Dv_3oqF3e2yy,IfcDoor,IfcDoor,2OG-Tür-4-1,Stocktür_1_Fl,2.OG,4.3.3,BAD / WC-4-1,boundary_mehrere,2OG-I-4-2,65.268,1.992,5.23,2,50,2,2
+38b8JGarLC1wy4YKdqVTPp,IfcDoor,IfcDoor,2OG-Tür-4-2,Stocktür_1_Fl,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,2OG-I-4-1,63.871,2.21,5.23,2,50,4,4
+2fMc8oFQ12NuwOSAwsv_0S,IfcDoor,IfcDoor,2OG-Tür-4-3,Stocktür_1_Fl,2.OG,4.3.4,FLUR-4-4,boundary_mehrere,2OG-I-4-1,62.757,2.21,5.23,2,50,4,4
+2clitPzYr69gZ$FUBzqu3t,IfcDoor,IfcDoor,2OG-Balkon-5-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,5.3.1,ZIMMER-5-3,boundary,2OG-A-5-2,70.533,6.96,5.23,2,50,4,2
+1R_N5LShP40u5dMVlwa3gH,IfcDoor,IfcDoor,2OG-Balkon-5-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,5.3.2,ZIMMER-5-4,boundary,2OG-A-5-2,74.018,6.96,5.23,2,50,4,2
+1qA_6Xm0TB3ejii0NvRdE3,IfcDoor,IfcDoor,2OG-Balkon-4-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,4.3.1,ZIMMER-4-3,boundary,2OG-A-4-2,63.028,6.96,5.23,2,50,2,2
+3o$eC0fUb4Dfh$UadBcdtD,IfcDoor,IfcDoor,2OG-Balkon-4-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,4.3.2,ZIMMER-4-4,boundary,2OG-A-4-2,66.513,6.96,5.23,2,50,2,2
+2F2376nCTDDQ7eU_R0onGY,IfcDoor,IfcDoor,2OG-Tür-3-1,Stocktür_1_Fl,2.OG,3.3.3,BAD / WC-3-1,boundary_mehrere,2OG-I-3-2,57.763,1.992,5.23,2,50,2,2
+1XefGgz8rEZ8iKn91elwPC,IfcDoor,IfcDoor,2OG-Tür-3-2,Stocktür_1_Fl,2.OG,3.3.4,FLUR-3-4,boundary_mehrere,2OG-I-3-1,56.366,2.21,5.23,2,50,2,2
+1dsDP1zDzE3fYtkFVaBI96,IfcDoor,IfcDoor,2OG-Tür-3-3,Stocktür_1_Fl,2.OG,3.3.1,ZIMMER-3-3,boundary_mehrere,2OG-I-3-1,55.252,2.21,5.23,2,50,4,2
+2gvSD2cqj4$Bce4hkIsQWa,IfcDoor,IfcDoor,2OG-Balkon-3-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,3.3.1,ZIMMER-3-3,boundary,2OG-A-3-2,55.523,6.96,5.23,2,50,4,2
+0ebsgwLsf4Ph7W3rT8Glad,IfcDoor,IfcDoor,2OG-Balkon-3-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,3.3.2,ZIMMER-3-4,boundary,2OG-A-3-2,59.008,6.96,5.23,2,50,2,2
+0djX3pXzHDmwXSu0VwOKLP,IfcDoor,IfcDoor,2OG-Balkon-2-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,2.3.1,ZIMMER-2-3,boundary,2OG-A-2-2,48.018,6.96,5.23,2,50,2,2
+0La0w7L7z5jB1GrTIMWiBQ,IfcDoor,IfcDoor,2OG-Balkon-2-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,2.3.2,ZIMMER-2-4,boundary,2OG-A-2-2,51.503,6.96,5.23,2,50,4,2
+3JZ0ZsdkH79P8Yw$$YRHgR,IfcDoor,IfcDoor,2OG-Tür-2-1,Stocktür_1_Fl,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,2OG-I-2-2,50.258,1.992,5.23,2,50,4,4
+14DEFG6yfFHBg$xRWpZjUt,IfcDoor,IfcDoor,2OG-Tür-2-2,Stocktür_1_Fl,2.OG,2.3.2,ZIMMER-2-4,boundary_mehrere,2OG-I-2-1,48.861,2.21,5.23,2,50,4,2
+1TZmU2lv57OvMzbIWK6wQc,IfcDoor,IfcDoor,2OG-Tür-2-3,Stocktür_1_Fl,2.OG,2.3.4,FLUR-2-4,boundary_mehrere,2OG-I-2-1,47.747,2.21,5.23,2,50,4,4
+062AZa7G9C3x_w$f36WUdo,IfcDoor,IfcDoor,2OG-Tür-1-1,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-2,42.753,1.992,5.23,2,50,6,6
+258x8TPc92hhQfpOAhEuPw,IfcDoor,IfcDoor,2OG-Tür-1-2,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-1,41.356,2.21,5.23,2,50,6,6
+0cW7xsvD51dvtwlChfchN7,IfcDoor,IfcDoor,2OG-Tür-1-3,Stocktür_1_Fl,2.OG,1.3.4,FLUR-1-4,boundary_mehrere,2OG-I-1-1,40.242,2.21,5.23,2,50,6,6
+1_w0XUO3j7GeI4I_AlllN8,IfcDoor,IfcDoor,2OG-Balkon-1-1,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,1.3.1,ZIMMER-1-3,boundary,2OG-A-1-2,40.463,6.96,5.23,2,50,2,2
+1ccBjZfQjCJwctxYR_KS9A,IfcDoor,IfcDoor,2OG-Balkon-1-2,IFC Doppeltür - Eine Öffnungsrichtung,2.OG,1.3.2,ZIMMER-1-4,boundary,2OG-A-1-2,43.948,6.96,5.23,2,50,2,2
+3q0r6TC1XCzPZ66ktbNl6f,IfcWindow,IfcWindow,Keller-Fenster-03-1,IFC Fenster - ein Panel,KG,03.0.2,Kellerraum-03-2,boundary,Keller-A-03-4,21.537,0.0,-1.21,1,20,1,1
+0PaLyGqRv0IOtUYEx3a$KJ,IfcWindow,IfcWindow,Keller-Fenster-04-1,IFC Fenster - ein Panel,KG,04.0.2,Kellerraum-04-2,boundary,Keller-A-04-4,29.042,0.0,-1.21,1,20,1,1
+3z8UMupu1DCxkXQAM3VhyX,IfcWindow,IfcWindow,Keller-Fenster-04-2,IFC Fenster - ein Panel,KG,04.0.1,KELLERRAUM-04-1,boundary,Keller-A-04-2,25.7,6.909,-1.21,1,20,1,1
+3HudM$RIb7_vNO9OSKNBBy,IfcWindow,IfcWindow,Keller-Fenster-03-2,IFC Fenster - ein Panel,KG,03.0.1,KELLERRAUM-03-1,boundary,Keller-A-03-2,18.195,6.909,-1.21,1,20,1,1
+06_d_5sJD0HBxLmJLGbPWA,IfcWindow,IfcWindow,Keller-Fenster-02-1,IFC Fenster - ein Panel,KG,02.0.2,Kellerraum-02-2,boundary,Keller-A-02-4,14.032,0.0,-1.21,1,20,1,1
+3Yv75k4sLBlwnL8jzksrPw,IfcWindow,IfcWindow,Keller-Fenster-02-2,IFC Fenster - ein Panel,KG,02.0.1,KELLERRAUM-02-1,boundary,Keller-A-02-2,10.69,6.909,-1.21,1,20,1,1
+0wATuiLe157OHk$v$ODSAR,IfcWindow,IfcWindow,Keller-Fenster-01-2,IFC Fenster - ein Panel,KG,01.0.1,KELLERRAUM-01-1,boundary,Keller-A-01-2,3.185,6.909,-1.21,1,20,1,1
+0YLwIS2srCSOONbsaKxRsg,IfcWindow,IfcWindow,Keller-Fenster-01-1,IFC Fenster - ein Panel,KG,01.0.2,Kellerraum-01-2,boundary,Keller-A-01-4,6.527,0.0,-1.21,1,20,1,1
+11F6ST96nEAe02dx7agB2y,IfcWindow,IfcWindow,Keller-Fenster-05-2,IFC Fenster - ein Panel,KG,05.0.1,KELLERRAUM-05-1,boundary,Keller-A-05-2,33.205,6.909,-1.21,2,20,1,1
+0m3eIzI9b3ABpX_h231iqs,IfcWindow,IfcWindow,Keller-Fenster-05-2,IFC Fenster - ein Panel,KG,05.0.2,Kellerraum-05-2,boundary,Keller-A-05-4,36.547,0.0,-1.21,2,20,1,1
+2QdNeVY1DFLeEPjdMPEWsu,IfcWindow,IfcWindow,Keller-Fenster-08-1,IFC Fenster - ein Panel,KG,08.0.2,Kellerraum-08-2,boundary,Keller-A-08-4,59.062,0.0,-1.21,1,20,1,1
+3h6cP2bD10wuqyfNnXK_zh,IfcWindow,IfcWindow,Keller-Fenster-09-1,IFC Fenster - ein Panel,KG,09.0.2,Kellerraum-09-2,boundary,Keller-A-09-4,66.567,0.0,-1.21,1,20,1,1
+3upzQvrJj9uwhNWw1c0MkX,IfcWindow,IfcWindow,Keller-Fenster-09-2,IFC Fenster - ein Panel,KG,09.0.1,KELLERRAUM-09-1,boundary,Keller-A-09-2,63.225,6.909,-1.21,1,20,1,1
+1SsWi7vpz7cBJvV2issu_H,IfcWindow,IfcWindow,Keller-Fenster-08-2,IFC Fenster - ein Panel,KG,08.0.1,KELLERRAUM-08-1,boundary,Keller-A-08-2,55.72,6.909,-1.21,1,20,1,1
+0ZwL2YY6j0IODBFi9RPFH5,IfcWindow,IfcWindow,Keller-Fenster-07-1,IFC Fenster - ein Panel,KG,07.0.2,Kellerraum-07-2,boundary,Keller-A-07-4,51.557,0.0,-1.21,1,20,1,1
+1pcUaQYWr96uMUe201Ie5L,IfcWindow,IfcWindow,Keller-Fenster-07-2,IFC Fenster - ein Panel,KG,07.0.1,KELLERRAUM-07-1,boundary,Keller-A-07-2,48.215,6.909,-1.21,1,20,1,1
+0rQWh25uP0rOr_TEhHX5wg,IfcWindow,IfcWindow,Keller-Fenster-06-2,IFC Fenster - ein Panel,KG,06.0.1,KELLERRAUM-06-1,boundary,Keller-A-06-2,40.71,6.909,-1.21,1,20,1,1
+3y7T53VW96bvWb18NMYxSm,IfcWindow,IfcWindow,Keller-Fenster-06-1,IFC Fenster - ein Panel,KG,06.0.2,Kellerraum-06-2,boundary,Keller-A-06-4,44.052,0.0,-1.21,1,20,1,1
+11rRJRhbLBKP0mYeFfRAnN,IfcWindow,IfcWindow,Keller-Fenster-10-2,IFC Fenster - ein Panel,KG,10.0.1,KELLERRAUM-10-1,boundary,Keller-A-10-2,70.73,6.909,-1.21,2,20,1,1
+2mYXX5Q$n4iwcCCHaJ7cN_,IfcWindow,IfcWindow,Keller-Fenster-10-2,IFC Fenster - ein Panel,KG,10.0.2,Kellerraum-10-2,boundary,Keller-A-10-4,74.072,0.0,-1.21,2,20,1,1
+2hKCA$MyPCx9GbRj1lC2uE,IfcWindow,IfcWindow,EG-Fenster-05-1,IFC Fenster - ein Panel,EG,05.1.2,WC-05-1,boundary,EG-A-05-3,34.72,-0.05,1.37,1,20,1,1
+3RRh_spo1EcP26S5_kPXYq,IfcWindow,IfcWindow,EG-Fenster-05-2,IFC Fenster - ein Panel,EG,05.1.1,WOHNEN / KOCHEN-05-1,boundary,EG-A-05-3,36.595,-0.05,0.87,1,20,1,1
+3w81aZbJ5EvwHENy5tK6P3,IfcWindow,IfcWindow,EG-Fenster-04-1,IFC Fenster - ein Panel,EG,04.1.2,WC-04-1,boundary,EG-A-04-4,27.215,-0.05,1.37,1,20,1,1
+0b61tQPOb9uuzG_TNxgGxx,IfcWindow,IfcWindow,EG-Fenster-04-2,IFC Fenster - ein Panel,EG,04.1.1,WOHNEN / KOCHEN-04-1,boundary,EG-A-04-4,29.09,-0.05,0.87,1,20,1,1
+1ht_itI21D2xVhA$6zBONP,IfcWindow,IfcWindow,EG-Fenster-03-1,IFC Fenster - ein Panel,EG,03.1.2,WC-03-1,boundary,EG-A-03-4,19.71,-0.05,1.37,1,20,1,1
+1q1$zOYvr4gOOGQDe1a1xt,IfcWindow,IfcWindow,EG-Fenster-03-2,IFC Fenster - ein Panel,EG,03.1.1,WOHNEN / KOCHEN-03-1,boundary,EG-A-03-4,21.585,-0.05,0.87,1,20,1,1
+0UFF_9OWbDF9_Z1_3D4ldf,IfcWindow,IfcWindow,EG-Fenster-02-1,IFC Fenster - ein Panel,EG,02.1.2,WC-02-1,boundary,EG-A-02-4,12.205,-0.05,1.37,1,20,1,1
+1b7Xe90NzDoxtikW81mJXo,IfcWindow,IfcWindow,EG-Fenster-02-2,IFC Fenster - ein Panel,EG,02.1.1,WOHNEN / KOCHEN-02-1,boundary,EG-A-02-4,14.079,-0.05,0.87,1,20,1,1
+3z4b8sfy90shBd3uf_7e4T,IfcWindow,IfcWindow,EG-Fenster-01-1,IFC Fenster - ein Panel,EG,01.1.2,WC-01-1,boundary,EG-A-01-4,4.7,-0.05,1.37,1,20,1,1
+21WBZx$X9ERuykXayWLfWp,IfcWindow,IfcWindow,EG-Fenster-01-2,IFC Fenster - ein Panel,EG,01.1.1,WOHNEN / KOCHEN-01-1,boundary,EG-A-01-4,6.575,-0.05,0.87,1,20,1,1
+39uNB1JP1AUfe8k58XbMvT,IfcWindow,IfcWindow,EG-Fenster-10-1,IFC Fenster - ein Panel,EG,10.1.2,WC-10-1,boundary,EG-A-10-3,72.245,-0.05,1.37,1,20,1,1
+08l8r4mavD6wYsCwxHSanp,IfcWindow,IfcWindow,EG-Fenster-10-2,IFC Fenster - ein Panel,EG,5.1.1,WOHNEN / KOCHEN-5-1,boundary,EG-A-10-3,74.12,-0.05,0.87,1,20,1,1
+3WAAQEjVr9KOfuD$a3ote$,IfcWindow,IfcWindow,EG-Fenster-09-1,IFC Fenster - ein Panel,EG,09.1.2,WC-09-1,boundary,EG-A-09-4,64.74,-0.05,1.37,1,20,1,1
+1tNQjs9GbBWPabmeRGgx1X,IfcWindow,IfcWindow,EG-Fenster-09-2,IFC Fenster - ein Panel,EG,09.1.1,WOHNEN / KOCHEN-09-1,boundary,EG-A-09-4,66.615,-0.05,0.87,1,20,1,1
+3GhEe$$bjFP9LYMvqqrih$,IfcWindow,IfcWindow,EG-Fenster-08-1,IFC Fenster - ein Panel,EG,08.1.2,WC-08-1,boundary,EG-A-08-4,57.235,-0.05,1.37,1,20,1,1
+14O9bm45jB6fELchhZyg_5,IfcWindow,IfcWindow,EG-Fenster-08-2,IFC Fenster - ein Panel,EG,08.1.1,WOHNEN / KOCHEN-08-1,boundary,EG-A-08-4,59.11,-0.05,0.87,1,20,1,1
+1jrcmNHJr3HAQh0etjMIHq,IfcWindow,IfcWindow,EG-Fenster-07-1,IFC Fenster - ein Panel,EG,07.1.2,WC-07-1,boundary,EG-A-07-4,49.73,-0.05,1.37,1,20,1,1
+2$zDftp_n6Pw5fJ8PxewPv,IfcWindow,IfcWindow,EG-Fenster-07-2,IFC Fenster - ein Panel,EG,067.1.1,WOHNEN / KOCHEN-07-1,boundary,EG-A-07-4,51.604,-0.05,0.87,1,20,1,1
+0xM$QEXef7VQOmv3pVZY10,IfcWindow,IfcWindow,EG-Fenster-06-1,IFC Fenster - ein Panel,EG,06.1.2,WC-06-1,boundary,EG-A-06-4,42.225,-0.05,1.37,1,20,1,1
+3gmA5tbJvFGA4EuyIQzVF1,IfcWindow,IfcWindow,EG-Fenster-06-2,IFC Fenster - ein Panel,EG,06.1.1,WOHNEN / KOCHEN-06-1,boundary,EG-A-06-4,44.1,-0.05,0.87,1,20,1,1
+1hccHBsg92g8QQMV5efkn8,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,1.OG,4.2.4,FLUR-4-3,boundary,1OG-A-4-4,26.525,-0.05,3.3,6,20,3,3
+0gXHOGp9r8PekP8iPYcm5e,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,1.OG,4.2.3,BAD / WC-4-1,boundary,1OG-A-4-4,29.24,-0.05,4.05,6,20,1,1
+3xNt7iPwTDH9UtWH0985SR,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,3.2.3,BAD / WC-3-1,boundary,1OG-A-3-4,19.02,-0.05,3.3,8,20,2,2
+3smcPfpAD3lufKyxieOyI5,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,1.OG,3.2.3,BAD / WC-3-1,boundary,1OG-A-3-4,21.735,-0.05,4.05,6,20,2,2
+2zVDPb1391RAtcoP83bbfZ,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,1.OG,2.2.3,BAD / WC-2-1,boundary,1OG-A-2-4,11.515,-0.05,3.3,6,20,2,2
+1xN2A073D2seHxag2FMVu5,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,2.2.3,BAD / WC-2-1,boundary,1OG-A-2-4,14.23,-0.05,4.05,8,20,2,2
+3DQE_ViVrFsRsPnW3b7PwI,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,1.OG,5.2.4,FLUR-5-3,boundary,1OG-A-5-4,34.031,-0.05,3.3,6,20,1,1
+1Nr7_dNmL7jBD2jm2mp_Or,IfcWindow,IfcWindow,1OG-Fenster-1-5,IFC Fenster - ein Panel,1.OG,5.2.3,BAD / WC-5-1,boundary,1OG-A-5-4,36.745,-0.05,4.05,4,20,3,3
+0Y6kCv1EL5uvd1HiuXBmIA,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,1.OG,1.2.3,BAD / WC-1-1,boundary,1OG-A-1-4,4.01,-0.05,3.3,6,20,3,3
+2$29eaXAP37PtPgxEXJUTb,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,1.2.3,BAD / WC-1-1,boundary,1OG-A-1-4,6.725,-0.05,4.05,8,20,3,3
+3nI2yHcnjA19YTBGhIX$t0,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,1.OG,4.2.4,FLUR-4-3,boundary,1OG-A-4-4,64.05,-0.05,3.3,6,20,3,3
+2ndGO42G1BPwXnJ2sgV8ol,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,1.OG,4.2.4,FLUR-4-3,boundary,1OG-A-4-4,66.765,-0.05,4.05,6,20,3,3
+0fuWcRqjPBzhfGTkfc1MEp,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,3.2.4,FLUR-3-3,boundary,1OG-A-3-4,56.545,-0.05,3.3,8,20,2,2
+2r57RS05P6LRXyuOQLdFon,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,1.OG,3.2.4,FLUR-3-3,boundary,1OG-A-3-4,59.26,-0.05,4.05,6,20,2,2
+1JHMWE7rTAyhL635hm40m4,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,1.OG,2.2.4,FLUR-2-3,boundary,1OG-A-2-4,49.04,-0.05,3.3,6,20,2,2
+0vvhkiTsf2gR49y$WFQlUN,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,2.2.4,FLUR-2-3,boundary,1OG-A-2-4,51.755,-0.05,4.05,8,20,2,2
+3xU80BuzD1pOfaWjP15vRI,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,1.OG,5.2.3,BAD / WC-5-1,boundary,1OG-A-5-4,71.556,-0.05,3.3,6,20,3,3
+0y9$9bRxvDg8GAa0yN7TYH,IfcWindow,IfcWindow,1OG-Fenster-1-5,IFC Fenster - ein Panel,1.OG,5.2.3,BAD / WC-5-1,boundary,1OG-A-5-4,74.27,-0.05,4.05,4,20,3,3
+2FJ_PUNUv0n9veGtbI0jFL,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,1.OG,1.2.4,FLUR-1-3,boundary,1OG-A-1-4,41.535,-0.05,3.3,6,20,1,1
+00Er_IGnj5VOLGxRxiql$2,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,1.OG,1.2.3,BAD / WC-1-1,boundary,1OG-A-1-4,44.25,-0.05,4.05,8,20,3,3
+3RCjL5noD7QQYV0uglDfWo,IfcWindow,IfcWindow,1OG-Fenster-1-5,IFC Fenster - ein Panel,2.OG,5.3.4,FLUR-5-4,boundary,2OG-A-5-4,34.031,-0.05,6.0,4,20,2,2
+3GonVrlpjBgfWV7nCG1Yk3,IfcWindow,IfcWindow,1OG-Fenster-1-6,IFC Fenster - ein Panel,2.OG,5.3.3,BAD / WC-5-1,boundary,2OG-A-5-4,36.745,-0.05,6.75,2,20,2,2
+0FGh_l7oTE68Up7_9m_nS_,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,2.OG,4.3.4,FLUR-4-4,boundary,2OG-A-4-4,26.526,-0.05,6.0,6,20,2,2
+20R4wmeQPCTeT8lWN6_8qp,IfcWindow,IfcWindow,1OG-Fenster-1-7,IFC Fenster - ein Panel,2.OG,4.3.3,BAD / WC-4-1,boundary,2OG-A-4-4,29.24,-0.05,6.75,2,20,2,2
+2BQ5njjFDAYQGlwFNd96UP,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,2.OG,3.3.4,FLUR-3-4,boundary,2OG-A-3-4,19.021,-0.05,6.0,6,20,2,2
+0fNvi_Zwf3ghppa45dYqsA,IfcWindow,IfcWindow,1OG-Fenster-1-8,IFC Fenster - ein Panel,2.OG,3.3.3,BAD / WC-3-1,boundary,2OG-A-3-4,21.735,-0.05,6.75,2,20,2,2
+3FkU2HCq1F3fmI8fs3uSXQ,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,2.OG,2.3.4,FLUR-2-4,boundary,2OG-A-2-4,11.516,-0.05,6.0,8,20,2,2
+3pQ4c5Qaf7oAi47gPYsJ_y,IfcWindow,IfcWindow,1OG-Fenster-1-9,IFC Fenster - ein Panel,2.OG,2.3.3,BAD / WC-2-1,boundary,2OG-A-2-4,14.23,-0.05,6.75,2,20,2,2
+17nXX$Oo52DxlyTePiq6ez,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,2.OG,1.3.4,FLUR-1-4,boundary,2OG-A-1-4,3.961,-0.05,6.0,6,20,2,2
+1sgqNt1F5CyfNLZTcnrfIh,IfcWindow,IfcWindow,1OG-Fenster-1-0,IFC Fenster - ein Panel,2.OG,1.3.3,BAD / WC-1-1,boundary,2OG-A-1-4,6.675,-0.05,6.75,2,20,2,2
+0KfA3C4ozEk98USlq5o0Mh,IfcWindow,IfcWindow,1OG-Fenster-1-5,IFC Fenster - ein Panel,2.OG,5.3.4,FLUR-5-4,boundary,2OG-A-5-4,71.556,-0.05,6.0,4,20,2,2
+1X417iUVX1AQyVGCSb8Ggi,IfcWindow,IfcWindow,1OG-Fenster-1-6,IFC Fenster - ein Panel,2.OG,5.3.3,BAD / WC-5-1,boundary,2OG-A-5-4,74.27,-0.05,6.75,2,20,2,2
+2zV4wd_xTA5RYIAynch3jC,IfcWindow,IfcWindow,1OG-Fenster-1-4,IFC Fenster - ein Panel,2.OG,4.3.4,FLUR-4-4,boundary,2OG-A-4-4,64.051,-0.05,6.0,6,20,2,2
+1aXOwCf6DAWe5MKJNaVB$R,IfcWindow,IfcWindow,1OG-Fenster-1-7,IFC Fenster - ein Panel,2.OG,4.3.3,BAD / WC-4-1,boundary,2OG-A-4-4,66.765,-0.05,6.75,2,20,2,2
+1qpKkUkJ96EfA7m6V9UA8q,IfcWindow,IfcWindow,1OG-Fenster-1-3,IFC Fenster - ein Panel,2.OG,3.3.4,FLUR-3-4,boundary,2OG-A-3-4,56.546,-0.05,6.0,6,20,2,2
+3egveIgUD8V9h69waoe1OM,IfcWindow,IfcWindow,1OG-Fenster-1-8,IFC Fenster - ein Panel,2.OG,3.3.3,BAD / WC-3-1,boundary,2OG-A-3-4,59.26,-0.05,6.75,2,20,2,2
+0C9Ydcv9bAfRjQ5xYCBvUx,IfcWindow,IfcWindow,1OG-Fenster-1-2,IFC Fenster - ein Panel,2.OG,2.3.4,FLUR-2-4,boundary,2OG-A-2-4,49.041,-0.05,6.0,8,20,2,2
+1SG3H6x9j6wxGhsRuIcuUR,IfcWindow,IfcWindow,1OG-Fenster-1-9,IFC Fenster - ein Panel,2.OG,2.3.3,BAD / WC-2-1,boundary,2OG-A-2-4,51.755,-0.05,6.75,2,20,2,2
+3s$n$tvyj2uvCNgjRfNK9J,IfcWindow,IfcWindow,1OG-Fenster-1-1,IFC Fenster - ein Panel,2.OG,1.3.4,FLUR-1-4,boundary,2OG-A-1-4,41.486,-0.05,6.0,6,20,2,2
+1WuLwQ7L95IeyQ9ttQS5Es,IfcWindow,IfcWindow,1OG-Fenster-1-0,IFC Fenster - ein Panel,2.OG,1.3.3,BAD / WC-1-1,boundary,2OG-A-1-4,44.2,-0.05,6.75,2,20,2,2
+2CcUXsUgr8nujrQlX6Os6W,IfcColumn,IfcColumn,EG-Stuetze-01-2,Stahl 269029580 D100,EG,,,,,4.688,-1.376,-0.25,1,20,,
+3GfmaUPmX9beuOiGy5NsMN,IfcColumn,IfcColumn,EG-Stuetze-09-2,Stahl 269029580 D100,EG,,,,,64.728,-1.376,-0.25,1,20,,
+2BVf3sEJDCI8uSYNS3mMwL,IfcColumn,IfcColumn,EG-Stuetze-10-1,Stahl 269029580 D100,EG,,,,,69.812,-1.376,-0.25,1,20,,
+04F$WYaoL54gpTsfNTQEUs,IfcColumn,IfcColumn,EG-Stuetze-07-1,Stahl 269029580 D100,EG,,,,,47.297,-1.377,-0.25,1,20,,
+39kvRA4un63vxpbZndvX5O,IfcColumn,IfcColumn,EG-Stuetze-03-2,Stahl 269029580 D100,EG,,,,,19.698,-1.376,-0.25,1,20,,
+1fsPOLJA95AA53Wx89cSm4,IfcColumn,IfcColumn,EG-Stuetze-01-1,Stahl 269029580 D100,EG,,,,,2.267,-1.376,-0.25,1,20,,
+0VtN4UyZTAyBFay9rYlcbp,IfcColumn,IfcColumn,EG-Stuetze-03-1,Stahl 269029580 D100,EG,,,,,17.277,-1.376,-0.25,1,20,,
+1yPxa_pLrA_wq4dDHgxR7n,IfcColumn,IfcColumn,EG-Stuetze-04-2,Stahl 269029580 D100,EG,,,,,27.203,-1.376,-0.25,1,20,,
+06xvaW2qPBlOo7wUyqUHHX,IfcColumn,IfcColumn,EG-Stuetze-02-1,Stahl 269029580 D100,EG,,,,,9.772,-1.377,-0.25,1,20,,
+0$Mn$WycfFQe8kBFeGJ1Zd,IfcColumn,IfcColumn,EG-Stuetze-04-1,Stahl 269029580 D100,EG,,,,,24.782,-1.376,-0.25,1,20,,
+1K9lNsP3b9bh5Zn4n2Ve$k,IfcColumn,IfcColumn,EG-Stuetze-02-2,Stahl 269029580 D100,EG,,,,,12.192,-1.377,-0.25,1,20,,
+3w8rXJFS51YRpxLjrNdcIZ,IfcColumn,IfcColumn,EG-Stuetze-05-1,Stahl 269029580 D100,EG,,,,,32.287,-1.376,-0.25,1,20,,
+2XnaqDuYn3_vGH5fcYa6ow,IfcColumn,IfcColumn,EG-Stuetze-05-2,Stahl 269029580 D100,EG,,,,,34.708,-1.376,-0.25,1,20,,
+2rXCbl4N1A4e$zen8aAVwn,IfcColumn,IfcColumn,EG-Stuetze-06-2,Stahl 269029580 D100,EG,,,,,42.213,-1.376,-0.25,1,20,,
+2egmAL0Ej70Q0QFJHWuWqd,IfcColumn,IfcColumn,EG-Stuetze-07-2,Stahl 269029580 D100,EG,,,,,49.717,-1.377,-0.25,1,20,,
+0xKv5VqX9Bkxna3rXLzGso,IfcColumn,IfcColumn,EG-Stuetze-10-2,Stahl 269029580 D100,EG,,,,,72.233,-1.376,-0.25,1,20,,
+3ic8DaqWz9B8JuoyDx9V4Z,IfcColumn,IfcColumn,EG-Stuetze-09-1,Stahl 269029580 D100,EG,,,,,62.307,-1.376,-0.25,1,20,,
+1EROMMECT46eRaX3670D63,IfcColumn,IfcColumn,EG-Stuetze-08-2,Stahl 269029580 D100,EG,,,,,57.223,-1.376,-0.25,1,20,,
+2q5l7YwknAZwhZ5uDFA7Qs,IfcColumn,IfcColumn,EG-Stuetze-06-1,Stahl 269029580 D100,EG,,,,,39.792,-1.376,-0.25,1,20,,
+09t8qPusn0$vOb7CbfoAEV,IfcColumn,IfcColumn,EG-Stuetze-08-1,Stahl 269029580 D100,EG,,,,,54.802,-1.376,-0.25,1,20,,
+1Ch4oUp$n9b9N1n_U8BAb8,IfcBeam,IfcBeam,EG-Unterzug-10,I-SW-Eingang 100 x 150,EG,,,,,72.855,-1.376,2.23,1,10,,
+1$t5y3LuD4WOcv4dx5Z5Ea,IfcBeam,IfcBeam,EG-Unterzug-06,I-SW-Eingang 100 x 150,EG,,,,,39.187,-1.376,2.23,1,10,,
+1O9u4VCPf8mfT3D0$dQy_z,IfcBeam,IfcBeam,EG-Unterzug-01,I-SW-Eingang 100 x 150,EG,,,,,5.31,-1.376,2.23,1,10,,
+1BudUxeoHEJRDBTMYzyYvM,IfcBeam,IfcBeam,EG-Unterzug-02,I-SW-Eingang 100 x 150,EG,,,,,12.815,-1.377,2.23,1,10,,
+1MOATcIPP90AZoJ$WrG_1u,IfcBeam,IfcBeam,EG-Unterzug-03,I-SW-Eingang 100 x 150,EG,,,,,20.32,-1.376,2.23,1,10,,
+33RK6oxQj1aepxishGrNNJ,IfcBeam,IfcBeam,EG-Unterzug-04,I-SW-Eingang 100 x 150,EG,,,,,24.177,-1.376,2.23,1,10,,
+0ER4ROuDDAVvy8j8r9hvM1,IfcBeam,IfcBeam,EG-Unterzug-05,I-SW-Eingang 100 x 150,EG,,,,,31.682,-1.376,2.23,1,10,,
+1BchQu_FT5_vHajJeZMjKK,IfcBeam,IfcBeam,EG-Unterzug-07,I-SW-Eingang 100 x 150,EG,,,,,46.692,-1.377,2.23,1,10,,
+392BbC6A98veojSjYObY6o,IfcBeam,IfcBeam,EG-Unterzug-08,I-SW-Eingang 100 x 150,EG,,,,,57.845,-1.376,2.23,1,10,,
+0YZgnHGxTFcw3D_Aj6WxWg,IfcBeam,IfcBeam,EG-Unterzug-09,I-SW-Eingang 100 x 150,EG,,,,,65.35,-1.376,2.23,1,10,,
+1Cu5dhu8nF7eLoZJfFE6T5,IfcSlab,IfcSlab,Keller-Boden-01,Stahlbeton 2784800804 250,KG,01.0.2,Kellerraum-01-2,boundary_mehrere,,7.475,0.0,-2.81,1,10,1,1
+3OohOTMh91Ze59QOMhrkSt,IfcSlab,IfcSlab,Keller-Boden-02,Stahlbeton 2784800804 250,KG,02.0.3,FLUR-02-1,boundary_mehrere,,14.98,0.0,-2.81,1,10,1,1
+1Xa2ajLUHCzvyjwKRxZ6uf,IfcSlab,IfcSlab,Keller-Boden-03,Stahlbeton 2784800804 250,KG,03.0.2,Kellerraum-03-2,boundary_mehrere,,22.485,0.0,-2.81,1,10,1,1
+0G5zYbNCTC7upfw0w0ERHj,IfcSlab,IfcSlab,Keller-Boden-04,Stahlbeton 2784800804 250,KG,04.0.2,Kellerraum-04-2,boundary_mehrere,,29.99,0.0,-2.81,1,10,1,1
+0Q1JjEBNLFj89xd_TdjhRl,IfcSlab,IfcSlab,Keller-Boden-05,Stahlbeton 2784800804 250,KG,05.0.2,Kellerraum-05-2,boundary_mehrere,,37.495,0.0,-2.81,1,10,1,1
+2I2SrhyTf5G8A2EQnUV0zm,IfcSlab,IfcSlab,Keller-Boden-06,Stahlbeton 2784800804 250,KG,06.0.2,Kellerraum-06-2,boundary_mehrere,,45.0,0.0,-2.81,1,10,1,1
+2NwhXG2_nBOBgGMa9p0Wjg,IfcSlab,IfcSlab,Keller-Boden-07,Stahlbeton 2784800804 250,KG,07.0.3,FLUR-07-1,boundary_mehrere,,52.505,0.0,-2.81,1,10,1,1
+26Y1_qxkX5KAimXe7$KDIU,IfcSlab,IfcSlab,Keller-Boden-08,Stahlbeton 2784800804 250,KG,08.0.2,Kellerraum-08-2,boundary_mehrere,,60.01,0.0,-2.81,1,10,1,1
+1ay5U6yLv1897v2WcPg0Ga,IfcSlab,IfcSlab,Keller-Boden-09,Stahlbeton 2784800804 250,KG,09.0.2,Kellerraum-09-2,boundary_mehrere,,67.515,0.0,-2.81,1,10,1,1
+3wvfXo7l52pv7VgvyIR_HQ,IfcSlab,IfcSlab,Keller-Boden-10,Stahlbeton 2784800804 250,KG,10.0.2,Kellerraum-10-2,boundary_mehrere,,75.02,0.0,-2.81,1,10,1,1
+30ZXiOcMb5genQip_0pTMX,IfcSlab,IfcSlab,EG-Boden-01,Stahlbeton 2784800804 180,EG,01.0.2,Kellerraum-01-2,boundary_mehrere,,7.475,-0.05,-0.25,1,40,1,1
+2GlvzXHc9FQuvZMq6ig4MR,IfcSlab,IfcSlab,EG-Boden-02,Stahlbeton 2784800804 180,EG,02.0.3,FLUR-02-1,boundary_mehrere,,14.98,-0.05,-0.25,1,40,1,1
+34a7ezr_X8M9v$Ux70lj48,IfcSlab,IfcSlab,EG-Boden-03,Stahlbeton 2784800804 180,EG,03.0.2,Kellerraum-03-2,boundary_mehrere,,22.485,-0.05,-0.25,1,40,1,1
+244ue3rtD9UQz5nr1r8tUH,IfcSlab,IfcSlab,EG-Boden-04,Stahlbeton 2784800804 180,EG,04.0.2,Kellerraum-04-2,boundary_mehrere,,29.99,-0.05,-0.25,1,40,1,1
+2R1qYwa$zC9f7Ycv2g988Q,IfcSlab,IfcSlab,EG-Boden-05,Stahlbeton 2784800804 180,EG,05.0.2,Kellerraum-05-2,boundary_mehrere,,37.545,-0.05,-0.25,1,40,1,1
+0Eih2J3xn6Bv7Qeo9iRSGt,IfcSlab,IfcSlab,EG-Eingang-02,Stahlbeton 2784800804 120,EG,,,,,12.492,-0.05,-0.25,1,40,,
+04ZFWWRab21xHi0aVt9nwF,IfcSlab,IfcSlab,EG-Eingang-05,Stahlbeton 2784800804 120,EG,,,,,35.008,-0.05,-0.25,1,40,,
+0bAnlxgnn7$QfrkDN0StNG,IfcSlab,IfcSlab,EG-Eingang-01,Stahlbeton 2784800804 120,EG,,,,,4.988,-0.05,-0.25,1,40,,
+0ocgy14eb81xftNXL79upm,IfcSlab,IfcSlab,EG-Terrasse-05,Stahlbeton 2784800804 120,EG,,,,,37.105,6.96,-0.25,1,40,,
+1MJxgvzSjFo8MN2zaZkxgY,IfcSlab,IfcSlab,EG-Terrasse-03,Stahlbeton 2784800804 120,EG,,,,,22.095,6.96,-0.25,1,40,,
+0ffWphY4n0ygnxYnVxzZyY,IfcSlab,IfcSlab,EG-Terrasse-02,Stahlbeton 2784800804 120,EG,,,,,14.59,6.96,-0.25,1,40,,
+0jtwrgS_v8tBez$ygcBSCe,IfcSlab,IfcSlab,EG-Terrasse-01,Stahlbeton 2784800804 120,EG,,,,,7.085,6.96,-0.25,1,40,,
+0m0KqUhmvAkhKTqnLWckSD,IfcSlab,IfcSlab,EG-Terrasse-04,Stahlbeton 2784800804 120,EG,,,,,29.6,6.96,-0.25,1,40,,
+0zzT6GPozFewRsfhaQb1yq,IfcSlab,IfcSlab,EG-Eingang-04,Stahlbeton 2784800804 120,EG,,,,,27.503,-0.05,-0.25,1,40,,
+0HvxAVJj1FhBcl$zq4a623,IfcSlab,IfcSlab,EG-Eingang-03,Stahlbeton 2784800804 120,EG,,,,,19.998,-0.05,-0.25,1,40,,
+3vdsoOLm125vvtS4nROY5J,IfcSlab,IfcSlab,EG-Vordach-01,Aluminium 587913947 98,EG,,,,,1.226,-1.451,2.38,1,40,,
+3L3ZHD9W11ce0IBV1YEols,IfcSlab,IfcSlab,EG-Vordach-02,Aluminium 587913947 98,EG,,,,,8.731,-1.451,2.38,1,40,,
+3ciEcCQNX55vZIyp7aJqx_,IfcSlab,IfcSlab,EG-Vordach-03,Aluminium 587913947 98,EG,,,,,16.236,-1.451,2.38,1,40,,
+33PetR4nX5RP61eoxdbs5T,IfcSlab,IfcSlab,EG-Vordach-04,Aluminium 587913947 98,EG,,,,,23.741,-1.451,2.38,1,40,,
+2wAXUuqiH0JPiAvmXQ2z1M,IfcSlab,IfcSlab,EG-Vordach-05,Aluminium 587913947 98,EG,,,,,31.246,-1.451,2.38,1,40,,
+3uQXfLRwD39hn$ztGVdzE5,IfcSlab,IfcSlab,EG-Boden-06,Stahlbeton 2784800804 180,EG,06.0.2,Kellerraum-06-2,boundary_mehrere,,45.0,-0.05,-0.25,1,40,1,1
+3u$LTT4IP8HhVPN6af4IEW,IfcSlab,IfcSlab,EG-Boden-07,Stahlbeton 2784800804 180,EG,07.0.3,FLUR-07-1,boundary_mehrere,,52.505,-0.05,-0.25,1,40,1,1
+0EwxF4nBz6rQtu719baEc0,IfcSlab,IfcSlab,EG-Boden-08,Stahlbeton 2784800804 180,EG,08.0.2,Kellerraum-08-2,boundary_mehrere,,60.01,-0.05,-0.25,1,40,1,1
+0GJvSj0jnCaefe7DGyDSfw,IfcSlab,IfcSlab,EG-Boden-09,Stahlbeton 2784800804 180,EG,09.0.2,Kellerraum-09-2,boundary_mehrere,,67.515,-0.05,-0.25,1,40,1,1
+1I0Sj0K1v549rPkKPuCzAy,IfcSlab,IfcSlab,EG-Boden-10,Stahlbeton 2784800804 180,EG,10.0.2,Kellerraum-10-2,boundary_mehrere,,75.07,-0.05,-0.25,1,40,1,1
+0Kiyh1LsHEmReQaFcBwFew,IfcSlab,IfcSlab,EG-Eingang-07,Stahlbeton 2784800804 120,EG,,,,,50.017,-0.05,-0.25,1,40,,
+1x7$gzvVf5Z8aqgznLIOfe,IfcSlab,IfcSlab,EG-Eingang-10,Stahlbeton 2784800804 120,EG,,,,,72.533,-0.05,-0.25,1,40,,
+1k2K6_J6L73hIYVxvCswuU,IfcSlab,IfcSlab,EG-Eingang-06,Stahlbeton 2784800804 120,EG,,,,,42.513,-0.05,-0.25,1,40,,
+2xKIMEAX90f9Xae_W1$7LA,IfcSlab,IfcSlab,EG-Terrasse-10,Stahlbeton 2784800804 120,EG,,,,,74.63,6.96,-0.25,1,40,,
+22gZP6rxP7RPw4OE82$8xv,IfcSlab,IfcSlab,EG-Terrasse-08,Stahlbeton 2784800804 120,EG,,,,,59.62,6.96,-0.25,1,40,,
+2mW5yxQM9DsOIDhgEWN_Kf,IfcSlab,IfcSlab,EG-Terrasse-07,Stahlbeton 2784800804 120,EG,,,,,52.115,6.96,-0.25,1,40,,
+1PluCqsrDCkhAcCadMoap2,IfcSlab,IfcSlab,EG-Terrasse-06,Stahlbeton 2784800804 120,EG,,,,,44.61,6.96,-0.25,1,40,,
+1DgRq2uHj0tw7CL6H2nqlL,IfcSlab,IfcSlab,EG-Terrasse-09,Stahlbeton 2784800804 120,EG,,,,,67.125,6.96,-0.25,1,40,,
+1CQ2RBMBL5_hxIUaOqz2$k,IfcSlab,IfcSlab,EG-Eingang-09,Stahlbeton 2784800804 120,EG,,,,,65.028,-0.05,-0.25,1,40,,
+13gl_N7wT0EeW7BqhvNZK6,IfcSlab,IfcSlab,EG-Eingang-08,Stahlbeton 2784800804 120,EG,,,,,57.523,-0.05,-0.25,1,40,,
+2PrcZqKtbFu9TRbDwNopFW,IfcSlab,IfcSlab,EG-Vordach-06,Aluminium 587913947 98,EG,,,,,38.751,-1.451,2.38,1,40,,
+3P3dCSfcT519WqbVi1yNgJ,IfcSlab,IfcSlab,EG-Vordach-07,Aluminium 587913947 98,EG,,,,,46.256,-1.451,2.38,1,40,,
+3w69W2OpL8wA_o8w6J_nNJ,IfcSlab,IfcSlab,EG-Vordach-08,Aluminium 587913947 98,EG,,,,,53.761,-1.451,2.38,1,40,,
+2wMaYuAFHCVufF32G$ci5V,IfcSlab,IfcSlab,EG-Vordach-09,Aluminium 587913947 98,EG,,,,,61.266,-1.451,2.38,1,40,,
+0XjBEMX$v2ZAebz1DZa19E,IfcSlab,IfcSlab,EG-Vordach-10,Aluminium 587913947 98,EG,,,,,68.771,-1.451,2.38,1,40,,
+1$U$qGevz8vhjYdFvvy8JN,IfcSlab,IfcSlab,1OG-Balkon-2-1,Stahlbeton 2784800804 120,1.OG,,,,,8.059,6.96,2.53,2,30,,
+3W79ayr4LFMf3sWp8MUyK2,IfcSlab,IfcSlab,1OG-Balkon-2-2,Stahlbeton 2784800804 120,1.OG,,,,,11.536,6.96,2.53,2,30,,
+1zW9iyiwH88whEi2k14quR,IfcSlab,IfcSlab,1OG-Balkon-3-1,Stahlbeton 2784800804 120,1.OG,,,,,15.564,6.96,2.53,2,30,,
+2aegG$LMf5mB4Pxh_xspzL,IfcSlab,IfcSlab,1OG-Balkon-3-2,Stahlbeton 2784800804 120,1.OG,,,,,19.041,6.96,2.53,2,30,,
+05svSimUn8jeEpGwd_Vg8Y,IfcSlab,IfcSlab,1OG-Balkon-4-1,Stahlbeton 2784800804 120,1.OG,,,,,23.069,6.96,2.53,2,30,,
+00qKMwdcT6SOf_PQ0dL7jj,IfcSlab,IfcSlab,1OG-Balkon-4-2,Stahlbeton 2784800804 120,1.OG,,,,,26.546,6.96,2.53,2,30,,
+28C$JPd1r6GxITPZzW3vEi,IfcSlab,IfcSlab,1OG-Balkon-5-1,Stahlbeton 2784800804 120,1.OG,,,,,30.574,6.96,2.53,2,30,,
+3gFDYl4dz1yALMsToQouj5,IfcSlab,IfcSlab,1OG-Balkon-5-2,Stahlbeton 2784800804 120,1.OG,,,,,34.051,6.96,2.53,2,30,,
+3leGSW3W91i96NfKGjz0WI,IfcSlab,IfcSlab,OG-1-Boden-02,Stahlbeton 2784800804 180,1.OG,02.1.3,FLUR-02-2,boundary_mehrere,,14.98,-0.05,2.53,1,30,1,1
+1zGvwH4i96N8_XFmfPvU8S,IfcSlab,IfcSlab,OG-1-Boden-03,Stahlbeton 2784800804 180,1.OG,03.1.2,WC-03-1,boundary_mehrere,,22.485,-0.05,2.53,1,30,1,1
+3nRAKiMJ5B2hQDXqSHgcBi,IfcSlab,IfcSlab,OG-1-Boden-04,Stahlbeton 2784800804 180,1.OG,04.1.3,FLUR-04-2,boundary_mehrere,,29.99,-0.05,2.53,1,30,1,1
+02oR18XuP2Eu$PjTIphspE,IfcSlab,IfcSlab,OG-1-Boden-01,Stahlbeton 2784800804 180,1.OG,01.1.3,Flur-01-2,boundary_mehrere,,7.475,-0.05,2.53,1,30,1,1
+1JebZOe05EMxxFQbePv1lE,IfcSlab,IfcSlab,1OG-Balkon-1-1,Stahlbeton 2784800804 120,1.OG,,,,,0.554,6.96,2.53,2,30,,
+3vTTnPsif7uu_RkHsjw3ZY,IfcSlab,IfcSlab,1OG-Balkon-1-2,Stahlbeton 2784800804 120,1.OG,,,,,4.031,6.96,2.53,2,30,,
+0cIdrOFCP8BfpBJsJvzuT$,IfcSlab,IfcSlab,OG-1-Boden-05,Stahlbeton 2784800804 180,1.OG,05.1.2,WC-05-1,boundary_mehrere,,37.495,-0.05,2.53,1,30,1,1
+0FBI2$5JX9hhy3aAQb9p26,IfcSlab,IfcSlab,1OG-Balkon-2-1,Stahlbeton 2784800804 120,1.OG,,,,,45.584,6.96,2.53,2,30,,
+08lR7heP97KenKmAu1KjBH,IfcSlab,IfcSlab,1OG-Balkon-2-2,Stahlbeton 2784800804 120,1.OG,,,,,49.061,6.96,2.53,2,30,,
+0T8rd1pNT5vB6Ep9oGemhw,IfcSlab,IfcSlab,1OG-Balkon-3-1,Stahlbeton 2784800804 120,1.OG,,,,,53.089,6.96,2.53,2,30,,
+2hHXPdxBT1uRJPoJPgykKo,IfcSlab,IfcSlab,1OG-Balkon-3-2,Stahlbeton 2784800804 120,1.OG,,,,,56.566,6.96,2.53,2,30,,
+1Fb3SPcoLACAjr0RZZrydq,IfcSlab,IfcSlab,1OG-Balkon-4-1,Stahlbeton 2784800804 120,1.OG,,,,,60.594,6.96,2.53,2,30,,
+1tRfGMH6D1GvUWD3YHHSLH,IfcSlab,IfcSlab,1OG-Balkon-4-2,Stahlbeton 2784800804 120,1.OG,,,,,64.071,6.96,2.53,2,30,,
+06bJpkwMj9dApX5mCoeI0j,IfcSlab,IfcSlab,1OG-Balkon-5-1,Stahlbeton 2784800804 120,1.OG,,,,,68.099,6.96,2.53,2,30,,
+2ZAA1IdTD7ORQz8mSsbusm,IfcSlab,IfcSlab,1OG-Balkon-5-2,Stahlbeton 2784800804 120,1.OG,,,,,71.576,6.96,2.53,2,30,,
+10wiO6_XL49QsHGLhBYZ8c,IfcSlab,IfcSlab,OG-1-Boden-07,Stahlbeton 2784800804 180,1.OG,07.1.3,FLUR-07-2,boundary_mehrere,,52.505,-0.05,2.53,1,30,1,1
+0Mk2Lvhxz9Bef8LpqdbSN6,IfcSlab,IfcSlab,OG-1-Boden-08,Stahlbeton 2784800804 180,1.OG,08.1.2,WC-08-1,boundary_mehrere,,60.01,-0.05,2.53,1,30,1,1
+0nTgP6BOD5owDWeiGPnNTg,IfcSlab,IfcSlab,OG-1-Boden-09,Stahlbeton 2784800804 180,1.OG,10.1.3,FLUR-10-2,boundary_mehrere,,67.515,-0.05,2.53,1,30,1,1
+0dN4R_i7n1HxfqCV6azM25,IfcSlab,IfcSlab,OG-1-Boden-06,Stahlbeton 2784800804 180,1.OG,06.1.3,Flur-06-2,boundary_mehrere,,45.0,-0.05,2.53,1,30,1,1
+18Ioq6JXD7vP8N4Hp_b$bD,IfcSlab,IfcSlab,1OG-Balkon-1-1,Stahlbeton 2784800804 120,1.OG,,,,,38.079,6.96,2.53,2,30,,
+1ufZMi2Pb1yx0ZgHo$wpm4,IfcSlab,IfcSlab,1OG-Balkon-1-2,Stahlbeton 2784800804 120,1.OG,,,,,41.556,6.96,2.53,2,30,,
+0NrCNXgeL40u6QgekcUSSE,IfcSlab,IfcSlab,OG-1-Boden-10,Stahlbeton 2784800804 180,1.OG,10.1.2,WC-10-1,boundary_mehrere,,75.07,-0.05,2.53,1,30,1,1
+1PqHNNyXTA3weWfTD$$k3P,IfcSlab,IfcSlab,Boden-2OG-1,Stahlbeton 2784800804 180,2.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,7.475,-0.05,5.23,2,30,2,2
+061uoB$LH0ag1L6KqLFPT_,IfcSlab,IfcSlab,Boden-2OG-2,Stahlbeton 2784800804 180,2.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,14.98,-0.05,5.23,2,30,2,2
+3bEEUyaGL2o8dKqgzsowWR,IfcSlab,IfcSlab,Boden-2OG-3,Stahlbeton 2784800804 180,2.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,22.485,-0.05,5.23,2,30,2,2
+0eiot5uOX9pwYpVvGE7Wc0,IfcSlab,IfcSlab,Boden-2OG-4,Stahlbeton 2784800804 180,2.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,29.99,-0.05,5.23,2,30,2,2
+2GHcfUS55Dau7AqJvZ6bPJ,IfcSlab,IfcSlab,Boden-2OG-5,Stahlbeton 2784800804 180,2.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,37.545,-0.05,5.23,2,30,2,2
+1Xam6QOrLBywjXcZLhKouY,IfcSlab,IfcSlab,2OG-Balkon-1-1,Stahlbeton 2784800804 120,2.OG,,,,,0.554,6.96,5.23,2,30,,
+0PtpGNuW53bAS7927rrG6S,IfcSlab,IfcSlab,2OG-Balkon-1-2,Stahlbeton 2784800804 120,2.OG,,,,,4.031,6.96,5.23,2,30,,
+3s_bfQKwv0LwVw_86zxonD,IfcSlab,IfcSlab,2OG-Balkon-2-1,Stahlbeton 2784800804 120,2.OG,,,,,8.059,6.96,5.23,2,30,,
+24tQ3Jtaf459HFIh9dwQeM,IfcSlab,IfcSlab,2OG-Balkon-2-2,Stahlbeton 2784800804 120,2.OG,,,,,11.536,6.96,5.23,2,30,,
+1272aEGlH5lPgwLAoMQwMl,IfcSlab,IfcSlab,2OG-Balkon-3-1,Stahlbeton 2784800804 120,2.OG,,,,,15.564,6.96,5.23,2,30,,
+2wP9ls9Rr0suWK7k1zrMXq,IfcSlab,IfcSlab,2OG-Balkon-3-2,Stahlbeton 2784800804 120,2.OG,,,,,19.041,6.96,5.23,2,30,,
+2_z2l8U4zBpQvgOxFNBVD7,IfcSlab,IfcSlab,2OG-Balkon-4-1,Stahlbeton 2784800804 120,2.OG,,,,,23.069,6.96,5.23,2,30,,
+1eEkuiFsL4cPPqcOzsY2SB,IfcSlab,IfcSlab,2OG-Balkon-5-1,Stahlbeton 2784800804 120,2.OG,,,,,30.574,6.96,5.23,2,30,,
+2r8pKCvdD7ixXzB1e5t9IL,IfcSlab,IfcSlab,2OG-Balkon-5-2,Stahlbeton 2784800804 120,2.OG,,,,,34.051,6.96,5.23,2,30,,
+37mTu3EhT0S8aSh_jkFqVV,IfcSlab,IfcSlab,2OG-Balkon-4-2,Stahlbeton 2784800804 120,2.OG,,,,,26.546,6.96,5.23,2,30,,
+0cggic8xT0hgsmR4RhAz8g,IfcSlab,IfcSlab,Boden-2OG-1,Stahlbeton 2784800804 180,2.OG,1.2.2,ZIMMER-1-2,boundary_mehrere,,45.0,-0.05,5.23,2,30,2,2
+1Bc0_i_tn3DPexWTpXxWsw,IfcSlab,IfcSlab,Boden-2OG-2,Stahlbeton 2784800804 180,2.OG,2.2.1,ZIMMER-2-1,boundary_mehrere,,52.505,-0.05,5.23,2,30,2,2
+0DOKeP6Rb0SfiAb4_gXtGE,IfcSlab,IfcSlab,Boden-2OG-3,Stahlbeton 2784800804 180,2.OG,3.2.1,ZIMMER-3-1,boundary_mehrere,,60.01,-0.05,5.23,2,30,2,2
+2tUY_n9Ov6jBX5FbirpoD0,IfcSlab,IfcSlab,Boden-2OG-4,Stahlbeton 2784800804 180,2.OG,4.2.2,ZIMMER-4-2,boundary_mehrere,,67.515,-0.05,5.23,2,30,2,2
+3IFGH_f0v45fiaG8u$OWgY,IfcSlab,IfcSlab,Boden-2OG-5,Stahlbeton 2784800804 180,2.OG,5.2.2,ZIMMER-5-2,boundary_mehrere,,75.07,-0.05,5.23,2,30,2,2
+1ZvwokbbjD$un2ykCrLO0K,IfcSlab,IfcSlab,2OG-Balkon-1-1,Stahlbeton 2784800804 120,2.OG,,,,,38.079,6.96,5.23,2,30,,
+3ril$qXEHCixxhN1YBUWcl,IfcSlab,IfcSlab,2OG-Balkon-1-2,Stahlbeton 2784800804 120,2.OG,,,,,41.556,6.96,5.23,2,30,,
+0upNfmnlzAFfOC916ycGAJ,IfcSlab,IfcSlab,2OG-Balkon-2-1,Stahlbeton 2784800804 120,2.OG,,,,,45.584,6.96,5.23,2,30,,
+25Rz19ZxzDsgT4BxbORMPR,IfcSlab,IfcSlab,2OG-Balkon-2-2,Stahlbeton 2784800804 120,2.OG,,,,,49.061,6.96,5.23,2,30,,
+2KUoD$mlv6YxsYGmmwKFui,IfcSlab,IfcSlab,2OG-Balkon-3-1,Stahlbeton 2784800804 120,2.OG,,,,,53.089,6.96,5.23,2,30,,
+1n9fRdtqT2MuvvBRBwWLI3,IfcSlab,IfcSlab,2OG-Balkon-3-2,Stahlbeton 2784800804 120,2.OG,,,,,56.566,6.96,5.23,2,30,,
+1fldrJn0f5PvVg1cQyaK1E,IfcSlab,IfcSlab,2OG-Balkon-4-1,Stahlbeton 2784800804 120,2.OG,,,,,60.594,6.96,5.23,2,30,,
+0W0FNg40v8SvnAHqNGch_B,IfcSlab,IfcSlab,2OG-Balkon-5-1,Stahlbeton 2784800804 120,2.OG,,,,,68.099,6.96,5.23,2,30,,
+1kZnWobdf18AvDeVUfGRJg,IfcSlab,IfcSlab,2OG-Balkon-5-2,Stahlbeton 2784800804 120,2.OG,,,,,71.576,6.96,5.23,2,30,,
+0sDyX7XNDBUvgoShlPZH6M,IfcSlab,IfcSlab,2OG-Balkon-4-2,Stahlbeton 2784800804 120,2.OG,,,,,64.071,6.96,5.23,2,30,,
+1rMMIrrL9Ea9ZUAC10CZ22,IfcSlab,IfcSlab,Dach-1,Aluminium 587913947 200,Dach,1.3.4,FLUR-1-4,boundary_mehrere,,-0.015,-0.05,7.75,1,10,2,2
+3xFgSIIrjA4h8mxhztiehS,IfcSlab,IfcSlab,Dach-2,Aluminium 587913947 200,Dach,2.3.2,ZIMMER-2-4,boundary_mehrere,,7.49,-0.05,7.75,2,10,2,2
+2DRIP5_2PCTPYUshewKg4w,IfcSlab,IfcSlab,Dach-3,Aluminium 587913947 200,Dach,3.3.1,ZIMMER-3-3,boundary_mehrere,,14.995,-0.05,7.75,3,10,2,2
+2_b0WO4F9CExWWJmNhYCC2,IfcSlab,IfcSlab,Dach-4,Aluminium 587913947 200,Dach,4.3.3,BAD / WC-4-1,boundary_mehrere,,22.5,-0.05,7.75,3,10,2,2
+1S1nDx3w1Fr9ecZlxfuv8x,IfcSlab,IfcSlab,Dach-5,Aluminium 587913947 200,Dach,5.3.2,ZIMMER-5-4,boundary_mehrere,,67.53,-0.05,7.75,1,10,2,2
+1nhfKoMtfAWfiXlDlwLg2K,IfcSlab,IfcSlab,Dach-2,Aluminium 587913947 200,Dach,5.3.2,ZIMMER-5-4,boundary_mehrere,,30.005,-0.05,7.75,2,10,2,2
+3rsyfUGmr4aeQpEV__CZGc,IfcSlab,IfcSlab,Dach-3,Aluminium 587913947 200,Dach,1.3.4,FLUR-1-4,boundary_mehrere,,37.51,-0.05,7.75,3,10,2,2
+1AzIoU5STAiwimFC_xxhfF,IfcSlab,IfcSlab,Dach-4,Aluminium 587913947 200,Dach,2.3.2,ZIMMER-2-4,boundary_mehrere,,45.015,-0.05,7.75,3,10,2,2
+0QF19AVT5FtwbUNxVuQlTH,IfcSlab,IfcSlab,Dach-3,Aluminium 587913947 200,Dach,3.3.1,ZIMMER-3-3,boundary_mehrere,,52.52,-0.05,7.75,3,10,2,2
+2$ekgy3GX8FApWQRYYwU_t,IfcSlab,IfcSlab,Dach-4,Aluminium 587913947 200,Dach,4.3.3,BAD / WC-4-1,boundary_mehrere,,60.025,-0.05,7.75,3,10,2,2
+26kJT26ej3NPFaeOpFPyS6,IfcStair,IfcStair,Kellertreppe-01,,KG,01.0.3,FLUR-01-1,bbox,,2.2,2.21,-2.81,1,10,1,1
+26BDoJJR1FHePpGVh8cUT3,IfcStair,IfcStair,Kellertreppe-02,,KG,02.0.3,FLUR-02-1,bbox,,9.705,2.21,-2.81,1,10,1,1
+3suS2IjjTFFQ$LB$aFEe0H,IfcStair,IfcStair,Kellertreppe-03,,KG,03.0.3,FLUR-03-1,bbox,,17.21,2.21,-2.81,1,10,1,1
+1y22KIc6T1yAtqFqylhpTs,IfcStair,IfcStair,Keller-Treppe-04,,KG,04.0.3,FLUR-04-1,bbox,,24.715,2.21,-2.81,1,10,1,1
+0oroRk3ur3MfFxCiMbvU8Z,IfcStair,IfcStair,Keller-Treppe-05,,KG,05.0.3,FLUR-05-1,bbox,,32.22,2.21,-2.81,1,10,1,1
+3ueKRIyo1EFxA71NCIUXnt,IfcStair,IfcStair,Kellertreppe-06,,KG,06.0.3,FLUR-06-1,bbox,,39.725,2.21,-2.81,1,10,1,1
+2poy0Rs_PAA8_MxNpUfhKp,IfcStair,IfcStair,Kellertreppe-07,,KG,07.0.3,FLUR-07-1,bbox,,47.23,2.21,-2.81,1,10,1,1
+1j$7ZnItf9w8NhsmNAVsUC,IfcStair,IfcStair,Kellertreppe-08,,KG,08.0.3,FLUR-08-1,bbox,,54.735,2.21,-2.81,1,10,1,1
+0uwvn0rsH3TwwO9ofSpG$Z,IfcStair,IfcStair,Kellertreppe-09,,KG,09.0.3,FLUR-09-1,bbox,,62.24,2.21,-2.81,1,10,1,1
+2sCZlN66z3VRHFYWiRyds2,IfcStair,IfcStair,Kellertreppe-10,,KG,10.0.3,FLUR-10-1,bbox,,69.745,2.21,-2.81,1,10,1,1
+2QdKt0EeDDihduxfDG8NT8,IfcStair,IfcStair,EG-Treppe-01,,EG,01.1.3,Flur-01-2,bbox,,2.2,2.21,-0.25,1,10,1,1
+0QL6xmUc54YQTL8_HTe$PR,IfcStair,IfcStair,EG-Treppe-02,,EG,02.1.3,FLUR-02-2,bbox,,9.705,2.21,-0.25,1,10,1,1
+3QuFvRNNbDWRsEhil9DPsO,IfcStair,IfcStair,EG-Treppe-04,,EG,04.1.3,FLUR-04-2,bbox,,24.715,2.21,-0.25,1,10,1,1
+1wkrvIms59MRradq0vI9vQ,IfcStair,IfcStair,EG-Treppe-03,,EG,03.1.3,Flur-03-2,bbox,,17.21,2.21,-0.25,1,10,1,1
+1KW$AVfrjEkB34OWNk8Cdy,IfcStair,IfcStair,EG-Treppe-05,,EG,05.1.3,FLUR-05-2,bbox,,32.22,2.21,-0.25,1,10,1,1
+0j2BPntubCLvFyPyFS3XrS,IfcStair,IfcStair,EG-Treppe-06,,EG,06.1.3,Flur-06-2,bbox,,39.725,2.21,-0.25,1,10,1,1
+1HA569_750YQ6p1wDgzt4W,IfcStair,IfcStair,EG-Treppe-07,,EG,07.1.3,FLUR-07-2,bbox,,47.23,2.21,-0.25,1,10,1,1
+3Ohp$OuUb3IhgebzR81n9X,IfcStair,IfcStair,EG-Treppe-09,,EG,10.1.3,FLUR-10-2,bbox,,62.24,2.21,-0.25,1,10,2,2
+2WCholb_92w9VGgEQcoe8M,IfcStair,IfcStair,EG-Treppe-08,,EG,08.1.3,Flur-08-2,bbox,,54.735,2.21,-0.25,1,10,1,1
+00g$7A$xj1Yw7$pz0Gu5Jl,IfcStair,IfcStair,EG-Treppe-10,,EG,10.1.3,FLUR-10-2,bbox,,69.745,2.21,-0.25,1,10,2,2
+0KmzPuWR16OeBClGLrbNUM,IfcStair,IfcStair,OG-1-Treppe-01,,1.OG,1.2.4,FLUR-1-3,bbox,,2.2,2.21,2.53,1,10,2,2
+1TvHaVzJ9Adeff_bvNBb2u,IfcStair,IfcStair,OG-1-Treppe-02,,1.OG,2.2.3,BAD / WC-2-1,bbox,,9.705,2.21,2.53,1,10,2,2
+3pVBj07CXCfOzKgRPWMAW4,IfcStair,IfcStair,OG-1-Treppe-03,,1.OG,3.2.3,BAD / WC-3-1,bbox,,17.21,2.21,2.53,1,10,2,2
+3IOQCxw_X6Ke2y0YTPcDfs,IfcStair,IfcStair,OG-1-Treppe-04,,1.OG,4.2.4,FLUR-4-3,bbox,,24.715,2.21,2.53,1,10,1,1
+3Q2l6$dVb38gEzYyvoCq8n,IfcStair,IfcStair,OG-1-Treppe-05,,1.OG,5.2.4,FLUR-5-3,bbox,,32.22,2.21,2.53,1,10,1,1
+35ekX5Yo1Dfukg3nu72L7e,IfcStair,IfcStair,OG-1-Treppe-06,,1.OG,1.2.4,FLUR-1-3,bbox,,39.725,2.21,2.53,1,10,2,2
+1jrsHyC71DBgnw9PDYFtiF,IfcStair,IfcStair,OG-1-Treppe-07,,1.OG,2.2.3,BAD / WC-2-1,bbox,,47.23,2.21,2.53,1,10,2,2
+2RUFxCtH97MPVZRusJ3kSL,IfcStair,IfcStair,OG-1-Treppe-09,,1.OG,4.2.3,BAD / WC-4-1,bbox,,62.24,2.21,2.53,1,10,1,1
+0GpcF2R9n4MQJi2Z0vVVYD,IfcStair,IfcStair,OG-1-Treppe-10,,1.OG,5.2.3,BAD / WC-5-1,bbox,,69.745,2.21,2.53,1,10,1,1
+3nW4x$Jg16U96R9aDX4eIB,IfcStair,IfcStair,OG-1-Treppe-08,,1.OG,3.2.3,BAD / WC-3-1,bbox,,54.735,2.21,2.53,1,10,2,2
+02X1pTKhD2MgD60u8O6hl$,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,3.404,7.035,2.53,120,60,,
+1EwbtvNAjB2P7I_64ppIEP,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,0.604,7.035,2.53,120,60,,
+3dAz3nKvbBY9kUdm3W0lFz,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,2.004,7.16,2.53,120,60,,
+2FkdsG0GPBCgAxcPAy$FVg,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,4.081,7.035,2.53,120,60,,
+2_tKbDAhb5zunA3sYW5whB,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,6.881,7.035,2.53,120,60,,
+2_JDJhVkP27f0PUJkIj0gz,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,5.481,7.16,2.53,120,60,,
+1jznCn0S5EdvLDE9vFzHfl,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,8.109,7.035,2.53,120,60,,
+0ag8H0Z_nB3wPsePIalmYo,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,10.909,7.035,2.53,120,60,,
+1Pd477SmP5IwsToru1h76J,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,9.509,7.16,2.53,120,60,,
+2KMObml110KQ8ysWTIZ6_r,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,11.586,7.035,2.53,120,60,,
+2ZB4oNOavDdgSVi9eb7T7D,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,14.386,7.035,2.53,120,60,,
+0upwkBl1D8CwNWxQgtPM1Q,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,12.986,7.16,2.53,120,60,,
+0Nhf0yx$v7rvL5j4dw_OFO,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,15.614,7.035,2.53,120,60,,
+2URUitPnf14BXVeZwXkAUQ,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,18.414,7.035,2.53,120,60,,
+1O6$soCefEg8vc_e0p$0B3,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,17.014,7.16,2.53,120,60,,
+1TL7b7TQv9teW5MUwP9u_p,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,19.091,7.035,2.53,120,60,,
+28spJNT0T4DB5p9Vl1CFYU,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,21.891,7.035,2.53,120,60,,
+0NhDLHLWfASwvrq_KABDHL,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,20.491,7.16,2.53,120,60,,
+0SxFOZ0vn4ex7fNw3qLXoY,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,23.119,7.035,2.53,120,60,,
+0RGw7hqk9B18IgpN2dBSU1,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,25.919,7.035,2.53,120,60,,
+2GJoRt4Cf6MOrL8tVngvLb,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,24.519,7.16,2.53,120,60,,
+36TP_oZoH3OgYcRBDvDdef,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,26.596,7.035,2.53,120,60,,
+1e2YQirBv33A52a67od3PY,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,29.396,7.035,2.53,120,60,,
+24q6cxdyDEP9Sy_zGZb4tT,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,27.996,7.16,2.53,120,60,,
+1qs84RtbLEW8eu6RSgGrL7,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,30.624,7.035,2.53,120,60,,
+31JHYH5yHAq9t4jXpmXVKa,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,33.424,7.035,2.53,120,60,,
+1oN79j6wX1BuUQ1eHR7Sad,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,32.024,7.16,2.53,120,60,,
+1TSeyg75D9POzX3erf_YWT,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,34.101,7.035,2.53,120,60,,
+0TLm7hwrH91gS7Rc0KDup6,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,36.901,7.035,2.53,120,60,,
+0FLhJQ6wL5qB0i6rYYxKDc,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,35.501,7.16,2.53,120,60,,
+3qwDrsE_50dA7841zv0zrZ,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,40.929,7.035,2.53,120,60,,
+0ssMoL8jr5BADz8Xk9xCRB,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,38.129,7.035,2.53,120,60,,
+3v2wXJhI9D4xW$bTaPGJsc,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,39.529,7.16,2.53,120,60,,
+2_sOZeUcrCphtqtTI_aomf,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,41.606,7.035,2.53,120,60,,
+2SvXYXbZTFnhb4kOT$P4Sk,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,44.406,7.035,2.53,120,60,,
+0pbdOXo192MeIprbeMD732,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,43.006,7.16,2.53,120,60,,
+0P4Im8yZH0iwf_4owxapmu,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,45.634,7.035,2.53,120,60,,
+0TveUiOLT2ug$U_SRciSi$,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,48.434,7.035,2.53,120,60,,
+38yVfMSt93Og8pF$4pF4TG,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,47.034,7.16,2.53,120,60,,
+2BydfVg8n1ivTzBDxojJCA,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,49.111,7.035,2.53,120,60,,
+2V1uxqM2f6I8FXoLd3rHc1,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,51.911,7.035,2.53,120,60,,
+1cRJq$B7r64eZx3Cb$8TfF,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,50.511,7.16,2.53,120,60,,
+3MqqIDf$j1_RgESzX0eA$N,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,53.139,7.035,2.53,120,60,,
+0rImiYr691hutyGow9xAAP,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,55.939,7.035,2.53,120,60,,
+2UfY8Sr0D3ghdLaxQ_w_D0,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,54.539,7.16,2.53,120,60,,
+3X7Cr$nSnA5vhj8omBUi6P,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,56.616,7.035,2.53,120,60,,
+0fTbRwasr5agTyM6fzp04z,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,59.416,7.035,2.53,120,60,,
+1YEK4YWEPBcu8KIsmY8snL,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,58.016,7.16,2.53,120,60,,
+24860ZGTj74RFQI3pVvFir,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,60.644,7.035,2.53,120,60,,
+3cuTVRADHBQgpiS8P8y_TJ,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,63.444,7.035,2.53,120,60,,
+0WDPygqL9BeBNNWR4xv6b7,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,62.044,7.16,2.53,120,60,,
+1nVrzg3sz28gi_Jq0KqUic,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,64.121,7.035,2.53,120,60,,
+2lFJaXK8n2suee7YbCr7$Y,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,66.921,7.035,2.53,120,60,,
+2mNfF58PfBZPCX$hoVutEh,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,65.521,7.16,2.53,120,60,,
+2H_ecZlF1E7PRHG7sWYowk,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,68.149,7.035,2.53,120,60,,
+2XQnjYo5fC4Q7PErT7YOWh,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,70.949,7.035,2.53,120,60,,
+1tLRnlZqL6H8zNbXKMwOdE,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,69.549,7.16,2.53,120,60,,
+39LX8yNqX4rPcqZp8VSHHu,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,71.626,7.035,2.53,120,60,,
+0DcM85oY573uw3NFZvLX4l,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,74.426,7.035,2.53,120,60,,
+3PD9qfqVn4JxdWg5njew4z,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,1.OG,,,,,73.026,7.16,2.53,120,60,,
+3XM7IhXuH9bunWA6pEXNZl,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,34.101,7.035,5.23,120,60,,
+01ttsscmb6eRHz_hquVqfK,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,36.901,7.035,5.23,120,60,,
+3CzoUQ0xL9JPiF1GmUvvNQ,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,35.501,7.16,5.23,120,60,,
+16dIuUT9zFTw2UwswPYF_3,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,30.624,7.035,5.23,120,60,,
+1ERCUgHRLFkeS0oOZI2Lg2,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,33.424,7.035,5.23,120,60,,
+0Swq3lx7z3mRRa1ZL0B1GY,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,32.024,7.16,5.23,120,60,,
+3k88YTBoLFyfVr49249GZg,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,26.596,7.035,5.23,120,60,,
+3KeHBZOlT9X86fK4UF0McM,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,29.396,7.035,5.23,120,60,,
+2JAG51X1f21uHnNJBEdcKp,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,27.996,7.16,5.23,120,60,,
+0tInHfmU94axPEHqp$N77m,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,23.119,7.035,5.23,120,60,,
+3IbTcllUz2MwFeV_a1hUSU,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,25.919,7.035,5.23,120,60,,
+22PirEr$1AywdiZMAFKkGl,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,24.519,7.16,5.23,120,60,,
+1dQqolw_fF3BIUUqutvAqv,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,19.091,7.035,5.23,120,60,,
+0mKfuQumX7hQRmcCJDTRhB,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,21.891,7.035,5.23,120,60,,
+0UP4gm8gL5bPSMe8Z9TqlD,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,20.491,7.16,5.23,120,60,,
+25vGUc6Pn1Y9Rr1$Sx76Bj,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,15.614,7.035,5.23,120,60,,
+3dy6B8kk53DfJZxI94vckP,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,18.414,7.035,5.23,120,60,,
+1jZlicmTT16R2xbJftyGu3,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,17.014,7.16,5.23,120,60,,
+3dGSCQIzX6k8viftTAZ8cu,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,11.586,7.035,5.23,120,60,,
+3mHxV9KsL8dOKQfUr$QwSF,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,14.386,7.035,5.23,120,60,,
+00RtxAlnLDpQATbOOXLbd0,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,12.986,7.16,5.23,120,60,,
+0PUdxLvnvE6eyA1yckwL$0,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,8.109,7.035,5.23,120,60,,
+1oxx4C9rLC$xC5BXeJItbi,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,10.909,7.035,5.23,120,60,,
+1VxXUQf6jFdwsz79dV7fm6,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,9.509,7.16,5.23,120,60,,
+2iroEnUV95CQskTU4K40tj,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,4.081,7.035,5.23,120,60,,
+3vOxwhp$XAIOEylhHHf3nl,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,6.881,7.035,5.23,120,60,,
+2yHOUmFsH3ThRsNenmGEsQ,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,5.481,7.16,5.23,120,60,,
+3yZ2TGXbPDRRaYmLpoWXlS,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,0.604,7.035,5.23,120,60,,
+2V8ckw_LH3lxeSjdaD8W7i,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,3.404,7.035,5.23,120,60,,
+0znLA0jm1DEAZtIUdzUebB,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,2.004,7.16,5.23,120,60,,
+2ShCBbmtfB$wjuKthSJbEc,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,71.626,7.035,5.23,120,60,,
+0tcosQ0iLDHumKCWracNcy,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,74.426,7.035,5.23,120,60,,
+2zlRsihsP1aRI5Rn$dG3FU,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,73.026,7.16,5.23,120,60,,
+1rJJEYXuP5tAIo69bIBLFT,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,68.149,7.035,5.23,120,60,,
+1nKpnLHzX79REd_t1kTFiX,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,70.949,7.035,5.23,120,60,,
+2LWzHEFafFeRytsJ6axUxF,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,69.549,7.16,5.23,120,60,,
+2r04cDTMn3Shcqz8TMLvLS,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,64.121,7.035,5.23,120,60,,
+000JXBVX50nRaUSsIPbAgF,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,66.921,7.035,5.23,120,60,,
+3MyM330DH8WBZ$SVhNAku_,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,65.521,7.16,5.23,120,60,,
+0mPvDhkCvCwOiSQdDZc0JF,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,60.644,7.035,5.23,120,60,,
+2Qs1dOhnLDKh4$587vip5k,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,63.444,7.035,5.23,120,60,,
+1AwF6t7258vP$MB_OP6U_F,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,62.044,7.16,5.23,120,60,,
+0NO5aXZZ9EDxv7AVGRc3lH,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,56.616,7.035,5.23,120,60,,
+0RlBmpFjT8kuKYSLVzneD$,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,59.416,7.035,5.23,120,60,,
+3Cf1lBy859JBKKkvqe2l9n,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,58.016,7.16,5.23,120,60,,
+07u3L$JTbEMQX7KFtZ0FDa,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,53.139,7.035,5.23,120,60,,
+1W2RTPc$v638HjAmDPr4Nq,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,55.939,7.035,5.23,120,60,,
+220wI3DBXETQg8d6OQPLfD,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,54.539,7.16,5.23,120,60,,
+1YB3uJ8_LFqwWPYPMrBJld,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,49.111,7.035,5.23,120,60,,
+2CHXOr4T1FjgCSwzWPMgLW,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,51.911,7.035,5.23,120,60,,
+2esPaWAAjFQfve9NiVuyHa,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,50.511,7.16,5.23,120,60,,
+3c5QllxIfCY9l7C$vZlW3Y,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,45.634,7.035,5.23,120,60,,
+3f0KDtojvAKOSEVFWp79Fh,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,48.434,7.035,5.23,120,60,,
+1Uy0dl55n9WeleBZSycP1F,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,47.034,7.16,5.23,120,60,,
+3aPw$E6GL5B88Py3PpBII3,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,41.606,7.035,5.23,120,60,,
+04JB_ZGcL6u9SnhVH4Zh$7,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,44.406,7.035,5.23,120,60,,
+3iC3$6URL8k8rzWviZ30Lq,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,43.006,7.16,5.23,120,60,,
+2tQ9i4agnCRPAjHhFcFeNK,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,38.129,7.035,5.23,120,60,,
+2AbsaWrbf6MAcXKmQZ3G3Z,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,40.929,7.035,5.23,120,60,,
+29fbN6Ca9Aa8JWAW9ZHf6V,IfcRailing,IfcRailing,Gelaender-1-1a,Geländer_Vert_gerade 11,2.OG,,,,,39.529,7.16,5.23,120,60,,
