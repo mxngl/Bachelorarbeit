@@ -472,7 +472,10 @@ def main(argv=None) -> int:
     ap.add_argument("--locator-model")
     ap.add_argument("--generator-model")
     ap.add_argument("--no-think", action="store_true", help="Thinking abschalten (Qwen3-Familie)")
-    ap.add_argument("--rounds", type=int, default=3)
+    ap.add_argument("--rounds", type=int, default=3,
+                    help="Höchstzahl der Versuche je Aufgabe (1 = Reparaturschleife aus)")
+    ap.add_argument("--no-validators", action="store_true",
+                    help="Ablation: Structural und Semantic–Geometric Validator überspringen (Executor und Reconstruction laufen weiter)")
     ap.add_argument("--log", default="runs.jsonl", help="JSONL: ein Eintrag je Aufgabe (TaskResult)")
     ap.add_argument("--llm-log", default=None, help="JSONL: jeder LLM-Aufruf (Standard: <log>.llm.jsonl)")
     ap.add_argument("--neo4j", action="store_true")
@@ -499,7 +502,7 @@ def main(argv=None) -> int:
     store = (o.Neo4jStore(a.uri, a.user, a.password, a.database, source) if a.neo4j
              else o.MemoryStore(r.snapshot_from_ifc(model, source), schema))
     orch = o.Orchestrator(a.ifc, store, locator=LlmLocator(loc, schema), generator=LlmGenerator(gen),
-                          max_rounds=a.rounds, keep=False, log_path=a.log)
+                          max_rounds=a.rounds, keep=False, log_path=a.log, validate=not a.no_validators)
     tasks = json.load(open(a.tasks, encoding="utf-8"))
     n_ok = 0
     try:

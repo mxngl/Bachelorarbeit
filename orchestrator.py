@@ -215,7 +215,8 @@ class TaskResult:
 class Orchestrator:
     def __init__(self, ifc_path: str, store, locator: LocatorBase | None = None, generator: GeneratorBase | None = None,
                  max_rounds: int = 3, keep: bool = False, log_path: str | None = None,
-                 executor_factory: Callable | None = None):
+                 executor_factory: Callable | None = None, validate: bool = True):
+        self.validate = validate    # False: Structural und Semantic–Geometric Validator werden übersprungen (Ablation)
         self.ifc_path = ifc_path
         self.source = os.path.basename(ifc_path)
         self.store = store
@@ -246,8 +247,8 @@ class Orchestrator:
             res.seconds = time.time() - t_task
             self._log(res)
             return res
-        structural = sv.StructuralValidator(self.schema, prev)
-        semantic = self._semantic()
+        structural = sv.StructuralValidator(self.schema, prev) if self.validate else None
+        semantic = self._semantic() if self.validate else None
         feedback: list[str] = []
         for n in range(1, self.max_rounds + 1):
             rd = RoundLog(n)
@@ -288,12 +289,13 @@ class Orchestrator:
 
             t = time.time()
             snap = self.store.snapshot()                               # aus derselben Transaktion
-            srep = structural.validate(snap, op)
-            rd.seconds["structural"] = time.time() - t
-            rd.structural = srep.summary()
-            if not srep.ok:
-                rd.stage_failed = "structural"
-                return False, "fail: " + srep.feedback()
+            if self.validate:
+                srep = structural.validate(snap, op)
+                rd.seconds["structural"] = time.time() - t
+                rd.structural = srep.summary()
+                if not srep.ok:
+                    rd.stage_failed = "structural"
+                    return False, "fail: " + srep.feedback()
 
             t = time.time()
             model = ifcopenshell.open(self.ifc_path)
@@ -301,13 +303,14 @@ class Orchestrator:
             r.apply_diff(model, self.base_snapshot, snap, diff)
             rd.seconds["reconstruct"] = time.time() - t
 
-            t = time.time()
-            grep = semantic.validate(model, op)
-            rd.seconds["semantic"] = time.time() - t
-            rd.semantic = grep.summary()
-            if not grep.ok:
-                rd.stage_failed = "semantic"
-                return False, "fail: " + grep.feedback()
+            if self.validate:
+                t = time.time()
+                grep = semantic.validate(model, op)
+                rd.seconds["semantic"] = time.time() - t
+                rd.semantic = grep.summary()
+                if not grep.ok:
+                    rd.stage_failed = "semantic"
+                    return False, "fail: " + grep.feedback()
 
             out = self._out_path()
             model.write(out)
